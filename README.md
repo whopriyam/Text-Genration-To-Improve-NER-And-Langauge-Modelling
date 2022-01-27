@@ -4,6 +4,8 @@ The aim of this project is to imrpove the performance and accuracy in NER and LM
 
 The data folder has train, test and full data csv files. Perform all training/generation/augmentation on the train set and for evaluation, use the test set.
 
+create_templates.py can be run to generate thrax templates.
+
 Install the following libraries to run the Pegasus code:
 
 ``` !pip install sentence-splitter```
