@@ -13,33 +13,6 @@ data.to_csv("Interim.csv")
 
 data2 = pd.DataFrame(columns=["Sentence #","Word","Tag"])
 
-# sentence_str = data.at[0,"Word"] + " "
-# tag_temp = data.at[0,"Tag"]
-# data2.at[0,"Sentence #"] = "Sentence: " + str(1)
-# # data2.at[0,"Word"] = data.at[0,"Word"] 
-# # data2.at[0,"Tag"] = data.at[0,"Tag"]
-# c = 0
-# new_in = 2
-# for i in range(1,len(data)):
-#     print (i)
-#     print (str(data.at[i,"Word"]))
-#     print (str(data.at[i,"Sentence #"]))
-#     if "Sentence" in str(data.at[i,"Sentence #"]):
-#         data2.at[c+3,"Sentence #"] = "Sentence: " + str(new_in)
-#         new_in = new_in + 1
-
-#     if data.at[i,"Tag"] == tag_temp:
-#         if  "Sentence" not in str(data.at[i,"Sentence #"]):
-#             sentence_str = sentence_str + data.at[i,"Word"] + " "
-        
-#     else:
-#         #data2.at[c,"Sentence #"] = data.at[i,"Sentence #"]
-#         data2.at[c,"Word"] = sentence_str
-#         data2.at[c,"Tag"] = tag_temp
-#         sentence_str = data.at[i,"Word"] + " "
-#         tag_temp = data.at[i,"Tag"]
-#         c = c+1
-
 c = 1
 new_ind = 2
 sentence_str = data.at[0,"Word"] + " "
