@@ -1,3 +1,11 @@
+'''
+The purpose of this script is to generate augmentations of input text using Pegasus.
+
+Created by Priyam Basu (July-Dec 2022)
+
+'''
+
+
 import pandas as pd
 import time
 import torch
@@ -6,13 +14,15 @@ import re
 
 data = pd.read_csv("data/GMB_train.csv",encoding='unicode_escape')
 
+#Removing B-I tags and full stop
 data["Tag"] = data["Tag"].str.replace("B-", "")
 data["Tag"] = data["Tag"].str.replace("I-", "")
 
-#Removing .
 data = data[~data["Word"].isin(["."])]
 data = data.reset_index(inplace = False,drop=True)
 
+
+#Adding correct sentence numbers
 sentence_num = data.at[0,"Sentence #"]
 for i in data.index:
     
@@ -21,15 +31,15 @@ for i in data.index:
     else:
         data.at[i,"Sentence #"] = sentence_num
 
-#PEGASUS Transformer model
 
+#PEGASUS Transformer model
 model_name = 'tuner007/pegasus_paraphrase'
 torch_device = 'cuda' if torch.cuda.is_available() else 'cpu'
 tokenizer = PegasusTokenizer.from_pretrained(model_name)
 model = PegasusForConditionalGeneration.from_pretrained(model_name).to(torch_device)
 
  
-#setting up the model
+#Setting up the model
 def get_response(input_text,num_return_sequences):
   batch = tokenizer.prepare_seq2seq_batch([input_text],truncation=True,padding='longest',max_length=60, return_tensors="pt").to(torch_device)
   translated = model.generate(**batch,max_length=60,num_beams=10, num_return_sequences=num_return_sequences, temperature=1.5)
@@ -40,6 +50,7 @@ col_list = ["Sentence #","Original_Sentence","T1","T2","T3","T4","T5"]
 data2 = pd.DataFrame(columns=col_list)
 
 
+#Generating augmentations
 time1 = time.time()
 c = 0
 

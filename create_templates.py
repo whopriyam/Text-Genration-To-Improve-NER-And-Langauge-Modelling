@@ -1,3 +1,11 @@
+'''
+The purpose of this script is to generate Thrax templates of CSV datasets
+
+Created by Priyam Basu (July-Dec 2022)
+
+'''
+
+
 import pandas as pd
 data = pd.read_csv("ner_dataset.csv", encoding= 'unicode_escape')
 #Removing BIO tags
