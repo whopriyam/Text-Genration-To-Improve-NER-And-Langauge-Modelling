@@ -1,0 +1,750 @@
+import 'example.grm' as tk;
+import 'numbers.grm' as numbers;
+
+
+Var_geos = StringFile['txt_resource_files/geo.txt'];
+Var_geo_REWRITTEN = Optimize[Var_geos @ tk.TOKENIZER];
+Var_geo =  " <geo> " Var_geo_REWRITTEN " </geo> ";
+
+Var_arts = StringFile['txt_resource_files/art.txt'];
+Var_art_REWRITTEN = Optimize[Var_arts @ tk.TOKENIZER];
+Var_art =  " <art> " Var_art_REWRITTEN " </art> ";
+
+Var_eves = StringFile['txt_resource_files/eve.txt'];
+Var_eve_REWRITTEN = Optimize[Var_eves @ tk.TOKENIZER];
+Var_eve =  " <eve> " Var_eve_REWRITTEN " </eve> ";
+
+Var_gpes = StringFile['txt_resource_files/gpe.txt'];
+Var_gpe_REWRITTEN = Optimize[Var_gpes @ tk.TOKENIZER];
+Var_gpe =  " <gpe> " Var_gpe_REWRITTEN " </gpe> ";
+
+Var_nats = StringFile['txt_resource_files/nat.txt'];
+Var_nat_REWRITTEN = Optimize[Var_nats @ tk.TOKENIZER];
+Var_nat =  " <nat> " Var_nat_REWRITTEN " </nat> ";
+
+Var_orgs = StringFile['txt_resource_files/org.txt'];
+Var_org_REWRITTEN = Optimize[Var_orgs @ tk.TOKENIZER];
+Var_org =  " <org> " Var_org_REWRITTEN " </org> ";
+
+Var_pers = StringFile['txt_resource_files/per.txt'];
+Var_per_REWRITTEN = Optimize[Var_pers @ tk.TOKENIZER];
+Var_per =  " <per> " Var_per_REWRITTEN " </per> ";
+
+Var_tims = StringFile['txt_resource_files/tim.txt'];
+Var_tim_REWRITTEN = Optimize[Var_tims @ tk.TOKENIZER];
+Var_tim =  " <tim> " Var_tim_REWRITTEN " </tim> ";
+
+
+
+
+export GMBSENT =   ( " <O> Thousands of demonstrators have marched through  </O> " Var_geo " <O> to protest the war in  </O> " Var_geo " <O> and demand the withdrawal of  </O> " Var_gpe " <O> troops from that country  </O> " ) |
+
+								( " <O> They marched from the Houses of Parliament to a rally in  </O> " Var_geo ) |
+
+								( Var_geo " <O> put the number of marchers at 10,000 while organizers claimed it was 1,00,000  </O> " ) |
+
+								( " <O> The protest comes on the eve of the annual conference of  </O> " Var_geo " <O> 's ruling  </O> " Var_org " <O> in the southern  </O> " Var_gpe " <O> seaside resort of  </O> " Var_geo ) |
+
+								( Var_geo " <O> party is divided over  </O> " Var_gpe " <O> 's participation in the  </O> " Var_geo " <O> conflict and the continued deployment of 8,500  </O> " Var_gpe " <O> troops in that country  </O> " ) |
+
+								( " <O> The  </O> " Var_geo " <O> march came ahead of anti-war protests today in other cities , including  </O> " Var_geo " <O> ,  </O> " Var_geo " <O> , and  </O> " Var_geo ) |
+
+								( Var_geo Var_org " <O> is to hold second day of talks in  </O> " Var_geo Var_tim " <O> on how to respond to  </O> " Var_gpe " <O> 's resumption of low-level uranium conversion  </O> " ) |
+
+								( " <O> Iran this week restarted parts of the conversion process at its  </O> " Var_geo " <O> nuclear plant  </O> " ) |
+
+								( " <O> Iranian officials say they expect to get access to sealed sensitive parts of the plant  </O> " Var_tim " <O> , after an  </O> " Var_org " <O> surveillance system begins functioning  </O> " ) |
+
+								( " <O> The step will allow the facility to operate at full capacity  </O> " ) |
+
+								( " <O> The  </O> " Var_org " <O> , with  </O> " Var_gpe " <O> backing , has threatened to refer  </O> " Var_gpe " <O> to the  </O> " Var_org " <O> , which could impose sanctions if it finds  </O> " Var_gpe " <O> has violated the  </O> " Var_art " <O> treaty  </O> " ) |
+
+								( " <O> Iran 's new  </O> " Var_per " <O> said  </O> " Var_tim " <O> that  </O> " Var_gpe " <O> incentives aimed at persuading  </O> " Var_gpe " <O> to end its nuclear fuel program are an insult to the  </O> " Var_gpe " <O> nation  </O> " ) |
+
+								( " <O> Two  </O> " Var_gpe " <O> and four  </O> " Var_gpe " <O> oil workers were kidnapped by armed militants during a raid on a boat in  </O> " Var_geo " <O> 's southern oil-rich  </O> " Var_geo " <O> region  </O> " ) |
+
+								( " <O> An official with the  </O> " Var_gpe " <O> firm  </O> " Var_org " <O> ,  </O> " Var_per " <O> , said the gunmen stopped the supply boat  </O> " Var_tim " <O> as it sailed from  </O> " Var_geo " <O> to  </O> " Var_geo " <O> to inspect an offshore oil field owned by  </O> " Var_org ) |
+
+								( Var_org Var_gpe " <O> firm works as a sub-contractor for  </O> " Var_org ) |
+
+								( Var_org " <O> groups frequently attack oil operations in the  </O> " Var_geo " <O> to demand social services and better job opportunities from multinational companies  </O> " ) |
+
+								( " <O> Poor residents often complain they have been cheated out of the huge riches extracted from their tribal lands - where the bulk of  </O> " Var_gpe " <O> 's 2.3 million barrels of petroleum are pumped daily  </O> " ) |
+
+								( " <O> Suspected Islamist rebels have fired mortar shells at the palace used by  </O> " Var_geo " <O> 's interim  </O> " Var_per ) |
+
+								( Var_per " <O> was not immediately clear if the president was in the palace in  </O> " Var_geo " <O> when the attack occurred or if anyone was hurt  </O> " ) |
+
+								( " <O> Local news reports said at least five mortar shells hit the palace compound and other mortars were fired elsewhere in  </O> " Var_geo Var_tim ) |
+
+								( Var_tim " <O> attacks occurred after the government said it will go ahead with a reconciliation conference to which more than 1,300  </O> " Var_gpe " <O> elders , warlords and politicians are invited  </O> " ) |
+
+								( " <O> Iraqi military officials say tanks and troops have arrived in the northern city  </O> " Var_geo " <O> for a new offensive against  </O> " Var_org " <O> fighters  </O> " ) |
+
+								( " <O> Officials will not say how many troops have arrived in the  </O> " Var_geo " <O> and  </O> " Var_geo " <O> city , where bombings last week killed at least 34 people and wounded more than 200  </O> " ) |
+
+								( " <O> U.S. commanders have not explained how  </O> " Var_gpe " <O> forces will participate in the offensive  </O> " ) |
+
+								( " <O> Officials say  </O> " Var_org " <O> fighters have fled successful campaigns against them in  </O> " Var_geo " <O> province and  </O> " Var_geo " <O> to other northern provinces  </O> " ) |
+
+								( " <O> Mosul is the largest city north of  </O> " Var_geo " <O> and has long been a stronghold of  </O> " Var_org " <O> militant fighters  </O> " ) |
+
+								( " <O> In other violence ,  </O> " Var_gpe " <O> officials said one  </O> " Var_gpe " <O> soldier was killed while on patrol in  </O> " Var_geo Var_tim ) |
+
+								( Var_tim " <O> police have arrested at least 16 members of the opposition  </O> " Var_org " <O> as parts of the country prepare for parliamentary runoff elections  </O> " Var_tim ) |
+
+								( Var_tim " <O> arrests occurred  </O> " Var_tim " <O> in  </O> " Var_geo ) |
+
+								( Var_geo " <O> spokesman for the  </O> " Var_org " <O> said the arrests are an attempt to cut the  </O> " Var_org " <O> off from its supporters and punishment for winning parliamentary seats in earlier elections  </O> " ) |
+
+								( " <O> The  </O> " Var_org " <O> has tripled its strength in parliament in recent elections , raising the party 's total to 47 seats  </O> " ) |
+
+								( " <O> In  </O> " Var_tim " <O> elections , voters will cast ballots in nine provinces where no candidate won a majority in the previous round of voting  </O> " ) |
+
+								( " <O> The  </O> " Var_org " <O> is banned as a political party , but it endorses so-called independent candidates whose allegiance to the party is known to voters  </O> " ) |
+
+								( " <O> Hardline lawmakers in  </O> " Var_geo " <O> 's  </O> " Var_geo " <O> have pushed through a law that aims to ensure Islamic correctness in public places and establishes a morality police to enforce decent behavior  </O> " ) |
+
+								( " <O> A six-party coalition of religious based parties , the  </O> " Var_org " <O> , dominates the provincial assembly , so the bill was easily passed  </O> " Var_tim " <O> by a vote of 68-34  </O> " ) |
+
+								( " <O> The provincial governor must still sign the bill before it becomes law , a step seen only as a formality  </O> " ) |
+
+								( " <O> The proposed law calls for setting up a religious police force to make sure people adhere to Islamic values in public places , and entertainment outlets close during weekly  </O> " Var_tim " <O> prayers  </O> " ) |
+
+								( " <O> Violators could be jailed for up to six months  </O> " ) |
+
+								( " <O> The opposition has denounced the measure , comparing it to the draconian rule of the former  </O> " Var_org " <O> in neighboring  </O> " Var_geo ) |
+
+								( Var_geo " <O> police say they have arrested a man who dressed as suicide bomber at a demonstration against the publication of cartoons depicting  </O> " Var_org " <O> 's  </O> " Var_per ) |
+
+								( Var_per " <O> police said  </O> " Var_tim " <O> that  </O> " Var_per " <O> was arrested in  </O> " Var_geo " <O> for breaching the conditions of his parole  </O> " ) |
+
+								( " <O> Police said the  </O> " Var_org " <O> sought an investigation of  </O> " Var_per " <O> 's behavior after he was photographed last week at a demonstration dressed in fatigues , a black cap , and a bulky belt  </O> " ) |
+
+								( " <O> A  </O> " Var_org " <O> spokesman told the  </O> " Var_org " <O> that if the behavior of a paroled offender gives cause for concern , he can be sent back to prison  </O> " ) |
+
+								( " <O> The  </O> " Var_org " <O> also reports  </O> " Var_per " <O> has been on parole from prison since last year after serving half his six-year sentence for drug dealing  </O> " ) |
+
+								( " <O> Pakistani officials say unidentified gunmen have killed three people , including a former government minister , in a semi-autonomous tribal region bordering  </O> " Var_geo ) |
+
+								( Var_geo " <O> officials say prominent tribal leader  </O> " Var_per " <O> was traveling in  </O> " Var_geo Var_tim " <O> when his vehicle was ambushed in the  </O> " Var_geo " <O> area  </O> " ) |
+
+								( " <O> His driver and a tribal elder were also killed  </O> " ) |
+
+								( " <O> No one has claimed responsibility for the killings  </O> " ) |
+
+								( " <O> The ambush came a day after a commander of  </O> " Var_gpe " <O> troops said the army has almost completely eliminated militants in  </O> " Var_geo ) |
+
+								( Var_geo " <O> area became a refuge for many  </O> " Var_org " <O> and  </O> " Var_org " <O> fighters after the  </O> " Var_org " <O> government was ousted in  </O> " Var_geo " <O> in  </O> " Var_tim ) |
+
+								( Var_tim " <O> senior  </O> " Var_gpe " <O> military official says  </O> " Var_gpe " <O> wants to put what he calls the sordid chapter of proliferation by one of its top scientists behind it and build civilian nuclear ties with the  </O> " Var_gpe ) |
+
+								( Var_gpe " <O> he says  </O> " Var_gpe " <O> is not ready to make the nuclear scientist ,  </O> " Var_per " <O> , available for direct questioning over his sale of nuclear parts and secrets to states including  </O> " Var_gpe " <O> ,  </O> " Var_gpe " <O> and  </O> " Var_gpe ) |
+
+								( Var_gpe " <O> said there are reasons of national sensitivities for not making him available  </O> " ) |
+
+								( " <O> The  </O> " Var_gpe " <O> official was giving a background briefing to a small group of reporters in  </O> " Var_geo ) |
+
+								( Var_geo " <O> admitted in  </O> " Var_tim " <O> that he operated a worldwide clandestine network to sell nuclear technology in the black market  </O> " ) |
+
+								( " <O> He was placed under house arrest in  </O> " Var_geo " <O> , but not jailed because he is considered the father of  </O> " Var_geo " <O> 's nuclear bomb  </O> " ) |
+
+								( " <O> U.S.  </O> " Var_org " <O> officials said  </O> " Var_tim " <O> that they will not renew a controversial multi-billion dollar contract with the  </O> " Var_org " <O> company to provide logistical support to  </O> " Var_gpe " <O> troops in  </O> " Var_geo " <O> and elsewhere  </O> " ) |
+
+								( " <O> Halliburton has been providing a long list of services , from meals to communication , for the military for several years  </O> " ) |
+
+								( " <O> Critics of  </O> " Var_org " <O> include auditors and congressional Democrats  </O> " ) |
+
+								( " <O> They say the company has produced some shoddy work and charges too much money  </O> " ) |
+
+								( " <O> The company strongly denies the allegations  </O> " ) |
+
+								( " <O> When the huge contract is put out for re-bidding , several companies will get a chance to compete for portions of the work  </O> " ) |
+
+								( " <O> Representatives from the  </O> " Var_org " <O> are holding meetings this week to finalize their annual report for  </O> " Var_org " <O> leaders who will hold a summit on  </O> " Var_tim " <O> and  </O> " Var_tim ) |
+
+								( Var_tim " <O> 's  </O> " Var_per " <O> reports from  </O> " Var_geo ) |
+
+								( Var_geo " <O> , security , climate change , the  </O> " Var_org " <O> 's stalled negotiations , and investment are all expected to be among the major topics in the annual report of the  </O> " Var_org " <O> , known as  </O> " Var_org ) |
+
+								( Var_org Var_per " <O> , the chief economist of the  </O> " Var_org " <O> , says  </O> " Var_org " <O> plays an important role by informing governments where there are problems  </O> " ) |
+
+								( " <O>  The most important thing the business groups can do is to tell the governments where there are logjams , where there are obstacles , where things can improve , </O> " Var_per " <O> said  </O> " ) |
+
+								( " <O> I think actually  </O> " Var_org " <O> has played a pretty good leadership on that in talking about trade facilitation and basically making sure standards are consistent and harmonious across the region </O> " ) |
+
+								( " <O> ABAC comprises up to three members of the private sector of each of the 21 economies that make up  </O> " Var_org ) |
+
+								( Var_org " <O> meets three times a year  </O> " ) |
+
+								( " <O> It was made a permanent body in  </O> " Var_tim " <O> to provide an independent business perspective within  </O> " Var_org ) |
+
+								( Var_org " <O> represent a range of business sectors , including medium and small businesses  </O> " ) |
+
+								( " <O> ABAC says there is a need for businesses to improve energy efficiency and to encourage conservation practices , and is expected to include this in its annual report  </O> " ) |
+
+								( " <O> Harcourt , of the  </O> " Var_org " <O> , says the  </O> " Var_org " <O> report will also discuss ways to enhance regional cooperation  </O> " ) |
+
+								( " <O> I reckon they 'll talk a little bit about customs and quarantine , a little bit about having consistent security arrangements around the region , </O> " Var_per " <O> said  </O> " ) |
+
+								( " <O> And I think they 'll want a one-stop shop in terms of combining security , immigration , customs , and quarantine together just to make sure it 's more streamlined and provides more certainty </O> " ) |
+
+								( " <O> ABAC is the only non-governmental body that has an official role and formal dialogue with the leaders of the  </O> " Var_org " <O> economies  </O> " ) |
+
+								( " <O> It will present its annual report at the  </O> " Var_org " <O> leaders meeting on  </O> " Var_tim ) |
+
+								( Var_tim " <O> 's government says it will order troops to end attacks immediately in  </O> " Var_geo " <O> , and is asking rebels to do the same  </O> " ) |
+
+								( " <O> Foreign  </O> " Var_per " <O> says  </O> " Var_gpe " <O> troops will also withdraw to positions held before an  </O> " Var_tim " <O> cease-fire , if rebels in the western region agree to stop attacks  </O> " ) |
+
+								( " <O> Mr.  </O> " Var_per " <O> announced the decision after meeting with officials from the  </O> " Var_org " <O> and  </O> " Var_org " <O> in  </O> " Var_geo Var_tim ) |
+
+								( Var_tim " <O> recent weeks ,  </O> " Var_org " <O> officials say  </O> " Var_gpe " <O> troops and rebels have repeatedly violated the  </O> " Var_tim " <O> truce  </O> " ) |
+
+								( " <O> Saturday , the head of  </O> " Var_org " <O> forces in  </O> " Var_geo " <O> accused  </O> " Var_gpe " <O> government helicopters of bombing rebel sites in the  </O> " Var_geo " <O> village of  </O> " Var_geo ) |
+
+								( Var_geo " <O> says troops were defending their positions from rebel attacks  </O> " ) |
+
+								( " <O> Aid workers say some relief efforts have been suspended in  </O> " Var_geo " <O> due to recent attacks  </O> " ) |
+
+								( " <O> Indonesian police have arrested three men in connection with the  </O> " Var_tim Var_geo " <O> bombings that left 23 people dead  </O> " ) |
+
+								( " <O> Indonesian police said  </O> " Var_tim " <O> the men were flown to  </O> " Var_geo " <O> from neighboring  </O> " Var_geo " <O> island for questioning at  </O> " Var_geo " <O> police headquarters  </O> " ) |
+
+								( " <O> Australian and  </O> " Var_gpe " <O> news agencies say at least one of the men arrested (  </O> " Var_per " <O> ) was captured during a series of counter-terrorism raids last week in  </O> " Var_geo ) |
+
+								( Var_geo " <O> raids ended with the death of alleged extremist bombmaker  </O> " Var_per ) |
+
+								( Var_per " <O> authorities blame  </O> " Var_per " <O> for orchestrating last month's attacks in  </O> " Var_geo " <O> as well as the  </O> " Var_tim Var_geo " <O> bombings that killed more than 200 people  </O> " ) |
+
+								( " <O> Gunmen have shot and killed a  </O> " Var_org " <O> nun and her bodyguard at the hospital where she worked in Islamist-controlled  </O> " Var_geo " <O> ,  </O> " Var_geo ) |
+
+								( Var_geo " <O> witnesses to the  </O> " Var_tim " <O> shooting said they feared the attack was linked to Muslim anger toward  </O> " Var_per ) |
+
+								( Var_per " <O> men with pistols attacked the nun ,  </O> " Var_per " <O> , after she finished teaching a medical school class at the hospital in southern  </O> " Var_geo ) |
+
+								( Var_geo " <O> say one suspect was arrested  </O> " ) |
+
+								( " <O> In  </O> " Var_geo " <O> , a  </O> " Var_org " <O> spokesman deplored the attack and said he hoped it was an isolated event , and not irrationality arising from comments made by the Pope which angered some Muslims  </O> " ) |
+
+								( " <O> Authorities in  </O> " Var_geo " <O> have not determined a motive for the shooting  </O> " ) |
+
+								( " <O> The pope has said he meant no offense to Muslims when he quoted a 14 century  </O> " Var_per " <O> emperor as saying some teachings of the  </O> " Var_per " <O> brought evil to the world  </O> " ) |
+
+								( " <O> Pakistani forces have targeted militants in the northwest for a third day , launching airstrikes that they say killed at least nine suspected insurgents  </O> " ) |
+
+								( " <O> Helicopter gunships  </O> " Var_tim " <O> pounded militant hideouts in the  </O> " Var_geo " <O> tribal region , where many  </O> " Var_org " <O> militants are believed to have fled to avoid an earlier military offensive in nearby  </O> " Var_geo ) |
+
+								( Var_geo Var_gpe " <O> military launched its offensive in  </O> " Var_geo " <O> to hunt  </O> " Var_org " <O> insurgents  </O> " ) |
+
+								( " <O> So far , nearly 100 militants have been reported killed in the region since  </O> " Var_tim ) |
+
+								( Var_tim " <O> , five soldiers were killed when dozens of militants stormed a military checkpoint in  </O> " Var_geo ) |
+
+								( Var_geo " <O> least 32 suspected militants were killed when troops launched a counter-attack  </O> " ) |
+
+								( " <O> Elsewhere in the northwest , authorities on  </O> " Var_tim " <O> found the bodies of six people who had been shot dead in the  </O> " Var_geo " <O> region along the  </O> " Var_gpe " <O> border  </O> " ) |
+
+								( " <O> The six were kidnapped a few days ago  </O> " ) |
+
+								( " <O> The  </O> " Var_org " <O> military in  </O> " Var_geo " <O> says coalition forces killed 14  </O> " Var_org " <O> militants in separate clashes this week  </O> " ) |
+
+								( " <O> The military said  </O> " Var_tim " <O> 13 guerrillas were killed in two encounters in the central province of  </O> " Var_geo ) |
+
+								( Var_geo Var_gpe " <O> soldier was killed and four others , including a  </O> " Var_gpe " <O> soldier , were injured in the fighting  </O> " ) |
+
+								( " <O> Another militant was killed by  </O> " Var_gpe " <O> troops in eastern  </O> " Var_geo " <O> province  </O> " ) |
+
+								( " <O> Separately , officials say four  </O> " Var_gpe " <O> soldiers from the NATO-led peacekeeping mission were wounded early  </O> " Var_tim " <O> in an attack in the northern city of  </O> " Var_geo ) |
+
+								( Var_geo " <O> was not immediately clear what motivated the attack  </O> " ) |
+
+								( " <O> Taleban rebels are not known to operate in northern  </O> " Var_geo " <O> and the area has been spared much of the bloodshed that has plagued southern and eastern regions  </O> " ) |
+
+								( " <O> Russian officials say at least five more people have died from a wave of extremely cold weather gripping the nation , bringing the death toll to 43 in the past week  </O> " ) |
+
+								( " <O> Emergency medical officials say the five victims died in  </O> " Var_geo " <O> from exposure , and another 19 people are hospitalized with hypothermia  </O> " ) |
+
+								( " <O> Russia 's  </O> " Var_org " <O> news agency quotes a medical official as saying some of the victims were intoxicated or homeless  </O> " ) |
+
+								( " <O> The unusually cold weather is affecting  </O> " Var_geo " <O> , the  </O> " Var_geo " <O> of  </O> " Var_geo " <O> ,  </O> " Var_geo " <O> and  </O> " Var_geo " <O> , and is moving into the Nordic countries  </O> " ) |
+
+								( " <O> The death toll is expected to rise as temperatures continue to hover around minus 30 degrees Celsius or lower overnight  </O> " ) |
+
+								( " <O> Emergency power rationing has been put into effect around  </O> " Var_geo ) |
+
+								( Var_geo " <O> officials in  </O> " Var_geo " <O> say a deadly strain of the bird flu virus has killed a second  </O> " Var_gpe " <O> man this week , raising the country 's death toll from the virus to 50  </O> " ) |
+
+								( " <O> Officials say the 27-year old man from  </O> " Var_geo " <O> 's northern  </O> " Var_gpe " <O> province died late  </O> " Var_tim " <O> and tested positive for the  </O> " Var_nat " <O> strain of bird flu  </O> " ) |
+
+								( " <O> Officials say the man fell ill after slaughtering two chickens at his home  </O> " ) |
+
+								( " <O> He is the third person to die from avian influenza in  </O> " Var_geo " <O> this year  </O> " ) |
+
+								( " <O> Not counting the latest death , the  </O> " Var_org " <O> says 227 people around the world have died from bird flu since  </O> " Var_tim ) |
+
+								( Var_tim " <O> of the world 's cases , 103 , have occurred in  </O> " Var_geo ) |
+
+								( Var_geo " <O> in  </O> " Var_geo " <O> say insurgents have burned and dragged the bodies of at least two soldiers through the streets of  </O> " Var_geo " <O> , after a clash between militants and  </O> " Var_gpe " <O> forces killed seven people  </O> " ) |
+
+								( " <O> The violence erupted  </O> " Var_tim " <O> after insurgents attacked  </O> " Var_gpe " <O> tanks rolling through an insurgent stronghold near the headquarters of the former  </O> " Var_org " <O> in southern  </O> " Var_geo ) |
+
+								( Var_geo " <O> say the  </O> " Var_gpe " <O> troops returned heavy fire and that several people were wounded in the fighting  </O> " ) |
+
+								( " <O> Ethiopia deployed soldiers to  </O> " Var_geo " <O> last  </O> " Var_tim " <O> to help the interim government push an Islamist movement from power  </O> " ) |
+
+								( " <O> Somalia 's internationally-recognized government has since been struggling to contain regular outbursts of violence by fighters loyal to the fallen  </O> " Var_org " <O> movement  </O> " ) |
+
+								( " <O> The  </O> " Var_org " <O> has deployed troops to  </O> " Var_geo " <O> to replace the  </O> " Var_gpe " <O> forces , which  </O> " Var_gpe " <O> plans to withdraw  </O> " ) |
+
+								( " <O> Top  </O> " Var_gpe " <O> negotiator  </O> " Var_per " <O> says  </O> " Var_gpe " <O> and  </O> " Var_gpe " <O> mediators have agreed to prepare a document outlining their progress toward a peace accord  </O> " ) |
+
+								( " <O> In remarks to reporters ,  </O> " Var_per " <O> said the two sides agreed during recent meetings to begin writing out their positions on all issues discussed during peace negotiations  </O> " ) |
+
+								( " <O> He did not elaborate on why negotiators had come to the decision  </O> " ) |
+
+								( " <O> Israeli  </O> " Var_per " <O> and  </O> " Var_gpe Var_per " <O> resumed U.S.-brokered peace talks last  </O> " Var_tim " <O> , but progress has been slow  </O> " ) |
+
+								( " <O> The two sides have expressed hope at reaching a peace deal before  </O> " Var_gpe Var_per " <O> leaves office early next year  </O> " ) |
+
+								( " <O> But  </O> " Var_per " <O> said  </O> " Var_tim " <O> that reaching a peace agreement with  </O> " Var_geo " <O> before  </O> " Var_per " <O> leaves office will take a miracle </O> " ) |
+
+								( " <O> He told reporters in the  </O> " Var_geo " <O> that there is still room for progress in Israeli-Palestinian negotiations  </O> " ) |
+
+								( " <O> The  </O> " Var_gpe " <O> military says  </O> " Var_per " <O> - the head of the army's  </O> " Var_org " <O> - has announced his resignation  </O> " ) |
+
+								( " <O> A military statement  </O> " Var_tim " <O> , said  </O> " Var_per " <O> has asked to leave his post as soon as possible , and the chief of staff has accepted the request to begin the process of his replacement  </O> " ) |
+
+								( " <O> Adam was widely expected to leave the army after he was pushed aside near the end of the 34-day war against  </O> " Var_org " <O> guerrillas in  </O> " Var_geo ) |
+
+								( Var_geo " <O> was replaced by another general as coordinator of operations in  </O> " Var_geo ) |
+
+								( " <O> Israeli media say  </O> " Var_per " <O> had several disagreements with the army chief ,  </O> " Var_per " <O> , over the conduct of the war  </O> " ) |
+
+								( " <O> A Washington-based research institute says  </O> " Var_gpe " <O> is building a nuclear reactor that could produce enough plutonium for 40 to 50 nuclear weapons a year  </O> " ) |
+
+								( " <O> The  </O> " Var_org " <O> reports that satellite photos show a possible construction site for a larger nuclear reactor near the small one in the  </O> " Var_geo " <O> district of  </O> " Var_geo " <O> province  </O> " ) |
+
+								( " <O> The report says such a reactor could produce over 200 kilograms of weapons-grade plutonium , good for 40 to 50 nuclear weapons a year  </O> " ) |
+
+								( " <O> According to some media reports ,  </O> " Var_gpe " <O> is now capable of producing plutonium for just two warheads a year  </O> " ) |
+
+								( " <O> Pakistan 's  </O> " Var_org " <O> spokeswoman  </O> " Var_per " <O> declined to say whether a new reactor is being constructed , but she said the presence of a nuclear weapons program and facilities at  </O> " Var_geo " <O> are well known  </O> " ) |
+
+								( " <O> The  </O> " Var_org " <O> reports the disease is the leading cause of new cases of blindness among adults  </O> " ) |
+
+								( " <O> It is the leading cause of kidney failure  </O> " ) |
+
+								( " <O> The rate of amputation is 10 times higher among those who suffer from the disease  </O> " ) |
+
+								( " <O> Experts say those who learn how to manage the disease early , can live healthier and more normal lives  </O> " ) |
+
+								( " <O> VOA 's  </O> " Var_per " <O> found camps that provide children with this chronic disease a positive approach to living with diabetes while letting them just be kids  </O> " ) |
+
+								( " <O> Amy  </O> " Var_per " <O> Narrates  </O> " ) |
+
+								( " <O> Cuba and  </O> " Var_gpe " <O> have said they will restore consular relations , months after  </O> " Var_gpe " <O> broke ties with  </O> " Var_gpe " <O> for pardoning four men convicted in connection with an assassination attempt against  </O> " Var_gpe Var_per ) |
+
+								( Var_per " <O> countries agreed to reopen their consulates , following a meeting  </O> " Var_tim " <O> between  </O> " Var_gpe Var_per " <O> and  </O> " Var_gpe Var_per ) |
+
+								( Var_per " <O> meeting took place on the sidelines of the Ibero-American Summit in  </O> " Var_geo " <O> ,  </O> " Var_geo " <O> , where heads of state were meeting to discuss a candidate to head the  </O> " Var_org " <O> and other regional issues  </O> " ) |
+
+								( " <O> Cuba severed ties with  </O> " Var_gpe " <O> in  </O> " Var_tim " <O> , hours after  </O> " Var_gpe Var_per " <O> , in her final days in office , pardoned the men , preventing their extradition to  </O> " Var_geo ) |
+
+								( Var_geo " <O> were convicted of plotting to kill  </O> " Var_per " <O> during the  </O> " Var_tim " <O> Ibero-American summit in  </O> " Var_geo ) |
+
+								( Var_geo Var_gpe " <O> army has killed a  </O> " Var_gpe " <O> youth in the northern  </O> " Var_geo " <O> and wounded at least three other people  </O> " ) |
+
+								( " <O> The army says it targeted a man who was collecting a rocket launcher from an area used to fire rockets at  </O> " Var_geo " <O> recently  </O> " ) |
+
+								( " <O> Palestinian medical sources say the  </O> " Var_gpe " <O> strike killed a teenager  </O> " ) |
+
+								( " <O> The  </O> " Var_gpe " <O> military began an offensive in  </O> " Var_geo " <O> after militants kidnapped an  </O> " Var_gpe " <O> soldier in  </O> " Var_tim ) |
+
+								( Var_tim " <O> than 200  </O> " Var_gpe " <O> have been killed in the offensive  </O> " ) |
+
+								( " <O> On  </O> " Var_tim " <O> ,  </O> " Var_gpe Var_per " <O> said his Hamas-led government will not recognize  </O> " Var_gpe ) |
+
+								( Var_gpe " <O> said an  </O> " Var_gpe " <O> peace plan for the region is problematic because it requires  </O> " Var_gpe " <O> to recognize  </O> " Var_gpe " <O> in exchange for an  </O> " Var_gpe " <O> pullout from  </O> " Var_gpe " <O> territories  </O> " ) |
+
+								( " <O> He spoke after a week of deadly political infighting between  </O> " Var_org " <O> and the rival  </O> " Var_org " <O> party of  </O> " Var_per ) |
+
+								( Var_per " <O> automaker  </O> " Var_org " <O> has opened a $ 570 million engine plant in northern  </O> " Var_geo ) |
+
+								( Var_geo " <O> the ceremonial startup of the  </O> " Var_art " <O> plant  </O> " Var_tim " <O> ,  </O> " Var_gpe Var_per " <O> said  </O> " Var_org " <O> 's sixth plant in  </O> " Var_geo " <O> will create 700 jobs  </O> " ) |
+
+								( " <O> Mr.  </O> " Var_per " <O> said  </O> " Var_gpe " <O> has become a worldwide leader in the auto industry  </O> " ) |
+
+								( " <O> Chrysler plans to build its new fuel-efficient  </O> " Var_art " <O> engine for  </O> " Var_art " <O> ,  </O> " Var_art " <O> ,  </O> " Var_art " <O> and  </O> " Var_art " <O> vehicles  </O> " ) |
+
+								( " <O> Mexican officials say the new plant will have the capacity to build 4,40,000 engines per year  </O> " ) |
+
+								( " <O> A  </O> " Var_geo " <O> jury has found that drug maker  </O> " Var_org " <O> is not liable for the heart attack suffered by a man taking its painkiller  </O> " Var_art ) |
+
+								( Var_art Var_geo " <O> jurists agreed with  </O> " Var_org " <O> that job stress and health risks caused the 60-year old postal worker to have a heart attack four years ago  </O> " ) |
+
+								( " <O> The plaintiff argued  </O> " Var_org " <O> was responsible  </O> " ) |
+
+								( " <O> The jury also rejected the man's claim that  </O> " Var_org " <O> failed to properly warn users about the drug 's risks  </O> " ) |
+
+								( " <O> Merck withdrew the popular drug last year after a study showed it doubled the risk of heart problems in long-term users  </O> " ) |
+
+								( " <O> Merck is facing thousands of other lawsuits over  </O> " Var_art ) |
+
+								( Var_art " <O> 's verdict is only the second in a  </O> " Var_art " <O> case  </O> " ) |
+
+								( " <O> In the first ,  </O> " Var_org " <O> was ordered to pay millions of dollars to the widow of a  </O> " Var_art " <O> user  </O> " ) |
+
+								( " <O> Merck is appealing that decision  </O> " ) |
+
+								( " <O> The rumors are TRUE :  </O> " Var_per " <O> is pregnant  </O> " ) |
+
+								( " <O> Speaking to  </O> " Var_org " <O> interviewer  </O> " Var_per " <O> , the 25-year-old co-star of TV 's  </O> " Var_art " <O> said she is almost four months along in her pregnancy  </O> " ) |
+
+								( " <O> She said the father is her boyfriend ,  </O> " Var_per " <O> of the rock band  </O> " Var_org ) |
+
+								( Var_org " <O> also spoke about her guilty plea last week to driving under the influence and the resulting four-day jail sentence  </O> " ) |
+
+								( " <O> I have a responsibility and it's something that I did wrong , and if I could personally apologize to every single person that has lost a loved one from drunk driving , I would , she said  </O> " ) |
+
+								( " <O> And unfortunately I ca n't , but this is my way of paying my dues and taking responsibility and being an adult </O> " ) |
+
+								( " <O> The interview airs  </O> " Var_tim " <O> and  </O> " Var_tim " <O> on  </O> " Var_art " <O> , and later  </O> " Var_tim " <O> on  </O> " Var_art ) |
+
+								( Var_art Var_per " <O> of the southeastern state of  </O> " Var_geo " <O> , a prominent Republican figure in the debate over the war in  </O> " Var_geo " <O> , says he will retire after finishing his term in  </O> " Var_tim ) |
+
+								( Var_tim " <O> told supporters outside of the  </O> " Var_org Var_tim " <O> that he will not seek a sixth term in the  </O> " Var_tim " <O> elections  </O> " ) |
+
+								( " <O> The former chairman of the powerful  </O> " Var_org " <O> has openly criticized  </O> " Var_per " <O> 's handling of the war in  </O> " Var_geo ) |
+
+								( Var_geo " <O> called on  </O> " Var_per " <O> earlier this month to begin withdrawing some  </O> " Var_gpe " <O> troops from  </O> " Var_geo ) |
+
+								( Var_geo " <O> retirement will leave open what would have been a relatively safe seat for Republicans in the fight for  </O> " Var_org " <O> control in the elections  </O> " ) |
+
+								( " <O> Democrats will now have a better chance to protect or expand their one-seat majority in the  </O> " Var_org ) |
+
+								( Var_org " <O> he leaves office , the 80-year-old former  </O> " Var_org " <O> secretary will have served 30 years as a  </O> " Var_gpe " <O> senator  </O> " ) |
+
+								( " <O> The  </O> " Var_org " <O> says  </O> " Var_tim " <O> 's  </O> " Var_geo " <O> tsunami caused around $ 520 million in damage to fishing industries in seven of the worst hit countries  </O> " ) |
+
+								( " <O> The  </O> " Var_org " <O> 's  </O> " Var_org " <O> (  </O> " Var_org " <O> ) said the tsunami destroyed or damaged more than 1,11,000 fishing vessels in the region  </O> " ) |
+
+								( " <O> It said the loss was significant in a region where fishing provides a vital source of food  </O> " ) |
+
+								( " <O> The  </O> " Var_org " <O> 's estimate includes damage to fishing industries in  </O> " Var_geo " <O> ,  </O> " Var_geo " <O> ,  </O> " Var_geo " <O> ,  </O> " Var_geo " <O> and  </O> " Var_geo ) |
+
+								( Var_geo " <O> agency says it has sent experts to help rebuild fishing industry infrastructure lost in the disaster and is developing strategies for long-term recovery in the region  </O> " ) |
+
+								( " <O> Officials in  </O> " Var_geo " <O> say another person has died from bird flu , bringing the country 's death toll from the disease to 96 since the outbreak started in  </O> " Var_tim ) |
+
+								( Var_tim " <O> latest victim was a 16-year-old girl from the town of  </O> " Var_geo " <O> , on the eastern outskirts of  </O> " Var_geo ) |
+
+								( Var_geo " <O> say she died  </O> " Var_tim ) |
+
+								( Var_tim " <O> , officials reported that a 32-year-old woman from an area just west of  </O> " Var_geo " <O> died of bird flu last week , at her home in the city of  </O> " Var_geo ) |
+
+								( Var_geo " <O> statement from the health ministry said the woman 's family kept chickens in their backyard  </O> " ) |
+
+								( " <O> Humans are usually infected with bird flu by direct contact with infected poultry , but experts fear the  </O> " Var_nat " <O> virus may mutate into a form easily transmitted between people  </O> " ) |
+
+								( " <O> Scientists fear such a mutation could spark a global pandemic with a potential death toll of millions  </O> " ) |
+
+								( " <O> Thailand says it has photo evidence to prove its claim that  </O> " Var_org " <O> militants responsible for violence in  </O> " Var_geo " <O> 's Muslim-majority south are training in neighboring  </O> " Var_geo ) |
+
+								( Var_geo Var_per " <O> says the photos show the militants training in  </O> " Var_geo " <O> 's northern  </O> " Var_geo " <O> state , which borders southern  </O> " Var_geo ) |
+
+								( Var_geo " <O> said if  </O> " Var_gpe " <O> wants to see the photos ,  </O> " Var_gpe " <O> will provide them  </O> " ) |
+
+								( " <O> Thai  </O> " Var_per " <O> has said he believes some of the insurgents have been trained in  </O> " Var_geo " <O> ,  </O> " Var_geo " <O> and southern  </O> " Var_geo ) |
+
+								( Var_geo " <O> and  </O> " Var_gpe " <O> have demanded proof of  </O> " Var_gpe " <O> 's allegations  </O> " ) |
+
+								( " <O> More than 500 people have been killed this year in an insurgency that some say is supported by extremist  </O> " Var_org " <O> in  </O> " Var_geo " <O> and  </O> " Var_geo ) |
+
+								( Var_geo " <O> protests in the western  </O> " Var_gpe " <O> city of  </O> " Var_geo " <O> turned violent  </O> " Var_tim " <O> , with protesters pelting the  </O> " Var_gpe " <O> consulate with rocks , bottles and eggs  </O> " ) |
+
+								( " <O> Several thousand people took to the streets of  </O> " Var_geo " <O> as part of a new wave of anti-Japanese protests over  </O> " Var_gpe " <O> 's bid for a permanent seat on the  </O> " Var_org " <O> and  </O> " Var_gpe " <O> 's alleged downplaying of war atrocities  </O> " ) |
+
+								( " <O> In  </O> " Var_geo " <O> , police are out in force waiting for protests to begin in the capital  </O> " ) |
+
+								( " <O> State  </O> " Var_per " <O> told the official  </O> " Var_org " <O> news agency that  </O> " Var_gpe " <O> 's government is urging people to protest in a calm and orderly manner  </O> " ) |
+
+								( " <O> Japan 's  </O> " Var_per " <O> ,  </O> " Var_per " <O> , arrives  </O> " Var_tim " <O> in  </O> " Var_geo " <O> for talks with his  </O> " Var_gpe " <O> counterpart ,  </O> " Var_per " <O> , to discuss relations between the two countries  </O> " ) |
+
+								( " <O> Organizers of the  </O> " Var_eve " <O> in  </O> " Var_geo " <O> have promised the greenest games in history and sought to soothe concerns about the rising cost of the event  </O> " ) |
+
+								( " <O> With 2,012 days to go until the  </O> " Var_eve " <O> get under way , organizers said the design would champion low waste , low carbon emissions and environmentally friendly transportation  </O> " ) |
+
+								( " <O> The  </O> " Var_org " <O> has promised to cut emissions 50 percent by generating energy on site and using renewable energy  </O> " ) |
+
+								( " <O> Prime  </O> " Var_per " <O> said  </O> " Var_gpe " <O> is farther ahead in preparations at this stage than any other previous Olympic host city  </O> " ) |
+
+								( " <O> The  </O> " Var_gpe " <O> government wants to have the Olympic budget finalized early this year , but costs have already risen substantially since  </O> " Var_gpe " <O> won the bid in  </O> " Var_tim ) |
+
+								( Var_tim " <O> select committee report due  </O> " Var_tim " <O> is expected to be highly critical of the government 's financing of the  </O> " Var_eve ) |
+
+								( Var_eve " <O> 's giant pandas have been on endangered species lists for nearly 30 years  </O> " ) |
+
+								( " <O> There are only about 1,600 pandas still living in the wild in  </O> " Var_geo ) |
+
+								( Var_geo " <O> of the  </O> " Var_eve " <O> mascots is modeled on a panda called  </O> " Var_nat ) |
+
+								( Var_nat " <O> hope she will help draw attention to the threats facing the giant panda -- one of  </O> " Var_gpe " <O> 's national symbols  </O> " ) |
+
+								( " <O> Sam  </O> " Var_per " <O> reports from  </O> " Var_nat " <O> 's home in  </O> " Var_geo " <O> province  </O> " ) |
+
+								( " <O> British defense officials say 14  </O> " Var_gpe " <O> military personnel have been killed in a crash of a  </O> " Var_org " <O> aircraft in southern  </O> " Var_geo ) |
+
+								( Var_geo Var_org " <O> spokesman says the aircraft went off the radar and crashed in an open area near  </O> " Var_geo Var_tim ) |
+
+								( Var_tim " <O> say the aircraft was supporting a  </O> " Var_org " <O> mission in the country's south , but there is no indication of enemy action causing the crash  </O> " ) |
+
+								( " <O> The crash comes as  </O> " Var_org " <O> forces launched an offensive to drive  </O> " Var_org " <O> remnants out of  </O> " Var_geo ) |
+
+								( Var_geo " <O> say </O> " Var_eve " <O> is aimed at removing the  </O> " Var_org " <O> threat so that stability , reconstruction and development can be achieved in the area  </O> " ) |
+
+								( " <O> Sri  </O> " Var_gpe " <O> authorities say a prominent  </O> " Var_org " <O> journalist was found shot dead  </O> " Var_tim " <O> in  </O> " Var_geo " <O> , hours after he was abducted by several attackers as he left a restaurant  </O> " ) |
+
+								( " <O> Dharmeratnam  </O> " Var_per " <O> was a board member of the pro-rebel  </O> " Var_org Var_art " <O> site and a columnist for  </O> " Var_gpe " <O> 's  </O> " Var_art " <O> newspaper , the  </O> " Var_art ) |
+
+								( Var_art Var_per " <O> 's  </O> " Var_art " <O> site became popular for ongoing reports on the  </O> " Var_org Var_geo " <O> civil war and was a prominent supporter of the  </O> " Var_org " <O> rebel movement  </O> " ) |
+
+								( " <O> Mr.  </O> " Var_per " <O> , who was also brutally attacked in  </O> " Var_tim " <O> , was found near a lake gagged with gunshot wounds to the head  </O> " ) |
+
+								( " <O> No one claimed responsibility for the killing  </O> " ) |
+
+								( " <O> Japan and  </O> " Var_gpe " <O> say they are considering a resumption of bilateral talks as part of efforts to normalize relations  </O> " ) |
+
+								( " <O> Japanese media reported  </O> " Var_tim " <O> that the two countries hope to arrange to hold the talks in  </O> " Var_geo " <O> in early  </O> " Var_tim ) |
+
+								( Var_tim " <O> talks could come before six-party talks on  </O> " Var_gpe " <O> 's nuclear ambitions resume  </O> " ) |
+
+								( " <O> Japan and  </O> " Var_gpe " <O> have not had formal bilateral talks for about a year  </O> " ) |
+
+								( " <O> Tokyo and  </O> " Var_gpe " <O> are at odds over  </O> " Var_gpe " <O> 's nuclear weapons program and the  </O> " Var_gpe " <O> 's kidnapping of  </O> " Var_gpe " <O> citizens in the  </O> " Var_tim " <O> and  </O> " Var_tim ) |
+
+								( Var_tim " <O> human rights group has accused coalition forces in  </O> " Var_geo " <O> of failing to secure evidence considered vital to the upcoming war crimes trial of former  </O> " Var_gpe " <O> leader  </O> " Var_per ) |
+
+								( Var_per Var_org " <O> , in a report released  </O> " Var_tim " <O> , said coalition forces failed to stop people from stealing thousands of  </O> " Var_gpe " <O> government documents in the months after the  </O> " Var_tim " <O> invasion of  </O> " Var_geo ) |
+
+								( Var_geo " <O> group also accused troops of failing to stop people from damaging several mass graves in the war-torn country  </O> " ) |
+
+								( " <O> The  </O> " Var_org " <O> quotes a  </O> " Var_gpe Var_org " <O> spokeswoman as saying it has not reviewed the report  </O> " ) |
+
+								( " <O> Saddam  </O> " Var_per " <O> was arraigned in  </O> " Var_tim " <O> at a  </O> " Var_gpe " <O> military base on the outskirts of  </O> " Var_geo ) |
+
+								( Var_geo " <O> faces charges of war crimes , genocide and crimes against humanity  </O> " ) |
+
+								( " <O> Egypt 's government and the  </O> " Var_org " <O> say three  </O> " Var_gpe " <O> children have been hospitalized with the deadly form of avian flu  </O> " ) |
+
+								( " <O> The children come from different parts of the country  </O> " ) |
+
+								( " <O> WHO says they are receiving treatment and are in stable condition  </O> " ) |
+
+								( " <O> The organization says the children had a history of contact with dead birds  </O> " ) |
+
+								( " <O> Thirty two  </O> " Var_gpe " <O> have contracted the  </O> " Var_nat " <O> form of avian flu  </O> " ) |
+
+								( " <O> Thirteen of them have died  </O> " ) |
+
+								( " <O> Egypt has had the largest number of human bird flu cases outside of  </O> " Var_geo ) |
+
+								( Var_geo " <O> head of the  </O> " Var_org " <O> investigation into the  </O> " Var_gpe " <O> oil-for-food program says  </O> " Var_per " <O> illegally obtained more money from oil smuggling than from corruption in the  </O> " Var_org " <O> program  </O> " ) |
+
+								( " <O> Former  </O> " Var_gpe Var_org Var_per " <O> says the smuggling began before the start of the oil-for-food program , and was known to the  </O> " Var_org ) |
+
+								( Var_org " <O> an interview with the  </O> " Var_gpe Var_org Var_art " <O> television station ,  </O> " Var_per " <O> said there is a lot of confusion about how much money  </O> " Var_per " <O> obtained from the oil-for-food program itself  </O> " ) |
+
+								( " <O> He refused to provide specific estimates , but said large amounts that have been reported in the media were from smuggling and not from funds diverted from the program  </O> " ) |
+
+								( " <O> The  </O> " Var_org " <O> created the oil-for-food program after the first  </O> " Var_eve " <O> to allow  </O> " Var_gpe " <O> to sell oil and use the profits for the  </O> " Var_gpe " <O> people 's humanitarian needs  </O> " ) |
+
+								( " <O> Kyrgyzstan 's  </O> " Var_org " <O> says four people , including parliament member  </O> " Var_per " <O> , have been killed at a prison near  </O> " Var_geo " <O> after inmates took them hostage  </O> " ) |
+
+								( " <O> Interior  </O> " Var_per " <O> is at the prison to head negotiations with the inmates  </O> " ) |
+
+								( " <O> The ministry gave no other details  </O> " ) |
+
+								( " <O> It is not clear if the hostage-takers made any demands  </O> " ) |
+
+								( " <O> Mr.  </O> " Var_per " <O> was involved in negotiations on  </O> " Var_tim " <O> at another  </O> " Var_gpe " <O> prison where a riot over poor living conditions forced the staff to evacuate earlier this week  </O> " ) |
+
+								( " <O> That prison , also near  </O> " Var_geo " <O> , remained surrounded by security forces on  </O> " Var_tim ) |
+
+								( Var_tim " <O> commercial airplane taking off from  </O> " Var_geo " <O> has landed in  </O> " Var_geo " <O> for the first time in nearly 20 years  </O> " ) |
+
+								( " <O> The plane , operated by  </O> " Var_gpe " <O> 's  </O> " Var_org " <O> airline , took off from  </O> " Var_art " <O> airport in  </O> " Var_geo " <O> late  </O> " Var_tim " <O> and touched down at  </O> " Var_art " <O> early  </O> " Var_tim ) |
+
+								( Var_tim " <O> said this first flight was largely ceremonial , and that most of the passengers were  </O> " Var_gpe " <O> diplomats and business leaders  </O> " ) |
+
+								( " <O> One of the passengers ,  </O> " Var_gpe Var_per " <O> , called it a historic day for cooperation between  </O> " Var_gpe " <O> and  </O> " Var_gpe ) |
+
+								( Var_gpe " <O> service between  </O> " Var_geo " <O> and  </O> " Var_geo " <O> is not expected to start for at least several weeks  </O> " ) |
+
+								( " <O> Aigle  </O> " Var_org " <O> is just one of a number of airlines to start flying to  </O> " Var_geo ) |
+
+								( Var_geo " <O> and  </O> " Var_org " <O> , both operating out of the  </O> " Var_geo " <O> , started flying to  </O> " Var_geo " <O> earlier this year  </O> " ) |
+
+								( " <O> A new government report shows  </O> " Var_gpe " <O> businesses added a moderate 1,11,000 new jobs in  </O> " Var_tim ) |
+
+								( Var_tim Var_org Var_tim " <O> issued a report that also showed the  </O> " Var_gpe " <O> unemployment rate increased for the first time in three months - to 4.6 percent  </O> " ) |
+
+								( " <O> According to the report ,  </O> " Var_gpe " <O> workers earned an average of $ 17.09 an hour in  </O> " Var_tim " <O> - a slight increase from the previous month  </O> " ) |
+
+								( " <O> Analysts say the  </O> " Var_org " <O> report will help ease worries that a tight labor market will significantly inflate wages and costs  </O> " ) |
+
+								( " <O> Earlier this week , the  </O> " Var_gpe " <O> central bank decided to maintain a key interest rate , despite the risk of inflation  </O> " ) |
+
+								( " <O> Venezuelan  </O> " Var_per " <O> has denounced  </O> " Var_gpe " <O> 's defense minister as an obstacle to peace and a pawn of the  </O> " Var_gpe ) |
+
+								( Var_gpe Var_per " <O> reacted sharply  </O> " Var_tim " <O> to the defense minister 's remarks about a meeting between  </O> " Var_per " <O> and  </O> " Var_gpe Var_per ) |
+
+								( Var_per " <O> two presidents met  </O> " Var_tim " <O> to try to mend ties between their countries  </O> " ) |
+
+								( " <O> After the meeting ,  </O> " Var_gpe Var_per " <O> said he hoped  </O> " Var_gpe " <O> would follow through with promises made during the meeting  </O> " ) |
+
+								( " <O> During a televised speech  </O> " Var_tim " <O> ,  </O> " Var_per " <O> called on  </O> " Var_per " <O> to put his defense minister in his place  </O> " ) |
+
+								( " <O> Tensions between the two countries rose in  </O> " Var_tim " <O> when  </O> " Var_gpe " <O> attacked a rebel camp in  </O> " Var_geo ) |
+
+								( Var_geo " <O> responded by sending troops to the  </O> " Var_gpe " <O> border  </O> " ) |
+
+								( " <O> China has lashed out at a  </O> " Var_gpe " <O> report critical of  </O> " Var_gpe " <O> policies on religious freedom , saying such criticism could harm  </O> " Var_gpe " <O> -  </O> " Var_gpe " <O> relations  </O> " ) |
+
+								( " <O> In its annual report issued  </O> " Var_tim " <O> , the  </O> " Var_org " <O> said  </O> " Var_gpe " <O> continues to be responsible for pervasive and severe violations of religious freedom , regularly imprisoning and harassing religious leaders and practitioners  </O> " ) |
+
+								( " <O> In a statement  </O> " Var_tim Var_gpe Var_org " <O> spokesman  </O> " Var_per " <O> accused the  </O> " Var_gpe " <O> body of attempting to interfere with  </O> " Var_gpe " <O> internal affairs under the guise of religious freedom  </O> " ) |
+
+								( " <O> He said such criticism runs counter to the good development of  </O> " Var_gpe " <O> -  </O> " Var_gpe " <O> relations  </O> " ) |
+
+								( " <O> Liu said  </O> " Var_gpe " <O> protects the religious freedom of  </O> " Var_gpe " <O> citizens according to law , and that citizens enjoy full freedom of religion  </O> " ) |
+
+								( " <O> China 's communist government allows worship only in state-approved and state-monitored churches , temples and mosques  </O> " ) |
+
+								( " <O> People who worship in unauthorized ways are subject to arrest  </O> " ) |
+
+								( " <O> President  </O> " Var_per " <O> has issued 14 pardons to convicted criminals , and has commuted the prison sentences of two others  </O> " ) |
+
+								( " <O> The pardons , announced  </O> " Var_tim " <O> , include no high-profile names  </O> " ) |
+
+								( " <O> They were for people convicted of such acts as bank embezzlement , making FALSE statements to the federal government , unlawfully killing wildlife , and committing drug offenses  </O> " ) |
+
+								( " <O> Including  </O> " Var_tim " <O> 's actions ,  </O> " Var_per " <O> has granted 171 pardons and commuted eight sentences while  </O> " Var_gpe " <O> president  </O> " ) |
+
+								( " <O> Pardons are one of the president 's absolute powers , and in recent years it has become typical for the president to issue pardons as he prepares to leave office  </O> " ) |
+
+								( " <O> White  </O> " Var_org " <O> officials say he made the pardon decisions on a case-by-case basis , and will continue to review clemency requests  </O> " ) |
+
+								( " <O> Uganda 's government and rebels of the  </O> " Var_org " <O> are nearing a peace deal to end more than 20 years of conflict  </O> " ) |
+
+								( " <O> Officials close to the negotiations say an accord signed  </O> " Var_tim " <O> provides for the disarmament and demobilization of the  </O> " Var_org ) |
+
+								( Var_org " <O> two sides signed a permanent cease-fire agreement last  </O> " Var_tim " <O> during peace talks in  </O> " Var_geo ) |
+
+								( Var_geo " <O> , there is still uncertainty the rebels will sign the final peace deal until rebel leader  </O> " Var_per " <O> is granted immunity from international prosecution  </O> " ) |
+
+								( " <O> Kony is one of five  </O> " Var_org " <O> officials sought by the  </O> " Var_org " <O> for alleged war crimes  </O> " ) |
+
+								( " <O> LRA fighters are accused of murdering thousands of civilians and raping and mutilating others during the long insurgency in northern  </O> " Var_geo ) |
+
+								( Var_geo " <O> number one men 's tennis player  </O> " Var_per " <O> has been nearly unbeatable in the past year  </O> " ) |
+
+								( " <O> But his warmup for the  </O> " Var_eve " <O> has abruptly ended with a rare loss  </O> " ) |
+
+								( " <O> The  </O> " Var_gpe " <O> star was upset  </O> " Var_tim " <O> by  </O> " Var_gpe Var_per " <O> in the opening match of the  </O> " Var_eve " <O> in  </O> " Var_geo ) |
+
+								( Var_geo " <O> he was playing in exhibition tournament , the loss will not count on his  </O> " Var_art " <O> record  </O> " ) |
+
+								( " <O> The 41st ranked  </O> " Var_per " <O> fended off three break points while serving for the match and closed a 03-Jun , 06-Apr , 06-Apr win with an ace  </O> " ) |
+
+								( " <O> Federer said he is completely healthy and has no concerns that the ankle problem that curtailed his last season would flare up before the  </O> " Var_eve " <O> , which starts  </O> " Var_tim ) |
+
+								( Var_tim Var_org " <O> says it has received the first images and scientific readings from the surface of  </O> " Var_geo " <O> 's moon  </O> " Var_geo ) |
+
+								( Var_geo " <O> at agency headquarters in  </O> " Var_geo Var_tim " <O> say information taken from the  </O> " Var_art " <O> space probe show what looks like drainage channels on the moon  </O> " ) |
+
+								( " <O> They say the surface has canyons that were most likely caused by some type of liquid  </O> " ) |
+
+								( " <O> The space probe began transmitting data to the  </O> " Var_art " <O> spacecraft while landing on  </O> " Var_geo " <O> 's largest moon earlier  </O> " Var_tim ) |
+
+								( Var_tim " <O> say the information from  </O> " Var_art " <O> - operated jointly by the  </O> " Var_gpe " <O> ,  </O> " Var_geo " <O> and  </O> " Var_gpe " <O> space agencies - may provide clues about how primitive  </O> " Var_geo " <O> evolved into a life-bearing planet  </O> " ) |
+
+								( " <O> Ugandan opposition leader  </O> " Var_per " <O> has been released on bail , after a judge ruled his detention by the military was illegal  </O> " ) |
+
+								( " <O> Police fired tear gas to disperse hundreds of  </O> " Var_per " <O> 's supporters who took to the streets in  </O> " Var_geo " <O> after his release  </O> " Var_tim ) |
+
+								( Var_tim " <O> 's military had detained  </O> " Var_per " <O> since  </O> " Var_tim " <O> , when he returned from self-imposed exile to run against  </O> " Var_per " <O> in next month 's presidential election  </O> " ) |
+
+								( " <O> A military tribunal has charged  </O> " Var_per " <O> with terrorism and possessing illegal weapons  </O> " ) |
+
+								( " <O> But a  </O> " Var_gpe Var_org " <O> Judge ,  </O> " Var_per " <O> , said his detention was illegal because the  </O> " Var_org " <O> had suspended the military trial  </O> " ) |
+
+								( " <O> Dr.  </O> " Var_per " <O> still faces rape charges , for which a civilian trial began  </O> " Var_tim ) |
+
+								( Var_tim " <O> has denied all the charges , which supporters say were trumped up to keep him from running for president  </O> " ) |
+
+								( " <O> U.S.  </O> " Var_per " <O> says improvements in the  </O> " Var_gpe " <O> health care system are inevitable  </O> " ) |
+
+								( " <O> Mr.  </O> " Var_per " <O> made his comments in the  </O> " Var_art Var_tim " <O> as he nominated an  </O> " Var_gpe " <O> woman ,  </O> " Var_per " <O> , to become the  </O> " Var_gpe Var_per ) |
+
+								( Var_per " <O> president said naysayers and cynics should not bet against the passage of health insurance legislation  </O> " ) |
+
+								( " <O> He also said inaction on the issue is not an option  </O> " ) |
+
+								( " <O> Mr.  </O> " Var_per " <O> has vowed to sign a health care bill into law this year  </O> " ) |
+
+								( " <O> Democrats in the  </O> " Var_org " <O> say they are nearly ready to unveil their health care reform plan  </O> " ) |
+
+								( " <O> Controversy over extending health coverage to uninsured  </O> " Var_gpe " <O> centers on how to pay for it  </O> " ) |
+
+								( " <O> It is expected to cost $ 1 trillion over 10 years  </O> " ) |
+
+								( " <O> World  </O> " Var_org " <O> member nations meeting in  </O> " Var_geo " <O> have approved a debt relief plan for 17  </O> " Var_gpe " <O> and  </O> " Var_gpe " <O> countries that could total $ 37 billion over 40 years  </O> " ) |
+
+								( " <O> World  </O> " Var_org Var_per " <O> said two-thirds of the bank members have now approved the plan , meaning the bank could start forgiving debts in  </O> " Var_tim ) |
+
+								( Var_tim " <O> move follows  </O> " Var_tim " <O> 's pledge from the wealthy  </O> " Var_org " <O> countries to cancel the debt of the world 's poorest countries , many of which are located in  </O> " Var_geo ) |
+
+								( Var_geo " <O> 17 countries now eligible for  </O> " Var_org " <O> debt relief are  </O> " Var_gpe " <O> ,  </O> " Var_gpe " <O> ,  </O> " Var_gpe " <O> ,  </O> " Var_gpe " <O> ,  </O> " Var_gpe " <O> ,  </O> " Var_gpe " <O> ,  </O> " Var_gpe " <O> ,  </O> " Var_gpe " <O> ,  </O> " Var_gpe " <O> ,  </O> " Var_gpe " <O> ,  </O> " Var_gpe " <O> ,  </O> " Var_gpe " <O> ,  </O> " Var_gpe " <O> ,  </O> " Var_gpe " <O> ,  </O> " Var_gpe " <O> ,  </O> " Var_gpe " <O> and  </O> " Var_gpe ) |
+
+								( Var_gpe " <O> has closed government offices and schools in  </O> " Var_geo " <O> for two days because of wind-blown dust that has polluted the capital  </O> " ) |
+
+								( " <O> Government authorities have declared  </O> " Var_tim " <O> and  </O> " Var_tim " <O> a public holiday , and  </O> " Var_gpe " <O> media say many domestic airline flights have been canceled  </O> " ) |
+
+								( " <O> Medical authorities are advising people with heart and respiratory problems to stay inside  </O> " ) |
+
+								( " <O> Iran 's  </O> " Var_org " <O> says  </O> " Var_geo " <O> 's  </O> " Var_org " <O> has found the amount of potentially harmful particulate in the air has reached dangerous levels  </O> " ) |
+
+								( " <O> The dust has blown in from  </O> " Var_geo " <O> and neighboring  </O> " Var_geo " <O> , where a severe sandstorm recently blanketed the capital ,  </O> " Var_geo ) |
+
+								( Var_geo " <O> can be caused by heavy winds blowing across deserts , or across land that has lost its fertile top soil and greenery  </O> " ) |
+
+								( " <O> Shortly before  </O> " Var_tim " <O> a suicide bomber blew himself up in a crowd of young  </O> " Var_gpe " <O> waiting to get into a beachfront nightclub in  </O> " Var_geo ) |
+
+								( Var_geo " <O> police say the bomber was spotted and prevented from entering the club  </O> " ) |
+
+								( " <O> They say if he had gotten inside the carnage would have been even worse  </O> " ) |
+
+								( " <O> It is unclear who was behind the attack with major  </O> " Var_gpe " <O> militant groups saying they had nothing to do with it  </O> " ) |
+
+								( " <O> A statement released by  </O> " Var_gpe Var_per " <O> in  </O> " Var_geo " <O> vowed to track down and punish those responsible , saying this was an attempt to sabotage the peace process  </O> " ) |
+
+								( " <O> The bombing shatters weeks of calm after  </O> " Var_per " <O> declared a truce during a summit with  </O> " Var_gpe Var_per " <O> in  </O> " Var_geo " <O> earlier this month  </O> " ) |
+
+								( " <O> Indonesian officials say they have signed an initial agreement with  </O> " Var_gpe " <O> to build a space launch center on the remote island of  </O> " Var_geo " <O> off the coast of  </O> " Var_geo ) |
+
+								( Var_geo Var_gpe " <O> foreign ministry spokesman says senior officials from both countries reached the preliminary agreement last week  </O> " ) |
+
+								( " <O> They say the island is well-suited for the project because of its proximity to the equator , which makes it easier to launch satellites into some  </O> " Var_geo " <O> orbits  </O> " ) |
+
+								( " <O> The spokesman says a formal agreement on the project will be signed in  </O> " Var_tim " <O> when  </O> " Var_gpe Var_per " <O> is scheduled to visit  </O> " Var_geo ) |
+
+								( Var_geo Var_gpe " <O> man goes on trial  </O> " Var_tim " <O> in  </O> " Var_geo " <O> for terrorist attacks on the  </O> " Var_geo " <O> subway in  </O> " Var_tim ) |
+
+								( Var_tim " <O> say  </O> " Var_per " <O> helped fund at least three bombings on the  </O> " Var_geo " <O> metro  </O> " ) |
+
+								( " <O> If he is convicted ,  </O> " Var_per " <O> could get life in prison  </O> " ) |
+
+								( " <O> The 38-year-old is already serving a 10-year sentence in  </O> " Var_geo " <O> after he was convicted last year on terrorism charges  </O> " ) |
+
+								( " <O> Police say  </O> " Var_per " <O> operated from  </O> " Var_geo " <O> where investigators say they found evidence that he sent money to terrorists  </O> " );
