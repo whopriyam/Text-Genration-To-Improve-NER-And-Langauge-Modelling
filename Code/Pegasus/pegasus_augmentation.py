@@ -87,7 +87,7 @@ for i in range(1,47960):
                 #print("Check1")
 #                 print(temp_data3)
 #                 print (term)
-                str1 = str1 + "< " + temp_data3.at[0,"Tag"] + " > " + temp_data3.at[0,"Word"] + " </ " + temp_data3.at[0,"Tag"] + " > "
+                str1 = str1 + "<" + temp_data3.at[0,"Tag"] + "> " + temp_data3.at[0,"Word"] + " </" + temp_data3.at[0,"Tag"] + "> "
             else:
                 #print ("Check2")
                 str1 = str1 + term + " "
