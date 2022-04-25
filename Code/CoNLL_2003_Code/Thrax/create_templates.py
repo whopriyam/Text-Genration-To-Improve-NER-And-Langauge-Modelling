@@ -7,7 +7,11 @@ Created by Priyam Basu (July-Dec 2022)
 
 
 import pandas as pd
-data = pd.read_csv("ner_dataset.csv", encoding= 'unicode_escape')
+import os
+
+path = os.path.abspath(os.getcwd())
+
+data = pd.read_csv(path+"/../../../Data/CoNLL_2003/CoNLL_data/CoNLL_train.csv", encoding= 'unicode_escape')
 #Removing BIO tags
 data["Tag"] = data["Tag"].str.replace("B-", "")
 
@@ -32,6 +36,9 @@ for i in range(0,len(data)):
     print (str(i))
     if "Sentence" not in str(data.at[i,"Sentence #"]) and i !=0:
         if tag_temp == data.at[i,"Tag"]:
+            # if str(data.at[i,"Word"]) == "nan":
+            #     sentence_str = sentence_str + " "
+            # else:
             sentence_str = sentence_str + data.at[i,"Word"] + " "
         else:
             data2.at[c,"Word"] = sentence_str
@@ -89,7 +96,7 @@ with open('tags_list.json', 'w') as fp:
 
 #Exporting the txt files for keywords corresponding to each tag
 for k,v in tag_dict.items():
-    with open("txt_resources/"+str(k)+".txt", 'w') as output:
+    with open("txt_resource_files/"+str(k)+".txt", 'w') as output:
         for row in v:
             output.write(str(row) + '\n')
 
@@ -100,7 +107,7 @@ for i in data.index:
         tag = data.at[i,"Tag"]
         print (i)
         print (str(tag))
-        temp_tag = ' " <'+str(tag)+'> " ' + "Var_"+str(tag)+ ' " </'+tag+'> "' 
+        temp_tag = ' " <'+str(tag)+'> " ' + "Var_"+str(tag)+ ' " </'+str(tag)+'> "' 
         data.at[i,"Word"] = temp_tag
         if (i%10==0):
             print(temp_tag)
