@@ -1,0 +1,5 @@
+import 'gmb_thrax.grm' as gmb_thrax;
+
+# export random_sentence = covid_symptoms.SYMPTOMSENT | place_country.PLACE_COUNTRY_SENT | local_address.LOCAL_ADDRESS_SENT | activity.ACTIVITYSENT;
+
+export random_sentence = gmb_thrax.GMBSENT;
