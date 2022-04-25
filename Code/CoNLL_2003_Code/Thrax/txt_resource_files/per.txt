@@ -1,3536 +1,3536 @@
-BALLANGER 
-Florencia Labat 
-Luminzu Shimaponda 
-Sandra O'Neal 
-Kamiel Maase 
-Smerdon 
-Bob Kennedy 
-Richter 
-Andre Agassi 
-Kornblum 
-Lisa Raymond 
-Eefje Lambrecks 
-Fiona May 
-Frank LeBoeuf 
-Burcin Mavituna 
-Grabowski 
-Oscar Tabarez 
-M. Lynch 
-Allan Donald 
-AMSTERDAM 
-John Bissell 
-Arnaut 
-Armstrong 
-Ijaz Ahmed 
-Joseph Keter 
-Larsson 
-John Cook 
-Doug Turner 
-Michel Bourlet 
-GROBBELAAR 
-Alan Moore 
-Antoine Lebouc 
-Francesca Lubiani 
-Sierd Zylstra 
-Sampras 
-Aryeh Shumer 
-Karim Alami 
-Kazimierz Socha 
-Gcaleka 
-Vyacheslav Ekimov 
-Becanovic 
-Ralf Kelleners 
-Robert Pires 
-Gush 
-Dionne Rose 
-Moshe Sabag 
-After 
-Yoelvis Quesada 
-Bruce Grobbelaar 
-Marc Duvillard 
-Kohl 
-Dante Bichette 
-MILTIADIS EVERT 
-Corcoran 
-James Poland 
-Posner 
-JAYASURIYA 
-Michele Fanton 
-Peter Baker 
-Jose Maria Aznar 
-John Grant Fagan 
-Saqlain Mushtaq 
-Ernesto Samper 
-LEWIS 
-Rios 
-Fernando Roca 
-Yevgeny Kafelnikov 
-N. Llong 
-Diego Borrego 
-Bohinen 
-Humayun Rasheed Choudhury 
-Daniele Polverino 
-Nasser Hussain 
-Alexandre Gontchenkov 
-Christian Ziege 
-Dave McPherson 
-Mosier 
-Margret Crowley 
-Anne-Gaelle Sidot 
-Buettner 
-Aime Jacquet 
-P. Kantharoopan 
-Alfred Berkeley 
-Olo Brown 
-Roche 
-Roy Aitken 
-Talbott 
-Giuseppe Citterio 
-Barnes 
-R. Ponting 
-Kenny Dalglish 
-Gloria Pizzichini 
-Worku Bekila 
-Hussain 
-Anja Smolders 
-Benoit Cauet 
-Lumir Mistr 
-Meredith McGrath 
-Dubnicoff 
-Larsen 
-Charles Taylor 
-Christine Magnusson 
-Rubin 
-Thon 
-Vaclavas Kidikas 
-Seeliger 
-Joel Smets 
-Vassiliy Kaptyukh 
-D. Fulton 
-Cor Euser 
-Necmettin Erbakan 
-Juan Guillermo Londono 
-Andersson 
-Lennart Meri 
-Bucaram 
-Dahl Tomasson 
-Mikael Tillstrom 
-Sebastien Lareau 
-Bob Woolmer 
-Axworthy 
-Sam Victor Malu 
-Sukarnoputri 
-Paul Gascoigne 
-Mike Williams 
-Andrea Muller 
-F.W. De Klerk 
-Yuuichi Takeda 
-Ruggiero Rizzitelli 
-Ijaz 
-Lefevre 
-Kennedy 
-Wreh 
-Sam Wilson 
-Antoine 
-G. Thorpe 
-Gore 
-Sanath Jayasuriya 
-Yekaterina Podkopayeva 
-Jana Novotna 
-Ferhaoui 
-Hans Segers 
-Jean-Michel Monin 
-Prasad 
-Juan Domingo Peron 
-Mark O'Meara 
-William Tanui 
-Arjuna Ranatunga 
-Remmy Mushota 
-Grobbelaar 
-William Kiptum 
-Gerard de Nooijer 
-N. Knight 
-Cecil Mamiit 
-Jaime Oncins 
-Stefano Zanini 
-MEDVEDEV 
-D. Gough 
-Chris Widness 
-Alina Astafei 
-Here 
-Masood 
-Grant Flower 
-A.de Silva 
-Natalia Baudone 
-Niall Quinn 
-Heinz-Peter Thul 
-Smith 
-Jamie Baulch 
-Dutroux 
-Thomas Nyariki 
-BORROWER 
-Chaminda Vaas 
-One 
-Aishwarya 
-Sergei Rogachev 
-Andy Ballace 
-Hagner 
-Knup 
-Jason Webb 
-Fernando Henrique Cardoso 
-Pessina 
-Billy Mayfair 
-Goran Koprinovic 
-Susan Smith 
-Tapie 
-D. Ripley 
-Zickler 
-Ian Mackie 
-Luo Yigang 
-Dos Santos 
-Whittingham 
-Marcel Desailly 
-Maria Jose Gaidano 
-Christian Ruud 
-Mohamed Zejjari 
-Mark Hutton 
-Von Heesen 
-Steve Webster 
-Irani 
-Marc Overmars 
-Dennis Lillee 
-Masterkova 
-Yoka Lye Mudaba 
-Mariusz Srutwa 
-E.F. ( Fritz ) Schumacher 
-Thomas Strunz 
-Greg Norman 
-Ahmad Shah Masood 
-Ta Mok 
-Adams 
-Mothusi Nkgowe 
-Glen Hoddle 
-Odnosum 
-Edouard Gritsoun 
-Jerzy L. 
-Kathy Etchingham 
-Maarten den Bakker 
-Fung Permadi 
-A. Kapoor 
-Michael Faust 
-P.W. Botha 
-Tony Eusebio 
-Toure 
-Richard Sabourin 
-Garry Weiss 
-Israeli 
-Ottavio Palladini 
-NEWCOMBE 
-David Nainkin 
-Nissan Kapeta 
-Sophia Rose 
-Eddo Brandes 
-Greste 
-Albert 
-Levy 
-Karina Habsudova 
-Casey 
-D. Headley 
-Greg Chappell 
-Shigeki Maruyama 
-Susana Siegfried 
-Rennae Stubbs 
-Omar Bongo 
-Sidia Toure 
-Akashi 
-Peter Kox 
-Rika Hiraki 
-Jonathan Birt 
-Troy O'Leary 
-Davis Love 
-Tyler Houston 
-Ealham 
-Birendra 
-Pushpakumara 
-Pol Pot 
-Gina Tillman 
-Juan Lopez 
-Andre Trulsen 
--DOCSTART- 
-Ryszard Hincza 
-Mark Pembridge 
-Solskjaer 
-Guzman 
-Krishnamoorthy 
-Aleksander Kwasniewski 
-Randall 
-Gail Devers 
-Saddam 
-YORK 
-Every 
-Aslan Mashadov 
-Schutte 
-Scifo 
-Norihiko Fujiwara 
-Sigeki Maruyama 
-Firmin Gatera 
-Mike Clayton 
-Zubair Jahan Khan 
--DOCSTART- Clinton 
-Samokhalova 
-Krzysztof Zagorski 
-Erik Zabel 
-Jose Manuel Prieto 
-Jack Kemp 
-Marwan Muasher 
-Witschge 
-Graham Lloyd 
-Luciano Pessina 
-Maria Antonio Sanchez Lorenzo 
-Gheorghe Funar 
-Michele Buiatti 
-Donizetti 
-Paul 
-Kumble 
-Wilhelmina 
-Zhirinovsky 
-Jiang Zemin 
-Oyvind Rojahn 
-Abimael Guzman 
-MILLNS 
-Marcos Ondruska 
-Laurent Gane 
-Gyaicain Norbu 
-Palkhivala 
-Lebed 
-Murat Yakin 
-Hickey 
-John Stephenson 
-Frank de Boer 
-Keith Fletcher 
-Haas 
-Luis Vidigal 
-Todd Stottlemyre 
-Smicer 
-De la Pena 
-Joel Stransky 
-Sebastien Fournier 
-Laurence Courtois 
-Thomas S 
-Graef 
-Emanuele Canonica 
-Thompson 
-Matt Windows 
-Constantine Mitsotakis 
-Rusty Greer 
-Yeltsin 
-Mark Mouland 
-Courtney Walsh 
-Gordana Kukic 
-Costantino Rocca 
-Heinrich 
-Adrian Voinea 
-Gravelaine 
-Ripken 
-Daniel Nestor 
-Tony Taylor 
-Princeton Lyman 
-Liu Lu 
-Marcus O'Sullivan 
-Allen Johnson 
-Kevin Brown 
-Rabbani 
-Sudradjat Djiwandono 
-Scott McLeod 
-Dealers 
-Sorensen 
-Duffy Waldorf 
-Akira Ryo 
-Gianni Versace 
-Clemens 
-Donald Tsang 
-Mutola 
-Bradley Hughes 
-Moreau 
--- Dimitris Kontogiannis 
-Dan Jenson 
-Peter Roe 
-Marc-Vivien Foe 
-Palmer 
-Gary Orr 
-Botham 
-Sabourin 
-Aleix Vidal-Quadras 
-Jean Van de Velde 
-Eric Wymeersch 
-Moada 
-Sven Pieters 
-Ryutaro Hashimoto 
-Berri 
-Amanda Coetzer 
-Sosa 
-Ronny Brunswijk 
-Magdalena Maleeva 
-Widness 
-Weaver 
-M. Watkinson 
-Anthony Hill 
-Andreas Kappes 
-Martin Damm 
-Andrei Medvedev 
-Sandrine Testud 
-Art Howe 
-Hansie Cronje 
-Julia Vaquero 
-Mariaan de Swardt 
-Raymond Russell 
-Clontz 
-Amina Muhammad 
-Bernd Schiphorst 
-Ove Sellberg 
-Giles Bonnet 
-Glenn McGrath 
-Evert 
-JOHNSON 
-Carol Norris 
-Brigita Bukovec 
-Yulia Graudin 
-Frank 
-Gala Leon Garcia 
-Wakefield 
-Neither Meri 
-Megawati Sukarnoputri 
-Stenning 
-Hasan Muratovic 
-Thomas Muster 
-Sheffield 
-Witechek 
-Finn 
-Damein Fleming 
-Babayan 
-SOSA 
-Eva Boudova 
-S. Campbell 
-Noel Gallagher 
-Arce 
-John Fashanu 
-Kubilay Turkyilmaz 
-Markus Babbel 
-Dostum 
-Ruben Amaro 
-Nana Miyaga 
-Gavin Featherstone 
-Pakistan 
-Malgorzata Rydz 
-Kostantin Matusevitch 
-Derrick Cooper 
-Luis Raul Matos Azocar 
-Verona 
-Dirk Coetzee 
-Eliud Barngetuny 
-N. Lenham 
-Irina Spirlea 
-Paul Koech 
-Qiang Hong 
-Mubarak 
-Masserigne Ndiaye 
-Salim Malik 
-Michael Jones 
-Micijevic 
-Nilis 
-Gaston Taument 
-Alberto Berasategui 
-Anne Miller 
-Ivan Garcia 
-Gualtiero Fulcheri 
-Gleeson 
-Wolfgang Ischinger 
-Thomson 
-Steffi Graf 
-W. Weston 
-Roger Grimwade 
-Charmaine Crooks 
-Wim Jonk 
-Volkova 
-Chandra Sturrup 
-Abraham Lincoln 
-M. Karunanidhi 
-I. Healy 
-Robert Pelletreau 
-Gilbert Gress 
-N. Mongia 
-Dominique Van Roost 
-Bobby Bonilla 
-Peres 
-Noureddine Morceli 
-Lovell 
-Natalia Voronova 
-Rdainah 
-Jason Wong 
-Chris Lewis 
-Alan Kernaghan 
-Brian Bronson 
-Perry 
-Puglisi 
-Svetlana Samokhalova 
-Liu Lufung 
-Roger Chapman 
-Damion Easley 
-Houteman 
-Michael Joyce 
-Wim Omloop 
-CHICAGO 
-But Meri 
-Courtois 
-Stefano Cimicchi 
-Paul Malin 
-Maskhadov 
-Aloys Nizigama 
-Krzysztof Warzycha 
-Gordon Smith 
-V. Prasad 
-Nsanze Terence 
-Lubarskij 
-Ron Wright 
-Jon Dahl Tomasson 
-Noriyuki Haga 
-Milenko Kovasevic 
-Caveglia 
-Angelica Gavaldon 
-M. Atherton 
-PRESCOTT 
-Simon Frenz 
-de Klerk 
-Dore Gold 
-Cy Young 
-Cocu 
-Mark Dutroux 
-Bowling 
-Pedro Lamy 
-Nathalie Lancien 
-Khalid Boulami 
-Robert Kibet 
-Thabo Mbeki 
-Leonid Kuchma 
-Garrity 
-Kucan 
-Gianluca Corini 
-Xavier Gravelaine 
-Kiely 
-Blake Bath 
-Ronald Reagan 
-Batchelor 
-Fujiwara 
-P. Nixon 
-Dhiraj K.C. 
-Yassin 
-Davis Kamoga 
-Zinzan Brooke 
-Otis Nixon 
-Gary Kelly 
-Dharmasena 
-Wisinga 
-Ernie Els 
-H. Streak 
-Saeed Hasan 
-Tim Hancock 
-Ravanelli 
-Stefaan De Clerck 
-Christopher Reeve 
-Head 
-Birenda 
-Chryste Gaines 
-Gilbert Facchinetti 
-Samuel Matete 
-Ali Shah 
-Dimitris Reppas 
-Ijaya Indra 
-Schulz 
-Qotbuddin Hilal 
-Louise McPaul 
-Emmanuel Tetteh 
-Juergen Klinsmann 
-Daryll Cullinan 
-Yvan Quentin 
-Paulinho Santos 
-Paul Prichard 
-Kennedy Ochieng 
-Mike Devereaux 
-Norman 
-Gary Emerson 
-David Caldwell 
-F.W. de Klerk 
-Peter Lerner 
-Reeve 
-Kwasniewski 
-Atherton 
-Norton 
-Salisbury 
-Jonathan Edwards 
-John Talen 
-Gevirtz 
-Theybers 
-Joannette Kruger 
-Tadayuki Okada 
-Berger 
-Olsza 
-Ciller 
-Tom Cruise 
-Abdul Rahman 
-Damian Ejiohuo 
-Greg Rusedski 
-Shaun Pollock 
-NICE 
-Marcus Wills 
-Ilian Simeonov 
-Khalfallah 
-Olga Chernyavskaya 
-Giovanni van Bronckhorst 
-Natalya Sadova 
-Vogts 
-A. Flower 
-Napoleon III 
-John den Braber 
-Desi Bouterse 
-Alan Hunte 
-Batigol 
-John Marzano 
-O'Neal 
-Kan 
-Julie Lejeune 
-Stephen Meads 
-Petr 
-SCHUMACHER 
-Benedict Birnberg 
-Van Hintum 
-Aleksandra Olsza 
-Paul Sorrento 
-Jackie Lee 
-P. Simmons 
-Murray 
-Mariacarla Bresciani 
-Nathalie Tauziat 
-Demel 
-Olascoaga Mugica 
-Andrei Tchmil 
-N. Speak 
-Inzamam-ul-Haq 
-Yukio Hatoyama 
-Voskamp 
-Richard Lindsey 
-Nani Palkhivala 
-Healy 
-Masanaga Shiohara 
-Abdul Samad Ismail 
-Cheah Soon Kit 
-Some 
-Rimma Maslova 
-Stefka Kostadinova 
-Elena Wagner 
-Ronald Brunmayr 
-Dally Randriantefy 
-Mariano Juan 
-Heiko Szonn 
-McGrath 
-Marcin Mieciel 
-Nicole Brown Simpson 
-Doug Flach 
-With Takeda 
-Mitchell 
-Jim Bidzos 
-Haile Gebreselassie 
-Royce Clayton 
-Frankie Fredericks 
-Graeme Hick 
-Valkucak 
-John Hinckley Jr 
-Warren Buffett 
-Jeff Wilson 
-Coppinger 
-Dennis Ross 
-Jose Coceres 
-Cesare dal Maso 
-Juan Carlos Pinero 
-Costis Stephanopoulos 
-Tomas Cibola 
-Ahmed Sekou Toure 
-Alonso Cervera 
-Adnan Xhelili 
-Dmitry Solovyov 
-Edgar Martinez 
-Gress 
-Raniero Iacomella 
-Dan Dietsch 
-His 
-Saddam Hussein 
-Gary Kirsten 
-Mark Dekker 
-Christie 
-Nicole Bradtke 
-David Evans 
-KELLY 
-Scott Russell 
-Tadeusz Awdankiewicz 
-Yap Kim Hock 
-John Boles 
-Vosberg 
-Hari Maya Poudels 
-McKinney 
-Michael Slater 
-Alfred Sant 
-Adem Hodzic 
-Utomo 
-Tristan Hoffman 
-Jyrki Lumme 
-Kimiko Date 
-Stefan Reuter 
-Magnus Larsson 
-Vladislav Rodimov 
-Hingis 
-Orlando Pirates 
-Mark Thompson 
-Paul Johnson 
-Hanifah Komala 
-Kenny Harrison 
-Bruno Eichmann 
-Marchal 
-Jean-Paul Bruwier 
-Bobbie Goulding 
-Yelena Gulyayeva 
-Howard Wilkinson 
-John Ericks 
-John Kornblum 
-Inez Turner 
-Samper 
-Gianni Bugno 
-Miguel Angel Martin 
-M. Bevan 
-Sarah Thorsett 
-Nicoleta Grasu 
-James 
-M. Lathwell 
-Bill Birch 
-Darren McKenzie-Potter 
-Police 
-BONN 
-R. Harden 
-Frederic Malardeau 
-Marushko 
-Nelson Mandela 
-K. Barnett 
-Tomasz Moskal 
-Mario Covas 
-Lucas Moreira Neves 
-CHRISTIE 
-Bogdan Prusek 
-M. Waugh 
-Sergi Barjuan 
-Mohamed Moada 
-Reagan 
-Tungky Ariwibowo 
-Elijah Maru 
-Jon Drummond 
-Johansson 
-Mark Knowles 
-Ferdy Vierklau 
-Larbi El Khattabi 
-McGriff 
-David Skoch 
-Gilbert Schaller 
-Les Ferdinand 
-Matthias Sammer 
-BAILEY 
-Todd Martin 
-Belim 
-Hashimoto 
-Svetlana Goncharova 
-Melvin Nieves 
-Snyman 
-Peter Dirkx 
-Elsner 
-Kumara Dharmasena 
-Hwa Kay 
-Jimi Hendrix 
-Mr Clean 
-Sven Teutenberg 
-Anto Drobnjak 
-Michael Astrue 
-Koerts 
-Croft 
-Herschelle 
-Herman Gumy 
-Glenallen Hill 
-Ken Griffey Jr 
-Huber 
-Downer 
-- 
-Derek Ryan 
-Kenny Lofton 
-Humberto Hueite Zyrecha 
-Jonathon Power 
-REUTER 
-Iliescu 
-Wang Chen 
-James Debbah 
-Karl Marx 
-Orel Hershiser 
-Nick Faldo 
-Anthony Sullivan 
-Dominic Cork 
-Fredi Bobic 
-Hick 
-Jens Todt 
-Korneev 
-Nigel Mobbs 
-Leander Paes 
-Jose Escuredo 
-Carlos Pavon 
-Marco Lietti 
-Kim Anderson 
-Pinas 
-Guus Hiddink 
-Hicham El Guerrouj 
-Rafiqul Islam 
-Franz Konrad 
-Galina Enioukhina 
-Mohamed Fahim Rayyan 
-Bombarda 
-Homewood 
-Andrews 
-Towards 
-Carla Sacramento 
-Borkus 
-Mark Waugh 
-Rob Enderle 
-Jeff Kenna 
-Max Delbruck 
-Martin Heath 
-Steve Jones 
-Andrew Wakefield 
-Kristina Brandi 
-Jill Craybas 
-Jana Kandarr 
-Just 
-Daoud Makkawi 
-Edward Dmytryk 
-Jim Hines 
-Tony Johnstone 
-Anwar 
-SHARPE 
-Alexander Volkov 
-Mayfair 
-Keith O'Neill 
-Olly 
-Sanchez 
-George Joulwan 
-SKHIRAT 
-Raymond Mabus 
-Gerald Machnee 
-Giovanni 
-Max Anglert 
-Crosson 
-Joao Pinto 
-Nayan Mongia 
-Dekker 
-Taument 
-Patricia Smith 
-McCurry 
-A. Campbell 
-James Baldwin 
-Polster 
-Zicot 
-Zeljko Petrovic 
-Rizzitelli 
-Nicklas Kulti 
-Glen Osborne 
-Ivanisevic 
-Olivier Grouillard 
-Zagalo 
-Larry Walker 
-Tom Candiotti 
-Michelle Ferris 
-Issa Alloush 
-Franco Baresi 
-Mark Wolf 
-God 
-Soren Lausberg 
-Dave Richardson 
-Obree 
-Kerry 
-Marina Volkova 
-Henri Konan Bedie 
-Isaac Viciosa 
-Flemming 
-Ali Khalfallah 
-Amr Moussa 
-Lopez 
-Graeme Obree 
-Stich 
-Crohn 
-Eliahu Ben-Elissar 
-Tom Ikimi 
-Felix Mantilla 
-Andy Benes 
-Paulo Sergio 
-Muttiah Muralitharan 
-Wayne Ferreira 
-Jose Offerman 
-Ballesteros 
-El Hassane Lahssini 
-Kevin Keegan 
-Elena Likhovtseva 
-Melissa 
-Fleurian 
-Anton Drobnjak 
-David Carter 
-de Silva 
-COLONNA 
-Roger Kingdom 
-Ronnie Irani 
-Mike Harwood 
-BAGHDAD 
-Ken Hill 
-Jannie Gagiano 
-Jakob Hlasek 
-Eduardo Bernini 
-Allan Wells 
-Markgraaff 
-Lee Sharpe 
-Gary Sheffield 
-Pollock 
-Rolf Ekeus 
-A. Fraser 
-Tim Goldiman 
-Thomas Johansson 
-Jim Bolger 
-Natalya Sypron 
-Liam Gallagher 
-Jean-Michel Bayle 
-Molata 
-David Segui 
-Diana 
-Jorge 
-Zorc 
-Alessandro Baronti 
-Roe 
-Dirk Dier 
-Bhutto 
-FERGUSON 
-Chad Curtis 
-Dick Spring 
-Ronaldo 
-Aravinda de Silva 
-Navjot Singh Sidhu 
-Andrei Pavel 
-Silvia Farina 
-LONDON 
-Bob Moore 
-When 
-Petra Begerow 
-Mette Bergmann 
-Foster 
-David Rowland 
-Dean Richards 
-Julien Bonetat 
-Jose Maria Canizares 
-Kapil Dev 
-Ines Gorrochategui 
-Svetlana Zalevskaya 
-C. Hooper 
-Bobby Robson 
-Chistian Cevaer 
-Peter Teravainen 
-Local 
-Claude Lelouche 
-Skandalidis 
-Rifkind 
-Caesar Mazzolari 
-Stuart Cage 
-Ismail Nacar 
-Taha 
-Paul Haarhuis 
-Scott Young 
-Vialle 
-Shane Kelly 
-Nawaz Sharif 
-Byron Black 
-David Levy 
-John Newcombe 
-Craig Wishart 
-Graham 
-Hamid Ibrahimi 
-John Inienger 
-Johan Museeuw 
-Roshan Mahanama 
-Kaspars Ozers 
-Olofsson 
-Amrollah 
-Saleh 
-Reiffel 
-Carlos Costa 
-Newcombe 
-If 
-Mustapha Ben Jaafar 
-John Jaha 
-Qian Qichen 
-Leon van der Wath 
-Faustino Asprilla 
-Ray Houghton 
-Guenter Bertram 
-Umberto Bossi 
-Ernest Faber 
-Feldhoff 
-Fajardo 
-Petre Roman 
-Campbell 
-W. Athey 
-Zardari 
-Michelle Harper 
-Jiri Novak 
-Daniel Ducruet 
-Drew 
-A. Mullally 
-David Sesa 
-Peter Martin 
-Adriana Serra-Zanetti 
-Costis Stephnopoulos 
-Danie van Schalkwyk 
-Bryan Robson 
-Slawomir Wojciechowski 
-Jack Berry 
-Melanie Schnell 
-D. Cox 
-Johnny Bench 
-Stephane Guivarch 
-Ieng Sary 
-Nahed Dahlan 
-Corser 
-Hafidh 
-Jonty Rhodes 
-Muthiah Muralitharan 
-William Goldiner 
-Erickson 
-Nastase 
-Jean-Pierre Van Zyl 
-Batistuta 
-Joost van der Westhuizen 
-MALEEVA 
-Massoud Barzani 
-David Howell 
-Jose-Maria Canizares 
-Shimaponda 
-Gabi Rokmeier 
-Mickey Cochrane 
-N. Hussain 
-Alexandre Comisetti 
-R. Illingworth 
-Brian Currin 
-Patsy Kensit 
-Jim Thome 
-Georgy Mamedov 
-Stephen Nisbet 
-Carlo Hoffmann 
-Gerhard Berger 
-Montgomerie 
-Brooke 
-Jon Preston 
-Dianne Feinstein 
-Henrietta Nagyova 
-Alan McLoughlin 
-PAULO 
-Kristie Boogert 
-Mariano Friedick 
-Bachirou Salou 
-Brenda Schultz-McCarthy 
-Thomas Helmer 
-Kuchma 
-Ian Healy 
-Brown 
-Craig Parry 
-A. Penberthy 
-O.K. Likkason 
-Aoki 
-Guivarc'h 
-Glenn Hoddle 
-Lamont Smith 
-Darren Gough 
-KOMBOUARE 
-Rogel Nachum 
-Luis Castilla 
-Andy Caddick 
-Mohammed 
-COLOMBO 
-Miles Tunnicliff 
-Chaouch 
-DALGLISH 
-Davenport 
-Traore 
-Begum Khaleda Zia 
-Lapke 
-Abdellaoui 
-Alexander Cejka 
-A. Symonds 
-Chernomyrdin 
-Warhurst 
-Harald Spoerl 
-Charles 
-Juan Carlos Lago 
-Calvin Davis 
-Mullally 
-Sieg 
-Nicolas Charlier 
-Jetty Kors 
-Sylvester Stallone 
-Javier Frana 
-Verstappen 
-Eleonora Berlanda 
-Osvaldo Fenandez 
-Dave Pearson 
-Phil Mickelson 
-Seneferu 
-Garry West 
-Terry Phelan 
-Raphael Wicky 
-Ed de Goey 
-MCMANAMAN 
-Juergen Schult 
-Shiels 
-Lelouche 
-Hansma 
-Danut Lupu 
-Lance Gibbs 
-Lajos Horvath 
-Romeo Wouden 
-Patrick Seale 
-Claverie 
-Maria Marco 
-MITCHELL 
-Jose Herrera 
-Erdmann 
-Alexander Lebed 
-Aliuska Lopez 
-Rolf Fringer 
-James Brady 
-Pat Symcox 
-Phil Babb 
-Juan Carlos 
-David Richards 
-Charvet 
-John Veldman 
-Alan Ball 
-Jose Antonio Ortega Lara 
-Ilie Lazar 
-Jalal Talabani 
-Keiichi Kitigawa 
-Jean-Pierre Cyprien 
-Shah 
-Winkler 
-Adrian Knup 
-Andy Etchebarren 
-Mark Richardson 
-Rui Costa 
-Alexander III 
-Kim Graham 
-John Sheehan 
-Ilke Wyludda 
-Bossi 
-Ikimi 
-Kevin Kim 
-Karem Haj Yihye 
-Kostas Malekos 
-Barkho 
-Fred Couples 
-Magdalena Grzybowska 
-Stranksy 
-Nuour Marial 
-Miron Cozma 
-Thomas Gogele 
-Jesus 
-Fitzpatrick 
-T. Munton 
-John White 
-Andre Cloete 
-Maslowe 
-Rodney Mosier 
-Johan Boonen 
-Jose Barroso 
-Jack Charlton 
-KNUP 
-David Brabham 
-Ong Ewe Hock 
-Naish 
-Boris Becker 
-Zina Garrison Jackson 
-Neal Briggs 
-Lindsay Davenport 
-Ricardo Rosset 
-Marcel Malone 
-Bonds 
-Chinnathambi 
-N. Furuya 
-Nadeau 
-Rainier 
-Norifumi Abe 
-Timothy Reid 
-Kyoko Nagatsuka 
-Headley 
-Bernard Tapie 
-Phan 
-MASTERKOVA 
-Kimberly Po 
-Jiri Dopita 
-Al Martin 
-Bohdan Ulihrach 
-Van Doorn 
-Lambrecks 
-Terry Pendleton 
-Kennedys 
-Aides 
-Christophe Capelle 
-Sri 
-CRAWLEY 
-Omer Akbel 
-Mutawakel Taha 
-Brian McRae 
-Nabil Abu Rdainah 
-Albert Emon 
-Brunswijk 
-Fabien Giroix 
-Kenny Rogers 
-Jan Van Eiden 
-Ashish Kapoor 
-John Crawley 
-Franka Dietzsch 
-Dai 
-Zundra Feagin 
-Judith Curren 
-Laasonen 
-Claus Manne Nielsen 
-Monica Seles 
-Sanchez Zarraga 
-Luis Figo 
-Tritan Shehu 
-Shiya Takeishi 
-O.J. Simpson 
-Schultz 
-Hryhory Borsuk 
-Turabi 
-Marco Pascolo 
-Wijaya Indra 
-Florian Rousseau 
-Alhadji Kromah 
-Erik Hanson 
-Hoogma 
-Romano Prodi 
-Jim Telfer 
-M. Moxon 
-Jimmy Thomson 
-Armando Reynoso 
-More 
-Shevchenko 
-Zhang Ning 
-Asa Carlsson 
-Sung-Hee Park 
-Thomas Radstrom 
-Mother 
-Tommy Haas 
-Freddy Pinas 
-Petra Langrova 
-Morton 
-Kankunnen 
-Alexia Dechaume-Balleret 
-CANBERRA 
-Borsuk 
-Vurens 
-Benazir Bhutto 
-Ronaldo Gonzalez 
-Alex Fernandez 
 Riza Altun 
-Mons Ivar Mjelde 
-G. Rose 
-Agrins Zarins 
-Hitler 
-Bruno Adelt 
-Yastrezhembsky 
-Eveningperformance 
-, 
-A. Jadeja 
-Sally Boyden 
-A. Cowan 
-Dawn Bowles 
-Romano Sion 
-Fernando Couto 
-Angelo Medeghini 
-Collin Dugmore 
-Enrico Chiesa 
-Szabo 
-Gong Zhichao 
-Max 
-M. Alleyne 
-Banerjee 
-Mandolina Zelic 
-Tauziat 
-H. Morris 
-Jacqueline Wong 
-Lamm 
-Juliet Cuthbert 
-Lachlan Drummond 
-Eichmann 
-Chong Tan Fook 
-Carlos Moya 
-Juan Eduardo Esnaider 
-Justin Thompson 
-Scott Draper 
-Rosset 
-Ben Ellwood 
-Dahman 
-Michael Perelstein 
-Jack Russell 
-Deon Hemmings 
-Kenneth Eriksson 
-Martin 
-Peter Tramacchi 
-Rashid Latif 
-Woolmer 
-Muralitharan 
-Schwabl 
-Corey Pavin 
-Mary Joe Fernandez 
-Paul Curry 
-Erekat 
-Rita Grande 
-Carl Mason 
-BALL 
-J. Pooley 
-Dusan Kovacs 
-Kenny Cunningham 
-Frank Bunce 
-Ravindra Pushpakumara 
-D. Flemming 
-Loko 
-Mia 
-Eugen Voica 
-Aslan Maskhadov 
-John Lloyd Jones 
-Now 
-McCarthy 
-Gilbert Le Gras 
-Gjon Buzuku 
-Stallone 
-Ray Belim 
-Christophe Impens 
-Pizzi 
-Joseph Kneipp 
-Jans Koerts 
-Benson Koech 
-Robert Coles 
-COCU 
-Mark Hodges 
-.Robbie McEwen 
-Chamorro 
-Phillip DeFreitas 
-Marlene Thomsen 
-Radka Zrubakova 
-Dan Pudvah 
-Grzegorz Krejner 
-Date 
-Ken Goldstein 
-Whittall 
-Pablo Sanchez 
-Sandon Stolle 
-Irina Privalova 
-Leah Pells 
-Robert Allenby 
-Marcelo Salas 
-McEwen 
-Nelson 
-Gareth Farrelly 
-Dragutin Stanojlovic 
-Raymond Atteveld 
-Ahmed Yassin 
-MICKELSON 
-Baeron 
-George Duffield 
-Anthony Washington 
-M. Dowman 
-Siegel 
-Ileana Bell 
-Patricia Djate 
-Vivit Chatuparisut 
-Forwards 
-Krzysztof Piskula 
-Pioline 
-Herbert Demel 
-David Kelly 
-Pietro T. 
-Zhanna Pintusevich 
-B. Hogg 
-Ann Grossman 
-Pierre-Henri Raphanel 
-Danny Rose 
-Warner 
-Alberto Costa 
-J. Bovill 
-David Harding 
-Herschelle Gibbs 
-Gerd Ruch 
-Tsang 
-Sharif 
-Dundee 
-Chili Davis 
-D. Cork 
-Des Smyth 
-Jeroen Blijlevens 
-New 
-Gaissmayer 
-Raphanel 
-Nancy Reagan 
-Ferenc Horvath 
-Marc Wilkins 
-Chan Chia Fong 
-Aleksander Lebed 
-Enrique Centeno 
-Juan Guzman 
-Stephanie 
-Samson Kitur 
-Ian Pyman 
-Sally Barsosio 
-BUSINESS 
-Irina Yatchenko 
-Ryszard Wieczorek 
-Gilbertson 
-Alex Rodriguez 
-Brian McMillan 
-Rodrigo Carneiro 
-Sobotzik 
-de Clercq 
-van der Sar 
-Jean-Marc Gounon 
-Moussa 
-Graham Thorpe 
-Klimis Alexandrou 
-D. Millns 
-Daniel Vacek 
-Oscar 
-Michael Jonzon 
-Ruth Collin 
-Christian Meidlinger 
-Michael Stroud 
-Neale Fraser 
-Marc Hottiger 
-Christina Singer 
-Carl Fogarty 
-Jeremy Guscott 
-Omar Lugo 
-Walter Little 
-Felicia Ballanger 
-Nestor 
-Stewart 
-Ramon Delgado 
-Lupu 
-Thierry Dehaan 
-Thorpe 
-NINE 
-Hatoyama 
-Mario Stieglmair 
-Alicia Machado 
-Stefano Pescosolido 
-Osmond Ezinwa 
-Rafael Palmeiro 
-Mark Woodforde 
-Robert Croft 
-G. Whittall 
-Jonas Bjorkman 
-Arwel Jones 
-Philip Wilcox 
-Kathy Rinaldi Stunkel 
-Benjamin Netanyahu 
-M. Sivasiththamparam 
-Crawley 
-Alomar 
-Frowick 
-Prakash Chandra Lohani 
-Fatos Nano 
-Todd Hollandsworth 
-Jack Kevorkian 
-Ayres 
-Gert Jan Van Doorn 
-Andrew Huddart 
-Jimy Szymanski 
-Marco Villa 
-Collinelli 
-HINCHCLIFFE 
-Debbie Graham 
-Mark Prescott 
-Helmut Kohl 
 Mariner Darren Bragg 
-Miriam Oremans 
-Driller 
-Salvatore Botta 
-Albert Ferrer 
-Pedro Linhart 
-Matthew Pinsent 
-Fernando Meligeni 
-Washington 
-Li Feng 
-Lance Armstrong 
-Mark Ealham 
-Janne Ojanen 
-Gabriel Batistuta 
-Andrew Mehrtens 
-It 
-V. Solanki 
-Alessandro Melli 
-Eric Rush 
-Munakarmi 
-Scott Humphries 
-FOWLER 
-David Rikl 
-Gingrich 
-Milosevic 
-But Lebed 
-R Leong 
-Nitto Santapaola 
-Charles Nagy 
-Mouly 
-Klaus Kinkel 
-Mathias Ntawulikura 
-Colin Montgomerie 
-Hendrik Dreekman 
-Goulnara Fatkoullina 
-Baret 
-Debbah 
-Shkirko 
-Valerio 
-Roest 
-Byas 
-Giovanni Lombardi 
-Mario Basler 
-Woodbridge 
-Liam Botham 
-Jens Fiedler 
-Stephane Chapuisat 
-Rahul Dravid 
-Jacqueline Martin 
-Richard Witschge 
-Paul Newlove 
-John Hartson 
-Robert Mugabe 
-Frank Nobilo 
-Harrison Dillard 
-Colin Jackson 
-Cheary 
-H. Wada 
-Lietti 
-Ian Salisbury 
-Jansher Khan 
-Belmondo 
-Winning 
-Gwen Torrence 
-Medvedev 
-Khadga 
-Royal Ascot 
-Catherine McKiernan 
-Ruehe 
-Yannos Papandoniou 
-Michelle Freeman 
-Ali Alatas 
-M. Walker 
-Parliamentary 
-Smets 
-Ronald Waterreus 
-Hicham Arazi 
-Wally Whitehurst 
-Bernard Weinstein 
-Sabine Appelmans 
-Grace Kelly 
-Craig Evans 
-Ajay Jadeja 
-Bob Dole 
-Julen Lopetegui 
-Prince Charles 
-Ewald Brenner 
-Mir Zaman Gul 
-Eduardo Dutra 
-1892 
-Pierre Fulke 
-Alex Belometti 
-Christophe Ohrel 
-He 
-Ro Gajadhar 
-Cyprien 
-Frost 
-Andruw Jones 
-James Baker 
-Kinkel 
-Verbjorn Rodal 
-RAVANELLI 
-Wasim Akram 
-Denis Irwin 
-Karol Kucera 
-Cathy Freeman 
-Banharn 
-Ukyo Katayama 
-Carol Perry 
-Teemu Selanne 
-Ludmila Richterova 
-Ivan Rodriguez 
-Letitia Vriesde 
-Chuck Adams 
-Ferreira 
-Patrick Stevens 
-Jamie Spence 
-Abyss DeJesus 
-Japie Mulder 
-Maureen Garrity 
-Weinstein 
-Brenden Pappas 
-Stephen Field 
-Rodica Matescu 
-Richard 
-Shahid Hasan Khan 
-John Smiley 
-Vierklau 
-Alexander Popov 
-Jari Litmanen 
-Palmeiro 
-Christian Rudd 
-Conlon 
-Cal Ripken 
-Benfica 
-Butch Harmon 
-Majoli 
-P. Reiffel 
-Juan Curuchet 
-Thomas Bjorn 
-Hever Golf Rose 
-S. Tendulkar 
-Gregory Randolph 
-Jeroen Van Dijk 
-Paola Suarez 
-Rene Eijkelkamp 
-B. Julian 
-Rohrabacher 
-Jacques Chirac 
-Barry Bonds 
-Francis Moreau 
-Willie Wood 
-Chris Boardman 
-Tim Lobinger 
-Michael Hubner 
-David Prinosil 
-Johnny Herbert 
-Abel Anton 
-Lauren Ottoz 
-Larisa Neiland 
-Del Harris 
-Kahalani 
-Tuan Quac Phan 
-Pedro Diniz 
-Harding 
-Carlos Delgado 
-Caroline 
-Enderle 
-Hong Bui 
-Louis Freeh 
-Bernd Mauruschat 
-Key 
-Flavin 
-Damon Hill 
-Baldato 
-Berkrot 
-Currin 
-Marcelo Levingston 
-Anna Knoroz 
-Wayne Jordan 
-Miles Kan 
-Tony Vairelles 
-Stewart Ginn 
-Bobic 
-Malcolm Rifkind 
-Avraham Tamir 
-Philippoussis 
-O'Brien 
-Sadiki 
-Torrance Zellner 
-Alexander Downer 
-Dennis Mitchell 
-Claus 
-Matos 
-Alistair Campbell 
-Wally Joyner 
-Mario Jardel 
-Liam Daish 
-Glyn Davies 
-Sandra Cacic 
-Nelson Miles 
-Belcher 
-Marcio Santos 
-Younes El Aynaoui 
-Charles Austin 
-Joe Carter 
-G. Gooch 
-Wijffels 
-Sheu 
-Peter Nicol 
-Max Marriner 
-Paulao 
-Sometimes 
-Awdankiewicz 
-Gulbuddin Hekmatyar 
-Julia Ferguson 
-Alex O'Brien 
-Fredericks 
-Handrik Dreekmann 
-Chua Jui 
-Anders Olofsson 
-Miroslav Bak 
-Olivier Panis 
-Lejeune 
-Salah Hissou 
-Brad Bryant 
-ROBSON 
-I 
-Franny 
-Mark Petkovsek 
-Thily 
-George Georgiopoulos 
-Kathrin Freitag 
-Hassan Rastegar 
-Peter Pieters 
-Henry 
-Dutra 
-Zeyer 
-Yoshikawa 
-Den Bakker 
-Dimitrios Georgalis 
-Pascal Jongsma 
-Patten 
-Jamie Moyer 
-Zoran Kundic 
-Dejan Savicevic 
-Her 
-Moore 
-Cozma 
-Hillary Rodham Clinton 
-Alain Caveglia 
-Paul Goydos 
-Pascal Zuberbuehler 
-Ion Iliescu 
-Lampros Vasilopoulos 
-Ilkka Laasonen 
-Korda 
-Vladimir Dubrovshchik 
-Gianfranco Stevanin 
-Judith Wiesner 
-Stephane Henchoz 
-Wolfgang Kotzmann 
-Lincoln 
-Liliana Semerdjieva 
-Paul Affleck 
-Weizman 
-Barbara Paulus 
-Culhane 
-Lee Tinsley 
-Jan Siemerink 
-Lee Wan Wah 
-Juan Castro 
-Don Wengert 
-Alan Shearer 
-Jane Chi 
-Chakravarty Rangarajan 
-Jane Quigley 
-J. Russell 
-Asif Mujtaba 
-Zitelli 
-Jacek Berensztain 
-Naina Yeltsin 
-Tim Guldimann 
-Kubo 
-Andrea Gaudenzi 
-Luciano della Noce 
-Grabowksi 
-Zarak Jahan Khan 
-Sven Struver 
-Ahmed Kafawin 
-Gupta 
-Sorrento 
-Arlen Specter 
-Lawrence Sheets 
-Lombardi 
-Joao Vale de Almeida 
-Ann Stephens 
-K. Curran 
-Maria Mutola 
-Ozzie Guillen 
-Zuleeg 
-Patricia Lezama 
-Emilio Valle 
-Mary Batchelor 
-Marcelo Filippini 
-Bongo 
-Tortelli 
-Rafter 
-Donne Wall 
-Craig Dowd 
-Johan Lisabeth 
-Anton Bruckner 
-Tang 
-Seguy 
-Before 
-Sabbagh 
-Most 
-Veldman 
-Steven Redgrave 
-Tomas Post 
-Ashia Hansen 
-H.D. Deve Gowda 
-Susan Roosevelt Weld 
-Bruno Thiry 
-Heng Suan Lim 
-Grant 
-Murphy Jensen 
-Nana Miyagi 
-Ellina Zvereva 
-Paul Stankowski 
-Streak 
-Justin Leonard 
-Sharma 
-Mushtaq Ahmed 
-Jodie Foster 
-Suharto 
-N. Fairbrother 
-Ian Jones 
-Rui Barros 
-Sohail 
-A. Cottey 
-Huisman 
-Albert Schweitzer 
-Johan Van Der Merwe 
-Fabio Baldato 
-Edouard Gritson 
-Yuri Nikiforov 
-Arantxa 
-Pavel Buran 
-Christian Cevaer 
-Idriss Deby 
-Pantic 
-Oksana Ovchinnikova 
-Bill Russell 
-Thomas Enqvist 
-Sarah Brady 
-Karen Pierog 
-Sigurd Njerve 
-George Weah 
-Batterby 
-Domingos Oliveira 
-George Grech 
-Gerard Pignon 
-Lisbet Stuer-Lauridsen 
-Abu Liwaya 
-J immi Madsen 
-Nicole Arendt 
-Gianluca Vialli 
-Mohamed Azharuddin 
-Dai Houying 
-Jose Rosado 
-Heike Drechsler 
-Samson 
-Yehiel Amitai 
-Van Wanrooy 
-Linford Christie 
-Felipe Lira 
-Todd Woodbridge 
-Ian Woosnam 
-Kader Ferhaoui 
-Sean Dundee 
-Elisha Shamay 
-Cedric 
-Cindana 
-Travis Fryman 
-Marco Bode 
-Violeta Chamorro 
-Naoko Sawamatsu 
-BOARDMAN 
-Patrick Sylvestre 
-Pavlos Markou 
-Winston Bogarde 
-Don Loewen 
-A. Brown 
-Vukasin Filipovic 
-Lee Westwood 
-Engquist 
-Andrea Ferrigato 
-James Lee Williams 
-Michael van der Wolf 
-Lori McNeil 
-Wang Shi-Ting 
-TELFER 
-Dugmore 
-Louis Booy 
-Defenders 
-Makinen 
-Wayne Riley 
-ORVIETO 
-Tina Kirzan 
-Steve McManaman 
-Mohammed Azharuddin 
-Alexandra Fusai 
-Peter Machungwa 
-Sitanyi 
-David Endt 
-Rafael Moreno Turrent 
-Chavalit Yongchaiyudh 
-Danny Theybers 
-Komala 
-Asanka Gurusinha 
-Clinton 
-NEAGLE 
-Midfielders 
-Don McKinnon 
-Natasha Zvereva 
-Pat Manson 
-William O'Neill 
-Tatyana Jecmenica 
-Peter Atherton 
-Malcolm Marshall 
-Hal Morris 
-Ian Harte 
-Jonas Savimbi 
-Cruyff 
-Gorre 
-Mo Vaughn 
-Michael Stich 
--- 
-Roberta Brunet 
-Carlos Secretario 
-Arafat 
-Hector Campora 
-Sake 
-Yone Kamio 
-Dietmar Lalcher 
-Vitor Baia 
-Agnieszka Godras 
-Lars Riedel 
-Charlton 
-Wessels 
-Antonio Quarracino 
-Ganguly 
-Tom Pukstys 
-Arkadiusz Bak 
-Stephanie Deville 
-Klaus Baader 
-Van Heeswijk 
-Kuhn 
-Tim Wakefield 
-ATLANTA 
-Vicente 
-Esnaider 
-Haga 
-Yelena 
-Wataru Kubo 
-Alex Boraine 
-Beatrix 
-Tim Herron 
-Ai Sugiyama 
-Das 
-Mahmoud Abbas 
-Saeed Anwar 
-Jason Rouser 
-Villa 
-Manuel Alvarado 
-Roelofsen 
-al-Turabi 
-Zilinskiene 
-Stefan Schwarz 
-Strobe Talbott 
-Dana Rohrabacher 
-This 
-Peiris 
-Newt Gingrich 
-Ekimov 
-Charles McGilley 
-Komarica 
-Suvit Maenmuan 
-Imran Khan 
-Gabriel Curuchet 
-Lien Chan 
-Black 
-Salahuddin 
-Kris Goossens 
-Jaap Stam 
-Taylor 
-Nanda Gopal Bhattacharya 
-BAN 
-Alexander Barkhatov 
-John Hagelin 
-C. Lewis 
-Mark Acre 
-E. Brandes 
-Hoiles 
-Van Arum 
-Prince Abdullah 
-Per Nyman 
-Herve Thuet 
-Shay Given 
-Werner Zwingmann 
-Jens Veggerby 
-BLIND 
-Around 
-Rosati 
-G. Parsons 
-Hristo Stoichkov 
-Ekeus 
-Javier Sanchez 
-Terry Kennedy 
-KANKKUNEN 
-Emajuddin Ahmed 
-Fili Houteman 
-Alexandre Barros 
-Martin Gates 
-Drobnjak 
-Ashley Mocude 
-Ozers 
-Anna Kournikova 
-Mike Stanley 
-Dick Morris 
-Dan Glickman 
-Rolf Sorensen 
-Andre Bois 
-Venkatesh Prasad 
-Jos Verstappen 
-Mark Cairns 
-C. Rangarajan 
-CROFT 
-Kurt Abbott 
-I. Salisbury 
-Davies 
-Edhem Efendija Camdzic 
-Bob Willis 
-Alejandro Lanusse 
-Carsten Wolf 
-We 
-Johnson 
-Padraig Harrington 
-Kocinski 
-Sergei Mironov 
-Sandra Dopfer 
-Fowler 
-Abdul-Karim al-Kabariti 
-Franz Stocher 
-Carlos Bianchi 
-Simon Crafar 
-Devers 
-Soprun 
-Craig Brown 
-Robert Karlsson 
-David 
-Paul Eales 
-Botha 
-Peter Munk 
-Johnny Damon 
-Linda Wild 
-Li Peng 
-Vince Spadea 
-Schultz-McCarthy 
-Hafez al- 
-Shimon Peres 
-Katarina Studenikova 
-Mary Onyali 
-Reynolds 
-Anneke Matthijs 
-Hosni Mubarak 
-Petrovic 
-Vincent Malakwen 
-Stephen McAllister 
-Nicky Boje 
-Ali Fallahiyan 
-Takemura 
-Boutros Harb 
-Jerry Bieszk 
-Sachin Tendulkar 
-SORRENTO 
-Jorge Costa 
-Anne Marken 
-Jody Reed 
-Asif Ali Zardari 
-Retief Goosen 
-Robert Stefko 
-JONK 
-Seiki Okuda 
-Rory Underwood 
-Sarah Pitkowski 
-Domingo Hospital 
-Pier Francesco Chili 
-Stephane Ortelli 
-Adolfo 
-Miladin Becanovic 
-Pablo Campana 
-Garrett Lambert 
-Knight 
-Al Gore 
-Boutoille 
-Tendulkar 
-Bernard 
-Fine 
-Hidemichi Tanaka 
-Tommy Martyn 
-Emon 
-Toronto Dominion 
-Juha Ylonen 
-J. Crawley 
-Thomas Haessler 
-Keiron Henderson 
-Sjeng Schalken 
-Roger Black 
-Siraj Mia 
-Sheu Yuan-dong 
-Claudio Moura 
-Marcelo 
-Eamonn Darcy 
-Suleyman Demirel 
-Ponting 
-Jim Edmonds 
-Terry Mulholland 
-Sfeir 
-Cam Battersby 
-B. Yeltsin 
-Jacques Kallis 
-Fernanda Ribeiro 
-Danny Blind 
-Qidra 
-Jacques Villeneuve 
-Magali Faure 
-Terry Price 
-Mike Atherton 
-Gray 
-Goldstein 
-Hwang 
-Davey Johnson 
-Rona Young 
-John Regis 
-Guivarch 
-Hal Sutton 
-Graf 
-Adel Ibrahim 
-Pierre Buyoya 
-Gary Lauck 
-Joel Stranksy 
-Servais Knaven 
-Coetzee 
-Conchita Martinez 
-Pierre Claverie 
-Pivotal 
-Ville Peltonen 
-Arrigo Sacchi 
-John Howard 
-Benito Santiago 
-W.N.F. Chandraratne 
-Agassi 
-Lynda Chalker 
-Richard Black 
-Ottey 
-Capiot 
-Castilla 
-U.S. 
-Gooch 
-Inspector Maigret 
-Mobutu 
-Graham Gooch 
-Roberto Baggio 
-Greg Turner 
-Hirsch 
-Chanda Rubin 
-Erik Breukink 
-A. Harris 
-Jones 
-Bunce 
-Virna De Angeli 
-Smoltz 
-Volker Ruehe 
-Michael Sandstod 
-Hall 
-Kallis 
-V. Drakes 
-Francesco Toldo 
-Goncharova 
-Helder Cristovao 
-Goran Ivanisevic 
-Martin Keino 
-Alec Stewart 
-Pauline Konga 
-Two 
-Cristina Torrens-Valero 
-Kevin Mitchell 
-Colonna 
-Benjamin Menendez 
-Robert Reichel 
-Sells 
-Enqvist 
-Decker 
-Kafelnikov 
-Nicolas Pereira 
-Francesco Casagrande 
-Jimmy 
-Neil Williams 
-O'Donnell 
-While Clinton 
-Ana Fidelia Quirot 
-Jayasuriya 
-R. Irani 
-Jay Buhner 
-Sharpe 
-Hana Benesova 
-Laban Rotich 
-Paula Radcliffe 
-Franz Fischler 
-Anders Thoren 
-Jordi Cruyff 
-Svetlana Masterkova 
-Tulio 
-Mustapha Hadji 
-Gary Teichmann 
-Christophe Bonvin 
-Khemais Chammari 
-Paul O'Neill 
-Inderjit Gupta 
-Museeuw 
-Constand Viljoen 
-Robert Frowick 
-I.K. Gujral 
-Naoko Kijimuta 
-Gilbert Agius 
-Ally McCoist 
-Goschen 
-Christian Cullen 
-Eric Davis 
-Denny Neagle 
-Ruth 
-Alistair Brown 
-Biljana Plavsic 
-M. Dekker 
-Colin Hope 
-David Ginola 
-Ainars Kiksis 
-Giovanni Lavaggi 
-Boris Yeltsin 
-LOMBARDI 
-Dimas Teixeira 
-Juan Llaneras 
-GABRICH 
-Machado 
-N. Williams 
-Ezer Weizman 
-Tillstrom 
-William Luehrs 
-Adam Fedoruk 
-Meghann Shaughnessy 
-Penalties 
-Michael Doohan 
-Arnaud Boetsch 
-Eduardo Romero 
-M. Vaughan 
-Hernan Gumy 
-G. Archer 
-Tatiana Stiajkina 
-Rush 
-Hope 
-Michael Welch 
-Nathalie Dechy 
-Petr Gabriel 
-TENDULKAR 
-BATISTUTA 
-Nunung Subandoro 
-Phil Regan 
-Adelbert Knobl 
-Benazir 
-Mark Chaloner 
-Steve Stricker 
-BOTHAM 
-Tijjani Babangida 
-Jim Payne 
-Patrik Sjoberg 
-L. Botham 
-GIBBS 
-Tommi Makinen 
-Petr Gunda 
-Hans de Clerq 
-Hidemichi Tanaki 
-Mike McCurry 
-Steven Bottomley 
-Lou Gehrig 
-Eefje 
-John Ridgeon 
-Tang Shubei 
-Anthony Gobert 
-Said 
-Robert Chabora 
-Alami 
-Gavin Levenson 
-Marina Andrievskaqya 
-Valentin Valkov 
-Takuma Aoki 
-Brad Ausmus 
-Rene Schneider 
-Valdo 
-Federico Colonna 
-Moeller 
-Severin Konan Kouame 
-Sergi Bruguera 
-Vincent Pamire 
-Vinny Castilla 
-Lanusse 
-Brady 
-Arnold Ruutel 
-A. Stewart 
-An Marchal 
-Margaret Crowley 
-Karsten Richardt 
-Tatyana Dmitrieva 
-Alan Lovell 
-Ciriaco Sforza 
-BREGANCON 
-Rosemary Bennett 
-Ruutel 
-Luca Cadalora 
-Brett Martin 
-KEANE 
-Richey Reneberg 
-Brandes 
-Peter Johansson 
-Andre 
-Jason Dickson 
-Frank Asselman 
-Eddie Hedaya 
-P. Cottey 
-Lasse Lampi 
-Tracy Roosevelt 
-Ryo 
-Boshova 
-Richard Hadlee 
-Shehu 
-Ian Botham 
-Ray Durham 
-Ian 
-NORTHAMPTON 
-Umar Shelling 
-Deby 
-Maicel Malone 
-Darryn Hill 
-David Coulthard 
-Galina Malchugina 
-Derek Crookes 
-Wasim 
-Greg Gagne 
-Trulsen 
-P. Strang 
-Bob Brett 
-Owen-Jones 
-Vladimir Zhirinovsky 
-Belometti 
-Luis Miguel Predrosa 
-Jose Rivero 
-Fernandes 
-Votava 
-Philip Kibitok 
-Gennadi Skidan 
-Granic 
-Jack 
-Karin Kschwendt 
-Prescott 
-Gounon 
-GRAF 
-Jean-Claude Nadon 
-Ranatunga 
-Khaled al-Qidra 
-Doreen Siow 
-Gregory Carraz 
-Herschelle Gibs 
-Inga Babakova 
-Mick McCarthy 
-Jorge Cadete 
-Jose Moreno 
-Michael Marsh 
-Amer Hishem Ali Mohammed 
-Andrew Hudson 
-Robert Rubin 
-MEHRTENS 
-Tim Henman 
-Andrejez Wozniak 
-Abolhassan Banisadr 
-Acre 
-Rui Madeira 
-Schreuder 
-Mushota 
-Salou Bachirou 
-There 
-Tina Krizan 
-Robin Brooke 
-John Mayock 
-Christopher Wreh 
-Kenneth Carlsen 
-Moyer 
-Paul McGrath 
-Jonathan Bachini 
-Barton 
-Sean Fitzpatrick 
-Majid Takht Ravanchi 
-Gary DiSarcina 
-Aslan Shabazov 
-Paul Thompson 
-Mary Pierce 
-Randy Johnson 
-Hasina 
-Brosius 
-DeJesus 
-Jesse Owens 
-Jewell 
-Rodriguez 
-Paul Reiffel 
-Fischler 
-Tony Hands 
-Carlo Ancelotti 
-Grant Stafford 
-Godee 
-Vaclav Havel 
-Stefan Kuntz 
-Abdala Bucaram 
-Scott Winkler 
-Hendrix 
-North Island 
-Kevin Seitzer 
-Robert Aranosian 
-Garang 
-Elena Makarova 
-Gary Neiwand 
-Tami Whitlinger Jones 
-Ishwari Boopathy 
-J. Mercer 
-Rui Correia 
-Garret Anderson 
-Jim Brumm 
-Luc Nilis 
-Simon Culhane 
-Kengo wa Dondo 
-Max Sciandri 
-Matt Stairs 
-Jose Maria Olazabal 
-Wilson 
-Tansu Ciller 
-Van Gastel 
-Wagle 
-Srinath 
-Ronan Rafferty 
-Italo Pineda 
-Brian Wellman 
-Dan Jensen 
-Edberg 
-Radek Bonk 
-David Batty 
-Tareq Aziz 
-Abdulsamad Hameed Ali 
-Falilat Ogunkoya 
-R. Dravid 
-Arantxa Sanchez Vicario 
-Perot 
-D. Robinson 
-Julian Wellings 
-BONDS 
-EDBERG 
-Tom Steels 
-Yi Jing-Qian 
-Mate Granic 
-Marty Cordova 
-Flower 
-Ludmila Engquist 
-Petr Korda 
-Chelsea 
-Trond Bathel 
-Sandra Cecchini 
-EMON 
-William Goldman 
-Ischinger 
-Moira Lynch 
-Detroux 
-Annabel Ellwood 
-Michele Bartoli 
-Bartoli 
-A Seguin 
-Gabrich 
-CHANG 
-Antonio Oliveira 
-Faber 
-Luke Jensen 
-Watts 
-Javier Gomez de Liano 
-Gatera 
-Willie Blair Tony Gwynn 
-Iva Majoli 
-S. Renshaw 
-Filippo Veglio 
-Stoltenberg 
-Alicia 
-Tang Jiaxuan 
-Gerard Kiely 
-Aguirre 
-Donovan Bailey 
-Allahu 
-Julia Carling 
-Rangarajan 
-Mark Philippoussis 
-Alexander Paris 
-Andrea Giaconi 
-Steve Weizman 
-W. Noon 
-Ronald de Boer 
-Kim White 
-Alex Ferguson 
-Owens 
-Barry Lane 
-della Noce 
-Erwin van der Looi 
-Gabor Sitanyi 
-Ann Mercken 
-Rocky Coppinger 
-Hasely Crawford 
-Burhanuddin Rabbani 
-S. Law 
-Bob May 
-Isel Lopez 
-Santorelli 
-Jennifer Flavin 
-Laurent Ottoz 
-Ricky Willison 
-Kamuzu Banda 
-Maso 
-Alex Criville 
-Specter 
-Giunluca Gorini 
-Caminiti 
-Johan de Kock 
-Brady Anderson 
-Fred Trueman 
-Frank Quilter 
-Anil Kumble 
-Chris Woodruff 
-Gordon Parsons 
-Rudi Thiel 
-Erik Camerlengo 
-Johan Capiot 
-Alex Arias 
-David Cowan 
-Jennifer Capriati 
-Simpson 
-Mike Gatting 
-Simon Parke 
-Scott McGrory 
-Raphael Riel 
-Valentin 
-Craig Held 
-Prince Rainier 
-Peter Hedblom 
-Filip Dewulf 
-Wickman 
-SELES HAS 
-R. Blakey 
-Enzo Scifo 
-Emmanuel Sobral 
-Raichev 
-N.J. Bose 
-Edwin van der Sar 
-Julio Cesar Vega Rojas 
-Martinez 
-Sanchez Vicario 
-Joey Hamilton 
-Roosevelts 
-Roberto Jabali 
-Robert Schuman 
-Lloyd Bentsen 
-J.S. Bach 
-Mika Hakkinen 
-Martin Brundle 
-Heiki Kranich 
-Jonah Lomu 
-Adolf Hitler 
-Tatyana 
-Hoddle 
-Amy Frazier 
-Jim Grabb 
-Barbara Rittner 
-Peter Blank 
-Woodforde 
-Simon Brown 
-Nanne Dahlman 
-Eric Bernard 
-M. Saggers 
-Jens Lehman 
-Marc Dutroux 
-Ruch 
-Andreas Moeller 
-Superman 
-Gabriela Sabatini 
-Magnus Gustafsson 
-Hinchcliffe 
-Francisco Cea 
-Chandrika Kumaratunga 
-Seve Ballesteros 
-Greer 
-Balakow 
-Dean Headley 
-Matt Lawton 
-Rabinovich 
-John Hart 
-Vladimir Smicer 
-PIVOTAL 
-Janette Husarova 
-Roger Hegi 
-Wayne Westner 
-Douati Alphonse 
-Bragg 
-Peron 
-Pete Sampras 
-Erik Dekker 
-Antoine Kombouare 
-Luke Kipkosgei 
-Anthony Nyakyi 
-Caddick 
-Julie Tolkacheva 
-Sammy Sosa 
-Macdonald 
-Eugene de Kock 
-Louise Siebens 
-Mauricio Hadad 
-Lacher 
-Chiquinho Conde 
-Juppe 
-Milan Kucan 
-Naoto Kan 
-Rohan Robinson 
-Devon White 
-Carl Suneson 
-Desmond Tutu 
-Philippe Seguin 
-Miltiadis Evert 
-Fatkoullina 
-Merlene Ottey 
-Daniel Chopra 
-Ricky Ponting 
-George Hincapie 
-Gennadi Markov 
-Fraser 
-Max van Heeswijk 
-S. Jayasuriya 
-Wojtek Lazarek 
-Fabien Lefevre 
-Juergen Kohler 
-White 
-Habsudova 
-Steven Vrolijk 
-Luigi Seguy 
-Regina Jacobs 
-Westlake 
-Ricardo Sa Pinto 
-Jim Courier 
-G. Lloyd 
-BUGNO 
-Loren Roberts 
-Anatoly Shkirko 
-Jamir Cvetko 
-Mirhunisa Komarica 
-David Gilford 
-Nail Besirovic 
-Smirnov 
-Inger Miller 
-Hundreds 
-William Istafanus 
-Corey Pointer 
-Lixion Avila 
-Stefano Tilli 
-Fred Funk 
-Frankie Rodriguez 
-Brian Gilbertson 
-John Smoltz 
-Cedric Pioline 
-Karl Inderfurth 
-Ballanger 
-Romesh Kaluwitharana 
-McCoist 
-Ahmed Barada 
-Tamas Erdei 
-Edvard Grieg 
-Wouden 
-Davis 
-Juan Somavia 
-Siu Man 
-Jacob Brumfield 
-Shadab Kabir 
-Ahmed Korei 
-David Wheaton 
-Geoffrey Fieger 
-Asif Ali 
-Ian McGeechan 
-Balakov 
-P. Prichard 
-Arthur Levitt 
-Gibbs 
-Meri 
-Gajdos 
-Shi-Ting Wang 
-Darren Anderton 
-Stanojlovic 
-Mohammad Akram 
-C. Evans 
-Pelletreau 
-Akpoborie 
-William Boston 
-Noel 
-Edgar Davids 
-Nastja Rysich 
-M. Slater 
-Bart Voskamp 
-Juha Kankkunen 
-Glickman 
-G. McGrath 
-Richard Wisinga 
-Takeda 
+LEWIS 
+D. Cox 
+Eliahu Ben-Elissar 
 CYPRIEN 
-Shinichi Itoh 
-Younnes El Aynaoui 
-Thomas Sabotzik 
-Andrea Collinelli 
-Tony 
-G. Flower 
-Mokhoff 
-Oceano Cruz 
-Liam 
-Dalglish 
-Francis Agyepong 
-Sabine Hack 
-Huw Jones 
-Marcus Gronholm 
-Iain Pyman 
-Jason Weaver 
-Paul Strang 
-Niclas Fasth 
-Rupert Murdoch 
-Ejup Ganic 
-Albert Belle 
-Derek Ringer 
-Penrose 
-Sinead Delahunty 
-Dole 
-Blackburn 
-Anders Forsbrand 
-Emanuil Ceausu 
-Dimitris Kontogiannis 
-Pauline Davis 
-Donkow 
-Tony Roche 
-Alex Radulescu 
-Nick Mokhoff 
-SALAH HISSOU 
-John Allen 
-Hashan Tillekeratne 
-Basie Smit 
-Antonio Folha 
-Haessler 
-Tatyana Motkova 
-Derrick Adkins 
-Gideon Chirchir 
-Frederic Magne 
-Phelan 
-Clarence Rose 
-Michael Schumacher 
-Jumbish 
-Klas Eriksson 
-Seles 
-Silke Renk 
-Sainz 
-Chiate 
-Daschle 
-Henry Candy 
-Christine Wachtel 
-Jordan 
-Dheeraj 
-Fred McGriff 
-Ferrigato 
-Belgian 
-Els Callens 
-Henke Larsson 
-Paul McGinley 
-Georges Simenon 
-Haruchika 
-Vowinkel 
-Double Trigger 
-Edward Said 
-Beaver 
-Guy Forget 
-Patrick Kluivert 
-Allan Mullally 
-Bruno Risi 
-Sary 
-Paul Bloch 
-Pat Hentgen 
-Younis 
-Julie Baumann 
-A. Giles 
-Mark Kennedy 
-Andrew Coltart 
-Therese 
-Olivia 
-Marco Vaccari 
-Will Carling 
-Malivai Washington 
-Leeds 
-Kurt Betschart 
-Virginia Ruano-Pascual 
-GPG 
-A 
-Louis Viannet 
-Springer 
-Filipovic 
-Musa Hamiti 
-Popov 
-C. Wishart 
-BONNET 
-Antonio Esposito 
-Jarmo Kytolehto 
-Sandra Kleinova 
-Amr 
-Oliver Ludwig 
-Zimbabwe 
-John Gilardi 
-Andy Flower 
-Boeta Wessels 
-Mark Gildea 
-Michael Atherton 
-Derek Mills 
-Adam Hollioake 
-John Kocinski 
-Bob Wickman 
-Karina Adams 
-Neumann 
-Isaac Galvez-Lopez 
-Jeff Hawksworth 
-Lindy Remigino 
-Shen Guofang 
-Andi Kanstinger 
-Herman Wijffels 
-Milinko Pantic 
-Yitzhak Mordechai 
-Terry Steinbach 
-Myles Frechette 
-Julian Tavarez 
-Bob Wollek 
-FERRIGATO 
-Stephen Pate 
-Justin Marshall 
-Spot Thomson 
-Teresa 
-Nick Knight 
-But 
-Abdul Rahman Haj Yihye 
-Harvey 
-Edgar 
-K. Brown 
-Abu Mazen 
-Nick Nieland 
-Maureen Carey 
-Massoud Rajavi 
-Miguel Angel Jimenez 
-Mobutu Sese Seko 
-Ejup Bajgora 
-Marriner 
-Derek Jeter 
-MaliVai Washington 
-Michael Mollenbeck 
-Perfetti 
-Tom Watson 
-Chen Gang 
-Shayne King 
-Kaluwitharana 
-Peter Mitchell 
-Miranda 
-Sebastien Tortelli 
-Weld 
-Richard Krajicek 
-Daniel Levy 
-Takeishi 
-Kabariti 
-STICH 
-Frederic Vitoux 
-Billy Swift 
-Luis Polonia 
-Philip Walton 
-A. Shah 
-OLAZABAL 
-Alan Greenspan 
-Piotti 
-Shane Drew 
-The 
-In 
-Hussein 
-Gale Norton 
-Endrio Leoni 
-Narciso 
-Mika Salo 
-WASIM AKRAM 
-Jacob Hlasek 
-Jesus Tavarez 
-Reuf Mehemdagic 
-Meluawati 
-Karsten Baeron 
-Nilsson 
-Paul Lawrie 
-Bernd Schmidbauer 
-MULDER 
-Buffett 
-Squad 
-Griffiths 
-Roger Clemens 
-Kapoor 
-Havel 
-Shuzo Matsuoka 
-Nearly 
-Pam Shriver 
-Pang Chen 
-Bobby Valentine 
-John McNamara 
-Michael Reiziger 
-Neil Hodgson 
-.Giuseppe Citterio 
-Faure 
-Loyola de Palacio 
-Ruxandra Dragomir 
-Kenneth Chiate 
-Wolfgang Kreissig 
-Servet Pellumbi 
-Bill Clinton 
-Ahmed Faizy 
-Mark Davis 
-A. Wells 
-Richard Kosgei 
-Mark Spitz 
-Jan Ove Pedersen 
-Rebecca Weinstein 
-Terence 
-Thomas Bscher 
-Tony Whiteman 
-Butare 
-Jan Kroslak 
-Michel Zanoli 
-Marty Nothstein 
-Galo Blanco 
-Radka Bobkova 
-Stuart Law 
-Zbigniew Siemiatkowski 
-Akbel 
-Frederick Chiluba 
-MAKINEN 
-Schork 
-Andrew Symonds 
-Bose 
-Andreas Koepke 
-Craig MacLean 
-Greg Frost 
-Andy Hinchcliffe 
-Steve Staunton 
-Oliver Bierhoff 
-Christian Ruuttu 
-Helmer 
-Silvio Berlusconi 
-Trevelyan 
-Joao Vieira Pinto 
-Steve Conroy 
-Mother Teresa 
-Lila Osterloh 
-Marc Dollendorf 
-Michael Chang 
-Bob Janis 
-Mangala Das 
-J. Srinath 
-Alan Kelly 
-Alexei Markov 
-Annett Neumann 
-Ousmane Kaba 
-Rubens Barrichello 
-Netanyahu 
-Agnes Goinxha Bejaxhiu 
-Markvart 
-Jongsma 
-Michael Campbell 
-Mark Brooks 
-Philip Cocu 
-George Bush 
-Helder 
-Chelsea Clinton 
-Lee Ki-choo 
-Khotin 
-Michelle Martin 
-Drazen Beser 
-Yasushi Akashi 
-Frederic Vialle 
-Stephen Ames 
-Robbie Fowler 
-Vyacheslav Tikhomirov 
-Bertram 
-Lambert 
-Morris 
-Tony Cascarino 
-Russell Claydon 
-Bailey 
-Natalya Shikolenko 
-Yevgeny Primakov 
-Abdul Rashid Dostum 
-Nicholas Gcaleka 
-Jean 
-Bartha 
-Keller 
-Yuuchi Takeda 
-Jonathan Stark 
-Josef Stalin 
-Alexander Zickler 
-Kock 
-Patrice Loko 
-John Head 
-MCRAE 
-GREER 
-Amr Shabana 
-Julius Nyrere 
-Ross McFarlane 
-de Boer 
-Jimmy Key 
-Antonio Gonzalez Garcia 
-Edgar Renteria 
-Boardman 
-Guy Whittall 
-Bernard Barmasai 
-Allen 
-Patrick Rafter 
-Hermawan Susanto 
-Jean-Denis Deletraz 
-David Hulse 
-Hintsa 
-Luis Baltasar 
-Jeff Williams 
-Steffen Freund 
-Breukink 
-Aaron Slight 
-Andre Caboche 
-Budge Weidman 
-Gujral 
-Bancarel 
-Paul Belmondo 
-Jacek Dembinski 
-Michael Bevan 
-Preston 
-Azharuddin 
-Vinod Kambli 
-Fanie de Villiers 
-Todor Zhivkov 
-Lauck 
-V. Kambli 
-Mark Rutherford 
-Chiluba 
-Leonardo 
-Dennis Bergkamp 
-Silvio Martinelli 
-Paul Adams 
-Jean Alesi 
-Orlando Miller 
-Carlos Sainz 
-Gabriele Colombo 
-Guillaume Raoux 
-Tavarez 
-Tom Kiernan 
-Toomas Savi 
-Curtis Fleming 
-Chang 
-SIDHU 
-VOGTS 
-Jennifer Hurley 
-Yvegeny Kafelnikov 
-King Hassan 
-Mats Wilander 
-Stefan Edberg 
-Geronimo 
-Duncan Ferguson 
-Laxmi Poruri 
-Leopold 
-Banisadr 
-Fita Bayesa 
-Martin Erdmann 
-Kombouare 
-Colin Edwards 
-Oliver Kahn 
-Jared Palmer 
-Jadeja 
-VanLandingham 
-Tom Lodge 
-Jerome Egurugbe 
-Hamming 
-Andre Snyman 
-Michael Tucker 
-David Naish 
-Fatima Yussuf 
-Satoshi Higashi 
-Adrian Nastase 
-Ruth Perry 
-Saint of the Gutters 
-P. Weston 
-Virgilius Alekna 
-SMICER 
-Ato Boldon 
-Ibrahim 
-Bourlet 
-Graham Sharman 
-Vitesse 
-Conde 
-POPOV 
-Lasa-Zabala 
-Steve Brown 
-Damien Lynch 
-Justice K.T. Thomas 
-Lyman 
-Paul Ting 
-Martin Max 
-Marty Jemison 
-Steve Schneiter 
-Francois-Rene ( Vicomte de ) Chateaubriand 
-Maurizio Fondriest 
-Yasser Arafat 
-Anke Huber 
-Marina Trandenkova 
-Conroy 
-Hanna Haugland 
-C. Ambrose 
-Bruny Surin 
-Lien 
-CHANDA RUBIN 
-Natalya Voronova 
-Conversion 
-Mar'ie Muhammad 
-Vass 
-Martens 
-Reppas 
-Horst Siegl 
-Khum Bahadur Khadga 
-Marek Citko 
-Dieter U 
-Andre Markgraaff 
-Roy Keane 
-David Byas 
-Josh Kronfeld 
-Foe 
-Heath Streak 
-Nicolas Lapentti 
-Ata-ur-Rehman 
-M. Ramprakash 
-Mohammad Akam 
-Fogarty 
-GATTING 
-S. Ganguly 
-Ken Saro-Wiwa 
-Masayoshi Takemura 
-Georgios Chimonetos 
-Jerry Schein 
-Ellis Burks 
-Jeffrey 
+Ludmila Ninova 
+Jamie Spence 
+Mullally 
+Abdul Samad Ismail 
+Baker 
+Jimy Szymanski 
+Mohamed Fahim Rayyan 
 Henry Tricks 
-Neil Fairbrother 
-JORGE 
-Riedle 
-Bartlomiej Jamroz 
-REDGRAVE 
-Feinstein 
-Theodore Roosevelt 
-Mind Games 
-Jordi Burillo 
-Michelman 
-Arnold 
-Michael Tebbutt 
-Ronald Goldman 
-Nikki Campbell 
-Ilott 
-Alan Mullally 
-Agnieszka Kotlarska 
-Yayuk Basuki 
-Marianne Werdel Witmeyer 
-John Paul 
-Little 
-Earl Feugill 
-Mayfiar 
-Sidhu 
-Wataru Yoshikawa 
-Hubert Grossard 
-Coetzer 
-Dieter Eilts 
-GOOCH 
-Andy Townsend 
-Andrea Glass 
-Daniel Komen 
-William VanLandingham 
-Bradys 
-Sebastian Lindholm 
-Moin Khan 
-Gillian Russell 
-Cimicchi 
-Lotte 
-Alain Juppe 
-An 
-Florence 
-Philip Blenkinsop 
-Jacques Toubon 
-Buyoya 
-Soren Jessen-Petersen 
-Franklin D. Roosevelt 
-HUBER 
-Mark McNulty 
-Marco Giampaolo 
-Aron Winter 
-Ramon Machuca 
-Peter O'Malley 
-Jolene Watanabe 
-Liutauras Stremaitis 
-Hariri 
-Carl Lewis 
-Artyom Danielyan 
-Bernhard Langer 
-Mark Roe 
-Jan Van Eijden 
-Costas Skandalidis 
-Margit Borg 
-Charles Bauza Donwahi 
-Ruben Kruger 
-Dominic Hewson 
-Glenn Taylor 
-Ahmed 
-Coughlan 
-Helena Sukova 
-Juliana 
-Jacky Martens 
-Fleuchaus 
-Viktor Chernomyrdin 
-Gramoz Ruci 
-James Weaver 
-Janez Drnovsek 
-Giuly 
-Dani 
-Natalya Torshina 
-Tutu 
-Manfred Kanther 
-Hennady Udovenko 
-Sterling Hitchcock 
-Williams 
-John Hinckley 
-William Perry 
-Craig Matthews 
-POLLOCK 
-Steve Howey 
-Roberto Benigni 
-Renzo Furlan 
-Rudolf Gajdos 
-Anthuan Maybank 
-Troy Corser 
-Rickey Henderson 
-C. White 
-Janet Reno 
-O'Neill 
-A. Kumble 
-CARLING 
-Francisco Clavet 
-Mickelson 
-Eddie Irvine 
+Gordon Smith 
+Pierre Claverie 
+Bob Wollek 
+A. Kapoor 
+Christopher Wreh 
+-DOCSTART- 
+Jack Berry 
+Tim Goldiman 
+Sukarnoputri 
+John Grant Fagan 
+Marco Vaccari 
+Luis Vidigal 
+Eduardo Dutra 
+Emon 
+Fernandes 
+Walter Little 
+Daoud Makkawi 
+Ralf Kelleners 
+Jason McAteer 
+Baldato 
+Matos 
+Mark Pembridge 
+Barnes 
+Patsy Kensit 
+Agnieszka Godras 
+Juan Carlos Pinero 
+Adelbert Knobl 
+R. Croft 
+Tatyana Motkova 
+Isaac Galvez-Lopez 
+Pat Hentgen 
+Paula Radcliffe 
+Elisha Shamay 
+Carlos Bianchi 
+Benazir Bhutto 
+Mark Kennedy 
+Scott Humphries 
+Guivarch 
+Allan Mullally 
 Fannie Johnson 
-James Scott Brady Jr 
-Olazabal 
-Perelstein 
-Pires 
-Brooks 
-Annette Peters 
-Diniz 
-Ahmed Hashem Zighayer 
-WEAVER 
-David J. Russell 
-Anders Haglund 
-Patrick Sang 
-Slobodan Milosevic 
-SORENSEN 
-Blind 
-Sergei Yastrzhembsky 
-Tom Lehman 
-Steady Eddie 
-Artur Jorge 
-Mehmet Scholl 
-Sarka Kasparkova 
-Piazza 
-Jean-Paul van Gastel 
-Lindsay Owen-Jones 
-Ingrid Haringa 
-Chatichai Choonhavan 
-Heinz-Harald Frentzen 
-Nadarajah Muralidaran 
-Franny Weld 
+Zina Garrison Jackson 
+Cyprien 
+Stephane Guivarch 
+Peter Roe 
+Coughlan 
+Bossi 
+Nicky Boje 
+Zundra Feagin 
+Svetlana Goncharova 
+TENDULKAR 
+Lucas Moreira Neves 
+Berri 
+NINE 
+Mariano Juan 
+Peron 
+Mary Batchelor 
+Iain Pyman 
+Gianni Versace 
+Silvio Martinelli 
+Ganguly 
+Ieng Mouly 
+Abdul-Karim al-Kabariti 
+Ajay Jadeja 
+Every 
+Nadeau 
+Bohdan Ulihrach 
+Grace Kelly 
+Laca 
+Buettner 
+Matt Lawton 
+Detroux 
+Richard Black 
+Gennadi Markov 
+Mir Zaman Gul 
+George Joulwan 
+Takemura 
+Bertram 
+Sali Berisha 
+Daniel Chopra 
+Cheah Soon Kit 
+Kostas Malekos 
+Two 
+McCurry 
+Domingo Hospital 
+BUSINESS 
+Mariacarla Bresciani 
+Svetlana Samokhalova 
+Ricardo Sa Pinto 
+Marcin Mieciel 
+Qiang Hong 
+Huber 
+Pioline 
+Anne Miller 
+When Schein 
+Dennis Ross 
+Hussein Khalaf 
+Jakob Hlasek 
+Juliet Cuthbert 
+Davidson Ezinwa 
+Keiji Kojima 
+Rohrabacher 
+Pakistan 
+Jesse Owens 
+Witechek 
+Anto Drobnjak 
+Enqvist 
+Tsang 
+Ronnie Irani 
+W. Athey 
+Craig Matthews 
+BLIND 
+Desmond Tutu 
+Marwan Muasher 
+A. Cowan 
+Buyoya 
+SORRENTO 
+Homewood 
+Naoto Kan 
+Penalties 
+Clarence Seedorf 
+Mick McCarthy 
+Alistair Brown 
+Black 
+Garrett Lambert 
+Oliver Kahn 
+PAULO 
+Kaluwitharana 
+Jay Buhner 
+Ruxandra Dragomir 
+But Meri 
+Murray 
+Courtney Walsh 
+David Rikl 
+Zinzan Brooke 
+Ramon Delgado 
+Anatoly Shkirko 
+Michael Campbell 
+Pedro Martinez 
+Barbara Schett 
+Glafcos Xenos 
+Karen Pierog 
+J. Crawley 
+Verbjorn Rodal 
+Smicer 
+Malcolm Rifkind 
+Eefje Lambrecks 
+Jetsi Hendrika Coers 
+Naina Yeltsin 
+Hans Segers 
+Barton 
+Erik Camerlengo 
+Martens 
+Lien Chan 
+Dos Santos 
+Elena Wagner 
+James Baker 
+Downer 
+Felix Mantilla 
+Jonathan Edwards 
+Patrick Stevens 
+Lejeune 
+Melissa Russo 
+Luis Baltasar 
+Sung-Hee Park 
+Samokhalova 
+1963 
+David Richards 
+DAVEY JOHNSON 
+George Weah 
+Drazen Beser 
+Devon White 
+Bruno Thiry 
+Votava 
+Azharuddin 
+Vassiliy Kaptyukh 
+Sinead Delahunty 
+Domingos Oliveira 
+David Kelly 
+Christophe Capelle 
+Dirk Dier 
+Rosset 
+Gordana Kukic 
+Stephanie Deville 
+Martin Brundle 
+Mouly 
+Ijaz Ahmed 
+Hannes Strydom 
+Sometimes 
+Nicole Brown Simpson 
+Schork 
+Constantine Mitsotakis 
+John Kocinski 
+Lamont Smith 
+Leah Pells 
+E. Auchard 
+Bradley Hughes 
+Aamir Sohail 
+David Levy 
+Heinz-Peter Thul 
+Hingis 
+Andruw Jones 
+Cocu 
+Derrick Cooper 
+Frederick Chiluba 
+Faustino Asprilla 
+Lee Tinsley 
+Michelle Ferris 
+Grant Stafford 
+Jarmo Kytolehto 
+Ernest Faber 
+Roberta Brunet 
+Sourav Ganguly 
+John Cook 
+Saqlain Mushtaq 
+Ferrigato 
+Michael Jonzon 
+Feinstein 
+Jon Drummond 
+Preston 
+Srinath 
+Moada 
+Vierklau 
+Anne-Gaelle Sidot 
+Neville Godwin 
+Brian Currin 
+Michael Reiziger 
+Pantic 
+Damien Lynch 
+Wolfgang Kreissig 
+Kucan 
+Johnny Damon 
+Dole 
+Brosius 
+Greg Chappell 
+Hillary Rodham Clinton 
+Bscher 
+Newcombe 
+Das 
+Kyoko Nagatsuka 
+Eddo Brandes 
+Glenallen Hill 
+Federico Colonna 
+Paul Goydos 
+Shadab Kabir 
+Chaminda Vaas 
+Miladin Becanovic 
+Wimbledon 
+Vyacheslav Tikhomirov 
+Milan Kucan 
+Takuma Aoki 
+Colonna 
+Dan Jenson 
+William Istafanus 
+Edberg 
+Jonathan Lomas 
+Dalglish 
+Boris Yeltsin 
+Jolene Watanabe 
+Woodbridge 
+Danut Lupu 
+John Hinckley 
+Maria Jose Gaidano 
+Maureen Garrity 
+G. Parsons 
+Heike Drechsler 
+Reeve 
+Rodrigo Carneiro 
+Danie van Schalkwyk 
+MICKELSON 
+Basuki 
+ROBSON 
+Norihiko Fujiwara 
+Seles 
+Bryan Robson 
+Philippoussis 
+Westlake 
+Andreas Koepke 
+P. Strang 
+Miranda 
+Jamir Cvetko 
+Crohn 
+R. Illingworth 
+Eichmann 
+David Byas 
+Jim Telfer 
+Michael Perelstein 
+Julien Bonetat 
+Kohl 
+Robert Stefko 
 M. Maynard 
-Gary Breen 
-Pat Cash 
-Arthur Numan 
-Kim Young Sam 
+Aleksander Kwasniewski 
+CHANG 
+Hansie Cronje 
+Kerry 
+Miriam Oremans 
+Andrei Chesnokov 
+Lebed 
+Dai 
+Guenter Bertram 
+Juan Llaneras 
+Khemais Chammari 
+Adolfo 
+D. Headley 
+Marc Wilkins 
+George Georgiopoulos 
+Christophe Ohrel 
+Navjot Singh Sidhu 
+Giles Bonnet 
+Christian Cevaer 
+Petrovic 
+Double Trigger 
+In 
+Yannos Papandoniou 
+Brad Bryant 
+Duncan Ferguson 
+Nathalie Tauziat 
+Laurent Ottoz 
+Batigol 
+Makinen 
+Luciano Pessina 
+James Weaver 
+D.A. Weibring 
+Chris Lewis 
+Akpoborie 
+Claude Lelouche 
+M. Walker 
+Andrea Glass 
+Sachin Tendulkar 
+Tony Taylor 
+Darren Anderton 
+Brenden Pappas 
+Fowler 
+Kahalani 
+Bonds 
+Batterby 
+Van Hintum 
+Vivit Chatuparisut 
+Romeo Wouden 
+Emilio Valle 
+Christophe Impens 
+Isel Lopez 
+Donald Tsang 
+Belgian 
+Waqar Younis 
+JOHNSON 
+Nikki Campbell 
+Galo Blanco 
+Obree 
+Derek Ryan 
+N. Llong 
+S. Watkin 
+Claverie 
+Mehmet Scholl 
+Goran Ivanisevic 
+Darren Gough 
+Carlos Pavon 
+P. Simmons 
+Inger Miller 
+Andre Trulsen 
+Hick 
+Myles Frechette 
+New 
+Tom Candiotti 
+Johan Lisabeth 
+Abdul Rahman Haj Yihye 
+Wasim Akram 
+Casey 
+Alan Kernaghan 
+Guy Whittall 
+Miles Tunnicliff 
+Smoltz 
+Alex Boraine 
+Paul Adams 
+Rubin 
+Keith Fletcher 
+Greg Norman 
+Louise McPaul 
+Chen Gang 
+Borsuk 
+Jean Alesi 
+Frank Vandenbroucke 
+F.W. de Klerk 
+Dave Richardson 
+Barry Larkin 
+Stefan Edberg 
+Edgar Martinez 
+Marina Andrievskaqya 
+Mia 
+Thomas Bscher 
+Hirsch 
+Li Peng 
+Arantxa Sanchez Vicario 
+Brandes 
+Tina Krizan 
+Danny Blind 
+Josh Kronfeld 
+Jaime Oncins 
+Sunday Bada 
+Juan Domingo Peron 
+Teresa 
+Bobic 
+John Stephenson 
+Feldhoff 
+Gyaicain Norbu 
+Sven Teutenberg 
+Krajicek 
+Colin Edwards 
+Nilis 
+Robert Karlsson 
+Gheorghe Funar 
+Peter Munk 
+Davey Johnson 
+MEHRTENS 
+Rui Costa 
+Benfica 
+Ann Grossman 
+Asif Ali Zardari 
+George Grech 
+Breukink 
+R Leong 
+Roger Hegi 
+Andy Etchebarren 
+Inspector Maigret 
+Sigurd Njerve 
+Douati Alphonse 
+Christina Singer 
+Redmond 
+Guus Hiddink 
+Paul Bloch 
+Amr Shabana 
+Kaspars Ozers 
+M. Slater 
+Chiate 
+Don Wengert 
+Jonathan Birt 
+Kwasniewski 
+Masterkova 
+Erik Dekker 
+Paul Eales 
+Dubnicoff 
+Saddam 
+Sampras 
+Stephanie 
+Jiang Zemin 
+Linda Wild 
+Ross 
+Steve Stricker 
+Sorensen 
+Tom Pukstys 
+Chelsea Clinton 
+Wasim 
+Yeltsin 
+Olivia 
+Olivier Grouillard 
+Fogarty 
+A. Mullally 
+Adem Hodzic 
+Benito Santiago 
+Towards 
+Shane Drew 
+Muster 
+Volkova 
+Aron Winter 
+Denny Neagle 
+Amina Muhammad 
+C. Evans 
+Giovanni van Bronckhorst 
+Ian Salisbury 
+Khum Bahadur Khadga 
+Bruno Eichmann 
+Erik Zabel 
+Van Gastel 
+Thomas Bjorn 
+Montgomerie 
+Nick Knight 
+Jeroen Van Dijk 
+Andy Hinchcliffe 
+Michael van der Wolf 
+Crosson 
+Siraj Mia 
+Sharma 
+Lloyd Bentsen 
+Fleuchaus 
+Tom Lehman 
+Simpson 
+Helmut Kohl 
+Irina Spirlea 
+Gibbs 
+Yuri Nikiforov 
+R. Ponting 
+Meghann Shaughnessy 
+Babayan 
+Earl Feugill 
+John White 
+There 
+Cam Battersby 
+Mark Ilott 
+Carol Norris 
+Witschge 
+Karim Alami 
+Jerry Bieszk 
+Sadiki 
+Sophia Rose 
+Diniz 
+Kathrin Freitag 
+Thomas Nyariki 
+Baeron 
+John Deere 
+Michele Bartoli 
+Chan Chia Fong 
+Jacob Brumfield 
+Liam 
+Korneev 
+Barbara Rittner 
+Derek Mills 
+R. Irani 
+Veldman 
+Daschle 
+Den Bakker 
+Andrea Muller 
+Milosevic 
+Yuuichi Takeda 
+Kevin Mitchell 
+BAN 
+Willie Blair Tony Gwynn 
+Nani Palkhivala 
+Glickman 
+Ian Botham 
+Carlo Ancelotti 
+Colin Jackson 
+Christian Rudd 
+Wayne Jordan 
+Alberto Costa 
+John Boles 
+Szabo 
+B. Julian 
+Kennedy Ochieng 
+M. Saggers 
+Vurens 
+Schultz 
+Irina Yatchenko 
+Alessandro Melli 
+Cor Euser 
+Natalya Shikolenko 
+Peter Edwards 
+Stanojlovic 
+Jean-Paul van Gastel 
+Elena Likhovtseva 
+Mark Hodges 
+Stefan Kuntz 
+Keiichi Kitigawa 
+Patrick Rafter 
+Curtis Fleming 
+Asa Carlsson 
+El Hassane Lahssini 
+Arjuna Ranatunga 
+Stich 
+Wijffels 
+Patricia Djate 
+Peter Atherton 
+E. Brandes 
+Tony Cascarino 
+Abdulsamad Hameed Ali 
+Moshe Sabag 
+Andre Agassi 
+Jason Dickson 
+Aaron Slight 
+North Island 
+Mike Williams 
+Tea Vikstedt-Nyman 
+Stevanin 
+Frederic Vialle 
+Peter Tramacchi 
+Dominique Van Roost 
+G. Archer 
+Richard Lindsey 
+Al Martin 
+Roberto Jabali 
+Eleonora Berlanda 
+Vladislav Rodimov 
+Lasse Lampi 
+Marco Lietti 
+A. Penberthy 
+Acre 
+Iliescu 
+Kader Ferhaoui 
+Olivier Panis 
+Natasha Zvereva 
+Tim Hancock 
+Now 
+Jacqueline Wong 
+Julie Baumann 
+Lambrecks 
+Petr Korda 
+P. Nixon 
+Murat Yakin 
+Fabio Baldato 
+Ikimi 
+Melvin Nieves 
+Greg Rusedski 
+Aslan Shabazov 
+Yasser Arafat 
+Kamuzu Banda 
+Banda 
+Paul Affleck 
+Benjamin Menendez 
+Dick Morris 
+Newt Gingrich 
+Rifkind 
+Around 
+David Rowland 
+Jimmy Key 
+.Robbie McEwen 
+Oceano Cruz 
+Diego Borrego 
+Wisinga 
+Retief Goosen 
+Reiffel 
+Wojtek Lazarek 
+Alfred Berkeley 
+LOMBARDI 
+Jeff Hawksworth 
+Francesco Casagrande 
+Ruth 
+Khalid Boulami 
+Jimmy Thomson 
+Sebastien Tortelli 
+Herbert Demel 
+William Perry 
+Prakash Chandra Lohani 
+Alex Criville 
+Marc Overmars 
+Weaver 
+Peter Pieters 
+Willie Wood 
+Anders Olofsson 
+Tristan Hoffman 
+Graham 
+SPOT THOMSON 
+Eric Davis 
+Timothy Reid 
+GATTING 
+U.S. 
+Kris Goossens 
+Franny Weld 
+Carl-Uwe Steeb 
+William Schomberg 
+Saleh 
+Garret Anderson 
+Foe 
+Woodforde 
+John Smoltz 
+Costantino Rocca 
+Desi Bouterse 
+Shiya Takeishi 
+Elijah Maru 
+G. McGrath 
+Ali Fallahiyan 
+Alami 
+Adrian Knup 
+Fox 
+Andrew Coltart 
+Norton 
+Florence 
+Jared Palmer 
+Alina Astafei 
+Zbigniew Siemiatkowski 
+Jordi Burillo 
+Japie Mulder 
+Paulinho Santos 
+Rui Barros 
+Noriyuki Haga 
+Vowinkel 
+K. Barnett 
+Graf 
+Melissa 
+Benjamin Netanyahu 
+Seeliger 
+POPOV 
+Alessandro Lambruschini 
+Ramon Vega 
+Juan Eduardo Esnaider 
+Gcaleka 
+Marc-Vivien Foe 
+Jim Thome 
+Paul Stankowski 
+Maurizio Fondriest 
+Tadeusz Awdankiewicz 
+Emajuddin Ahmed 
+Gianfranco Stevanin 
+Clarence Rose 
+Alex Belometti 
+Peter Machungwa 
+Mustapha Ben Jaafar 
+Vinny Castilla 
+Michelman 
+Kristie Boogert 
+Van Wanrooy 
+GIBBS 
+Sally Boyden 
+Matt Windows 
+BOARDMAN 
+Magali Faure 
+Laban Rotich 
+Strobe Talbott 
+Huw Jones 
+Berti Vogts 
+Mark Wolf 
+Ernie Els 
+Richard Hadlee 
+Hatoyama 
+Lapke 
+Dean Gorre 
+Jonathon Power 
+Justin Leonard 
+Seiki Okuda 
+Kiely 
+Silvia Farina 
+Lauck 
+Jose-Maria Canizares 
+CHICAGO 
+Pierre Buyoya 
+An 
+Dieter U 
+Owens 
+An Marchal 
+John Hagelin 
+Dundee 
+Hashan Tillekeratne 
+Butch Harmon 
+Ronald de Boer 
+Dick Spring 
+Naoko Sawamatsu 
+Helder 
+Olaf Ludwig 
+Pete Sampras 
+Mitchell 
+Michael Bevan 
+Liam Gallagher 
+David Endt 
+Javier Sanchez 
+KELLY 
+Juan Carlos 
+Chris Walker 
+Pascal Zuberbuehler 
+Ally McCoist 
+Granic 
+A.de Silva 
+Reppas 
+Raphael Lakpe 
+Philip Wilcox 
+Agota Kuperman 
+Steve Brown 
+Robert Frowick 
+Korda 
 Miljenko Mumler 
-Andreas Andersson 
-Klinsmann 
-Maryborough 
-Rodham Clinton 
-Javagal Srinath 
-Nomo 
-Michael Andersson 
-Jim Furyk 
-Tim Forsyth 
+Ricardo Rosset 
+Florencia Labat 
+Mikael Tillstrom 
+JAYASURIYA 
+Krzysztof Piskula 
+P. Weston 
+Sohail 
+Jody Reed 
+Hafidh 
+Paul Ting 
+John Bissell 
+Jerzy L. 
+Pierre Fulke 
+Kenneth Chiate 
+McEwen 
+Perfetti 
+Mothusi Nkgowe 
+Mohamed Moada 
+Dionne Rose 
+Lee Ki-choo 
+Pascal Jongsma 
+Ronaldo 
+Jyrki Lumme 
+Gary Breen 
+Cozma 
+Marcus Gronholm 
+Charles McGilley 
+Frankie Fredericks 
+Aslan Mashadov 
+Movladi Udugov 
+Bob Kennedy 
+Abdellaoui 
+Qidra 
+Gabi Rokmeier 
+Nadarajah Muralidaran 
+Tom Watson 
+Simon Crafar 
+Stefan Schwarz 
+Dennis Bergkamp 
+Lynda Chalker 
+N. Knight 
+Lampros Vasilopoulos 
+TELFER 
+Finley 
+Mark Petkovsek 
+Crawley 
+Thabo Mbeki 
+Rolf Fringer 
+Alan McLoughlin 
+Kallis 
+Martinez 
+Stefan Reuter 
+Magnus Gustafsson 
+Erekat 
+A. Giles 
+T. Munton 
+R. Kaluwitharana 
+Brian McRae 
+This 
+Thomas Sabotzik 
+Graef 
+Gabriela Sabatini 
+Jackie McNamara 
+Phelan 
+Kuchma 
+Thomas Muster 
+Harald Spoerl 
+Mauricio Hadad 
+Roest 
+Darren McKenzie-Potter 
+Joost van der Westhuizen 
+Tony Eusebio 
+Vairelles 
+Jon Preston 
+Ibrahim 
+BREGANCON 
+Hicham Arazi 
+Valentin Valkov 
+But Lebed 
+Andrea Giaconi 
+Rabinovich 
+Abyss DeJesus 
+Yukio Hatoyama 
+Scott Russell 
+Zuleeg 
+Gabriele Colombo 
+Noureddine Morceli 
+Gleeson 
+Ahmad Shah Masood 
+Allan Wells 
+Ieng Sary 
+Steve Conroy 
+Michelle Freeman 
+Anthony Gobert 
+Gavin Levenson 
+Sven Pieters 
+Tomasz Moskal 
+While Clinton 
+Jose Barroso 
+Michael Stroud 
+SALAH HISSOU 
+Roger Kingdom 
+Thomas Gogele 
+Sudradjat Djiwandono 
+Carla Sacramento 
+Wilhelmina 
+Lisa Raymond 
+Hans de Clerq 
+Steve Backley 
+Tommy Haas 
+Yastrezhembsky 
+Allen Johnson 
+Aime Jacquet 
+Roger Grimwade 
+Kenneth Eriksson 
+Edgar Renteria 
+Kevin Seitzer 
+Lindsay Davenport 
+Havel 
+Franz Konrad 
+Belim 
+Miguel Angel Jimenez 
+Sammy Sosa 
+Rangarajan 
+Slawomir Wojciechowski 
+Costas Simitis 
+McCoist 
+Kevin Brown 
+Fernando Henrique Cardoso 
+Karl Inderfurth 
+Bernard Halford 
+Mayfair 
+Jonas Savimbi 
+Pelletreau 
+Antonio Esposito 
+Masayoshi Takemura 
+Mark Acre 
+Jens Fiedler 
+Valkucak 
+David Gilford 
+Jean-Michel Bayle 
+Zubair Jahan Khan 
+Bernd Schmidbauer 
+Traore 
+G. Gooch 
+Ali Alatas 
+Boshova 
+McGrath 
+Date 
+Chernomyrdin 
+M. Ramprakash 
+David 
+Ann Stephens 
+Luis Figo 
+Gephardt 
+Tang Jiaxuan 
+Derrick Adkins 
+Ismail Nacar 
+Liam Daish 
+Hari Maya Poudels 
+Mark Davis 
+Benedict Birnberg 
+Monica Seles 
+Glenn Taylor 
+Nelson Mandela 
+Ekeus 
+Tulio 
+Alexander Cejka 
+Andrew Wakefield 
+Sithole 
+Mickelson 
+Axworthy 
+Alistair Campbell 
+Anthony Sullivan 
+Stefaan De Clerck 
+Herve Thuet 
+Meluawati 
+Dominic Hewson 
+Anders Haglund 
+Malcolm Marshall 
+Gilbertson 
+Pat Symcox 
+Fred Couples 
+Balakow 
+Narciso 
+Ian 
+Frankie Rodriguez 
+Shahid Hasan Khan 
+Princeton Lyman 
+J. Srinath 
+Burhanuddin Rabbani 
+Mother 
+Dan Glickman 
+Knup 
+Johansson 
+Todd Hollandsworth 
+Laasonen 
+With Takeda 
+Benson Koech 
+Juan Guzman 
+Peter Blank 
+Abu Mazen 
+Ruehe 
+Abimael Guzman 
+Bowling 
+Mark Cairns 
+Vass 
+Zhanna Pintusevich 
+Jose Antonio Ortega Lara 
+Lindsay Owen-Jones 
+Olga Chernyavskaya 
+Abdul Rahman 
+Ashia Hansen 
+Stallone 
+Flower 
+Ryutaro Hashimoto 
+Alberto Berasategui 
+Yulia Graudin 
+AMSTERDAM 
+M. Dowman 
+Ryszard Wieczorek 
+Van Heeswijk 
+Francis Moreau 
+Just 
+Mario Stieglmair 
+Goncharova 
+Peiris 
+Ronaldo Gonzalez 
+Tim Guldimann 
+Qotbuddin Hilal 
+Tansu Ciller 
+Enzo Scifo 
+Nicholas Gcaleka 
+Smirnov 
+Wim Jonk 
+A 
+Garry West 
+BUGNO 
+Bunce 
+Julie Lejeune 
+-- 
+Howard Wilkinson 
+Roger Chapman 
+Joao Vale de Almeida 
+Rahul Dravid 
+VanLandingham 
+Barbara Paulus 
+Trevelyan 
+Sheffield 
+Alex O'Brien 
+Ozzie Guillen 
+Hana Benesova 
+Thon 
+Rainier 
+Michael Stich 
+Ong Ewe Hock 
+J immi Madsen 
+Slight 
+Gavin Featherstone 
+Joel Stransky 
+Robbie Fowler 
+Luminzu Shimaponda 
+Gregory Randolph 
+Yevgeny Kafelnikov 
+Pierre-Henri Raphanel 
+Ilkka Laasonen 
+Sabine Hack 
+Richard Sabourin 
+Mark Gildea 
+M. Vaughan 
+Ahmed Barada 
+Ezer Weizman 
+Michele Buiatti 
+R. Blakey 
+Gong Zhichao 
+Dan Jensen 
+Jim Bidzos 
+Chang 
+Heinz-Harald Frentzen 
+MARCELO 
+Zickler 
+Yoelvis Quesada 
+Kock 
+Jamie Moyer 
+Conversion 
+Mushota 
+P. Cottey 
+Rudi Thiel 
+Chris Widness 
+Stefano Zanini 
+He 
+Nathalie Dechy 
+Andrew Huddart 
+Raphanel 
+Tretschok 
+His 
+Yitzhak Mordechai 
+Elsner 
+Rita Grande 
+Daniel Nestor 
+Roelofsen 
+M. Sivasiththamparam 
+Courtois 
+Peter O'Malley 
+Israeli 
+Ian Healy 
+Faure 
+Collinelli 
+Judith Wiesner 
+Garry Weiss 
+Jongsma 
+Byron Black 
+Raymond Atteveld 
+Paul Curry 
+Tang Shubei 
+Mario Basler 
+Santorelli 
+Annett Neumann 
+Charles Bauza Donwahi 
+Khotin 
+Nicole Bradtke 
+Sterling Hitchcock 
+Chris Rutter 
+Ellina Zvereva 
+Hickey 
+Enrique Centeno 
+Jack Kemp 
+Shabir Ahmad Muhammad Jalil 
+Ryo 
+Morris 
+Tami Whitlinger Jones 
+Matt Stairs 
+Ripken 
+De la Pena 
+Brady Anderson 
 Moura 
 Goldsmith 
-E. Auchard 
-Liam Fox Fox 
-Zieger 
-THOMSON 
-Redmond 
-Vairelles 
-Michael Johnson 
-Steve Backley 
-Ludmila Ninova 
-Hideo Nomo 
-OWENS 
-Howard 
-Alan Ackerman 
-Bernard Halford 
-Chris Rutter 
-Hannes Strydom 
-Robbie McEwen 
-Antonio Kandir 
-Finley 
-Shabir Ahmad Muhammad Jalil 
-Julie 
-Joseph Tanny 
-Edward Smith 
-Scott McCarron 
-Paulo Sousa 
-Veerle De Jaeghere 
-Fox 
-Dariusz Jackiewicz 
-Paul Tergat 
-S. Waugh 
-Marc Rosset 
-Assad 
-Juan Esnaider 
-Tanya Dubnicoff 
-Stevanin 
-Corina Morariu 
-Jason Stoltenberg 
-Carl-Uwe Steeb 
-Scott Hoch 
-P. Arulanandam 
-Romina Nicaretta 
-Sameh Haj Yihye 
-Muster 
-Peter Edwards 
-Sultan 
-Mark Ilott 
-Nicholas Shaxson 
-Carlos Checa 
-Movladi Udugov 
-DAVEY JOHNSON 
-Neville Godwin 
-Erdei 
-Agota Kuperman 
-Omar Karame 
-John Simon 
-Basuki 
-Itamar Rabinovich 
-Steve Finley 
-Jason McAteer 
-Sun Jian 
-Martina Hingis 
-Robert Coughlan 
-Kyle Abbott 
-W. Khan 
-Stephane Simian 
-Dean Gorre 
-R. Fay 
-Marie-Jose Perec 
-MARTINEZ 
-Teutenberg 
-VAN HEESWIJK 
-Dejan Stefanovic 
-R. Croft 
-Jeff Bagwell 
-Kevorkian 
-Greg Chalmers 
-Sali Berisha 
-Zeng Yaqiong 
-Gianluca Pozzi 
-Jean-Louis Debre 
-Ebe Huizinga 
-Simon 
-Darryll King 
-David Williams 
-Laca 
-Maleeva 
-Kotlarska 
-Zdenek Svoboda 
-Colleter 
-Rouxel 
-Tamer El Sawy 
-Lynch 
-Gephardt 
-Sergey Makarov 
-Rodney Eyles 
-Tretschok 
-Craig Stadler 
-Brad Hogg 
-Tomas Carbonell 
-Lansana Conte 
-Cal Eldred 
-Trenidad Hubbard 
-ARANYAPRATHET 
-Jetsi Hendrika Coers 
-Brian De Palma 
-Glafcos Xenos 
-Davidson Ezinwa 
-Gildea 
-Maggie Maleeva 
-Berti Vogts 
-Fabrizio Ravanelli 
-S. Watkin 
-Anita Gradin 
-David Millns 
-Ramon Vega 
-Herve de Charette 
-Barbara Schett 
-Indra Wijaya 
-Jerome Turner 
-Matthew Maynard 
-Jean-Philippe Fleurian 
-Numan 
-Phylis Smith 
-Joyce Liu 
-Fallah Sewa 
-Darius Milhaud 
-Ieng Mouly 
-R. Kaluwitharana 
-Olaf Ludwig 
-Nacar 
-Jonathan N'Senga 
-Chris Walker 
-Boutros Boutros-Ghali 
-Hogg 
-Dmitry Kuznets 
-Jeff Tarango 
-Hans-Otto Sieg 
-Jonathan Lomas 
-Idalecio 
-Alessandro Lambruschini 
-McQuillan 
-S. Lampitt 
-Sourav Ganguly 
-Aki 
-Costas Simitis 
-Sithole 
-K. Spiring 
-Howard Johnson 
-Roberto Alomar 
-Stromme 
-Cork 
-Curtis Lee White II 
-Iwan Cesar Gabrich 
-McCullough 
-Hu Zhilan 
+Bob Janis 
+Sam Wilson 
+Patten 
 Bedie 
-Theodoros Pangalos 
-Paul Broadhurst 
-Gough 
-Sergio 
-Colin McRae 
-Lloyd Axworthy 
-D.A. Weibring 
-Ross Perot 
-Decheiver 
-Slight 
-Ahmed Mestiri 
-Etienne Mendy 
-Vicente Solano Lima 
-MARCELO 
-Mike Piazza 
-William Schomberg 
-Clarence Seedorf 
-Alex Corretja 
-Naina 
-Roberto Carretero 
+P. Kantharoopan 
+Louis Freeh 
+Richey Reneberg 
+Smets 
+Marcos Ondruska 
+A. Jadeja 
+David Sesa 
+Donovan Bailey 
+Petr Gunda 
+Raymond Mabus 
+K. Brown 
+Maso 
+Charles 
+Piazza 
+Batistuta 
+Taument 
+Ahmed 
+Martina Hingis 
+Arnaut 
+Glen Hoddle 
+Soren Lausberg 
+Satoshi Higashi 
+Marco Villa 
+Jose Offerman 
+Miroslav Bak 
+Adrian Voinea 
+Mark Knowles 
+Hitler 
+K. Curran 
+S. Ganguly 
+Bob Moore 
+Vincent Pamire 
+Heath Streak 
+Specter 
+Agnes Goinxha Bejaxhiu 
+Perry 
+Wataru Kubo 
+Penrose 
+Gabriel Curuchet 
+Tortelli 
+Heiko Szonn 
+Pires 
+John Sheehan 
+Nanne Dahlman 
+Before 
+Dana Rohrabacher 
+Corcoran 
+Goldstein 
+Andre Caboche 
+Sary 
+Takeishi 
+Mark Brooks 
+Charlton 
+Jean Van de Velde 
+Barkho 
+Alexander Volkov 
+Necmettin Erbakan 
+Jacek Dembinski 
+Ahmed Faizy 
+Milinko Pantic 
+Orlando Miller 
+Alex Radulescu 
+Antonio Oliveira 
+Hoogma 
+Marushko 
+Shevchenko 
+Chad Curtis 
+Theodore Roosevelt 
+Moussa 
+Simon Culhane 
+Andrew Mehrtens 
+Luke Kipkosgei 
+Paul Gascoigne 
+Thompson 
 Moses Kiptanui 
-Hussein Khalaf 
-Tea Vikstedt-Nyman 
-Jackie McNamara 
-Thierry Henry 
-Patricia Girard-Leno 
-On 
-Ross 
-Waqar Younis 
-Ismail Boulahya 
-Wimbledon 
-Kolumbina Bencevic 
-Melissa Russo 
-Frank Vandenbroucke 
-Andres Galarraga 
-M. Azharuddin 
-Laurent Jalabert 
-John Deere 
-Aamir Sohail 
-Wilmots 
-Oncins 
-Oliver Reck 
-Rune Hansen 
-Steve Waugh 
-SPOT THOMSON 
-Ducruet 
-Gutenstein 
-Wing Pieter Hendriks 
-When Schein 
-Marcelo Rios 
-Raphael Lakpe 
-Baker 
-Michael Barton 
-Endt 
-Gigi Fernandez 
-Ivan Odnosum 
-Julio Cesar Dely Valdes 
-Lewis 
-Joakim Haeggman 
-Elias Moosa 
-Banda 
-1963 
-Bscher 
-Fatima Cristina 
-Geoff Marsh 
-Nikolaus van der Pas 
-Soren Lausgberg 
-Angeles Montolio 
-Faheem Khan 
-Andrei Chesnokov 
-Bernd Karbacher 
-Sunday Bada 
-Banharn Silpa-archa 
-Wolk 
-Keiji Kojima 
-Pedro Martinez 
-Oksana Grichina 
-Barry Larkin 
-Krajicek 
-Bernardo Arce 
-Wilfried Peeters 
-Judith Arndt 
 Dariusz Rosati 
+Michael Barton 
+Ian McGeechan 
+Tomas Cibola 
+David Carter 
+Marty Jemison 
+Mother Teresa 
+Sandra Dopfer 
+Kenny Dalglish 
+Frank 
+Headley 
+Dusan Kovacs 
+John Hart 
+Terry Kennedy 
+Neumann 
+Romano Prodi 
+Ro Gajadhar 
+Dmitry Kuznets 
+Lietti 
+Esnaider 
+Ramon Machuca 
+Georgy Mamedov 
+Sergi Barjuan 
+Neal Briggs 
+Samson 
+Lambert 
+Martin Erdmann 
 Vince Wells 
-Mats Lanner 
-Camerlengo 
-1ama 
-Dalai Lama 
-Andrei Olhovskiy 
+E.F. ( Fritz ) Schumacher 
+Laurent Gane 
+MULDER 
+Soren Lausgberg 
+Gramoz Ruci 
+Venkatesh Prasad 
+Greg Chalmers 
+Oscar 
+Juan Curuchet 
+Giovanni Lombardi 
+Ville Peltonen 
+M. Dekker 
+Robin Brooke 
+Gounon 
+Superman 
+Mary Joe Fernandez 
+Wickman 
+Rory Underwood 
+Darryll King 
+Gloria Pizzichini 
+Ruben Amaro 
+M. Lynch 
+Kamiel Maase 
+Pavel Buran 
+Roshan Mahanama 
+Kurt Abbott 
+Prescott 
+Owen-Jones 
+John Ericks 
+John Smiley 
+Sitanyi 
+Antonio Gonzalez Garcia 
+Thomas Helmer 
+Sun Jian 
+KANKKUNEN 
+Gerard Pignon 
+Radek Bonk 
+Nuour Marial 
+Mohammed 
+Sarah Pitkowski 
+Tina Kirzan 
+Klaus Baader 
+Heng Suan Lim 
+Gabrich 
+Klinsmann 
+Doug Turner 
+Jean 
+Chelsea 
+Adnan Xhelili 
+Mike Clayton 
+Radka Bobkova 
+Andrew Hudson 
+GRAF 
+Leopold 
+Magdalena Maleeva 
+Marriner 
+Juergen Schult 
+Adolf Hitler 
+Violeta Chamorro 
+Banerjee 
+Chamorro 
+Max Anglert 
+Villa 
+Wakefield 
+Younis 
+Harvey 
+Jose Maria Olazabal 
+Bailey 
+Hogg 
+Vince Spadea 
+Samuel Matete 
+Conlon 
+Jan Kroslak 
+Michel Zanoli 
+Erik Hanson 
+Vinod Kambli 
+ORVIETO 
+Klaus Kinkel 
+Jean-Pierre Van Zyl 
+Nacar 
+Evert 
+P. Arulanandam 
+Ballesteros 
+REUTER 
+Kapil Dev 
+Dan Dietsch 
+Utomo 
+Ken Hill 
+Michael Chang 
+Stephane Chapuisat 
+Aki 
+Armando Reynoso 
+Ejup Ganic 
+I.K. Gujral 
+Bob Dole 
+Mobutu Sese Seko 
+C. Rangarajan 
+Hamid Ibrahimi 
+Amanda Coetzer 
+MALEEVA 
+Idalecio 
+Ousmane Kaba 
+Arlen Specter 
+Philip Blenkinsop 
+Damon Hill 
+Alexandra Fusai 
+Alexander Popov 
+M. Waugh 
+Schulz 
+Mark Spitz 
+Billy Mayfair 
+Yassin 
+Karl Marx 
+Nabil Abu Rdainah 
+Simon Parke 
+Nayan Mongia 
+Mutawakel Taha 
+Steve Staunton 
+Francisco Cea 
+Julio Cesar Vega Rojas 
+Jean-Michel Monin 
+Grobbelaar 
+Klas Eriksson 
+Harrison Dillard 
+Deby 
+Suleyman Demirel 
+Randall 
+Erik Breukink 
+Edgar Davids 
+Stephane Ortelli 
+Laxmi Poruri 
+Habsudova 
+Marc Dollendorf 
+Carlos Secretario 
+Alhadji Kromah 
+de Boer 
+Arnold 
+Mark Ealham 
+Scott Young 
+Robert Coles 
+G. Lloyd 
+Bobbie Goulding 
+Zitelli 
+Peter Mitchell 
+Vukasin Filipovic 
+Blake Bath 
+BALLANGER 
+James Debbah 
+David Ginola 
+Dean Headley 
+Frederic Magne 
+Zardari 
+Yoshikawa 
+Juan Carlos Lago 
+Corina Morariu 
+Eddie Irvine 
+Jadeja 
+Pedro Linhart 
+Volker Ruehe 
+della Noce 
+Mathias Ntawulikura 
+Nsanze Terence 
+Louis Booy 
+Miron Cozma 
+Caveglia 
+Kombouare 
+Larry Walker 
+Chavalit Yongchaiyudh 
+Lance Armstrong 
+Fatima Yussuf 
+Petr Gabriel 
+Gerald Machnee 
+Karem Haj Yihye 
+Tillstrom 
+Andrews 
+Gingrich 
+Fred McGriff 
+Paulo Sergio 
+Jayasuriya 
+Bohinen 
+Max Delbruck 
+Netanyahu 
+John Crawley 
+Dutroux 
+Ottey 
+Gough 
+Hariri 
+Allahu 
+Jan Van Eiden 
+Nawaz Sharif 
+N.J. Bose 
+Todd Woodbridge 
+Paola Suarez 
+Mobutu 
+Carl Suneson 
+Ahmed Korei 
+Ben Ellwood 
+Oksana Ovchinnikova 
+Wayne Westner 
+Davenport 
+Robert Schuman 
+CARLING 
+Fili Houteman 
+Russell Claydon 
+Spot Thomson 
+H. Streak 
+Emmanuel Sobral 
+Ozers 
+Lajos Horvath 
+Chris Woodruff 
+Tom Steels 
+Jean-Paul Bruwier 
+MILTIADIS EVERT 
+Brett Martin 
+Antoine 
+Jonathan Stark 
+Ata-ur-Rehman 
+Johan de Kock 
+Anja Smolders 
+Jose Escuredo 
+Cathy Freeman 
+Kumara Dharmasena 
+Sheu Yuan-dong 
+Gatera 
+Troy Corser 
+Zimbabwe 
+Vaclav Havel 
+Polster 
+A. Symonds 
+Thorpe 
+Randy Johnson 
+Karina Habsudova 
+Paulao 
+Salvatore Botta 
+Gajdos 
+Jesus Tavarez 
+Jack Russell 
+Jeff Tarango 
+Baret 
+Ray Houghton 
+Leonid Kuchma 
+Sandon Stolle 
+Roosevelts 
+Jim Grabb 
+Carsten Wolf 
+Teemu Selanne 
+Stefano Pescosolido 
+Rickey Henderson 
+Carlos Checa 
+Kim White 
+Simon Frenz 
+Kubo 
+Thomas Radstrom 
+Wayne Riley 
+Oliver Ludwig 
+Kenny Harrison 
+Javier Gomez de Liano 
+Jennifer Capriati 
+KEANE 
+Del Harris 
+David Hulse 
+Kim Anderson 
+EDBERG 
+Mike Stanley 
+Charles Taylor 
+Jacek Berensztain 
+Annabel Ellwood 
+Bernard Weinstein 
+Richard Witschge 
+Gina Tillman 
+Ukyo Katayama 
+Guy Forget 
+Ato Boldon 
+Goran Koprinovic 
+Melanie Schnell 
+Damein Fleming 
+Manfred Kanther 
+Matthias Sammer 
+Davies 
+BORROWER 
+Robert Pelletreau 
+Justin Thompson 
+Scott McLeod 
+Streak 
+Michelle Harper 
+Fabien Giroix 
+Rimma Maslova 
+Natalya Torshina 
+Goschen 
+Daniel Ducruet 
+McCarthy 
+Tatyana 
+Valentin 
+Joao Vieira Pinto 
+Juha Kankkunen 
+Bourlet 
+Dennis Lillee 
+Alan Ball 
+William O'Neill 
+Bob May 
+Romano Sion 
+MASTERKOVA 
+Chandrika Kumaratunga 
+Police 
+Krzysztof Warzycha 
+Fiona May 
+Sosa 
+Tim Lobinger 
+Odnosum 
+Inez Turner 
+Erwin van der Looi 
+Servais Knaven 
+Jacques Chirac 
+Cecil Mamiit 
+Ivan Garcia 
+Marianne Werdel Witmeyer 
+Gwen Torrence 
+Nicole Arendt 
+Chistian Cevaer 
+A. Kumble 
+C. Wishart 
+Dietmar Lalcher 
+Merlene Ottey 
+Margaret Crowley 
+Mike Atherton 
+SHARPE 
+HUBER 
+Terence 
+Colleter 
+GOOCH 
+Peter Teravainen 
+Natalya Sypron 
+Nancy Reagan 
+Meredith McGrath 
+Irina Privalova 
+Kathy Rinaldi Stunkel 
+Adrian Nastase 
+Lanusse 
+Lee Sharpe 
+Ann Mercken 
+Suharto 
+Coppinger 
+Jonty Rhodes 
+Zieger 
+Michael Faust 
+Kim Graham 
+W.N.F. Chandraratne 
+Roberto Baggio 
+Sierd Zylstra 
+Umberto Bossi 
+Doug Flach 
+Marc Rosset 
+Robert Coughlan 
+Patrik Sjoberg 
+Johan Van Der Merwe 
+Van Arum 
+Larbi El Khattabi 
+Ferdy Vierklau 
+Mike Devereaux 
+Don Loewen 
+N. Lenham 
+Shiels 
+Terry Pendleton 
+Dore Gold 
+Josef Stalin 
+Sean Dundee 
+Radka Zrubakova 
+Dani 
+Gravelaine 
+Coetzer 
+Puglisi 
+We 
+W. Weston 
+Dianne Feinstein 
+CHRISTIE 
+Cedric 
+Michael Johnson 
+Jason Webb 
+Omar Karame 
+William Tanui 
+Tracy Roosevelt 
+Mark Rutherford 
+Christine Magnusson 
+Lawrence Sheets 
+Carl Mason 
+Juppe 
+Jackie Lee 
+Beatrix 
+Palkhivala 
+Jimi Hendrix 
+Dawn Bowles 
+Croft 
+Roe 
+Scott McCarron 
+Alexandre Barros 
+Younnes El Aynaoui 
+Steven Vrolijk 
+Mohammed Azharuddin 
+Anil Kumble 
+Tijjani Babangida 
+Akbel 
+Dante Bichette 
+Chatichai Choonhavan 
+Paul 
+Kubilay Turkyilmaz 
+SKHIRAT 
+Allan Donald 
+CANBERRA 
+Mark Roe 
+Saddam Hussein 
+Rodriguez 
+Terry Price 
+Gujral 
+Nilsson 
+Maureen Carey 
+Stephane Simian 
+Sake 
+Hintsa 
+Noel 
+Silvio Berlusconi 
+Hryhory Borsuk 
+Bernd Mauruschat 
+Hermawan Susanto 
+Marcelo Filippini 
+Damion Easley 
+Keller 
+David Evans 
+Garrity 
+Bragg 
+Ciller 
+Handrik Dreekmann 
+Roger Black 
+Most 
+Fajardo 
+Jan Ove Pedersen 
+Henke Larsson 
+Caddick 
+Kafelnikov 
+Kevin Kim 
+MEDVEDEV 
+Gerard de Nooijer 
+Mark Philippoussis 
+Bogdan Prusek 
+Frank de Boer 
+The 
+Alan Lovell 
+R. Fay 
+Werner Zwingmann 
+David Naish 
+Sergei Rogachev 
+Mar'ie Muhammad 
+Hagner 
+Ivan Odnosum 
+Magnus Larsson 
+Davis 
+Fredericks 
+Marchal 
+Fleurian 
+Alan Shearer 
+Carlos Costa 
+Tauziat 
+Rolf Sorensen 
+Herve de Charette 
+Devers 
+Colin Montgomerie 
+Caroline 
+Fatima Cristina 
+EMON 
+Defenders 
 Vega 
+Alan Hunte 
+John Jaha 
+Some 
+Pang Chen 
+Pat Cash 
+Miles Kan 
+Hector Campora 
+Mubarak 
+Gabor Sitanyi 
+Boutoille 
+John Newcombe 
+Iwan Cesar Gabrich 
+David Cowan 
+Marie-Jose Perec 
+Claus 
+Jennifer Hurley 
+Talbott 
+Andres Galarraga 
+Max 
+Pier Francesco Chili 
+Koerts 
+Nunung Subandoro 
+Thomson 
+Todd Stottlemyre 
+Rdainah 
+Vladimir Zhirinovsky 
+Maria Marco 
+Phylis Smith 
+Ainars Kiksis 
+Dennis Mitchell 
+Kenneth Carlsen 
+Art Howe 
+Balakov 
+Nicholas Shaxson 
+M. Alleyne 
+Horst Siegl 
+Romesh Kaluwitharana 
+Marty Cordova 
+Maskhadov 
+Olazabal 
+Loren Roberts 
+Dutra 
+Marcus Wills 
+Craig MacLean 
+Michael Slater 
+Julen Lopetegui 
+Sidia Toure 
+Wreh 
+C. Lewis 
+Glen Osborne 
+Nasser Hussain 
+David Millns 
+Ilie Lazar 
+Marcio Santos 
+Pablo Campana 
+Haruchika 
+Assad 
+Aides 
+N. Hussain 
+Alexia Dechaume-Balleret 
+Sfeir 
+de Silva 
+Patrick Seale 
+Graham Sharman 
+Raphael Wicky 
+Franklin D. Roosevelt 
+Petra Langrova 
+Boutros Boutros-Ghali 
+Agrins Zarins 
+Cesare dal Maso 
+Carl Fogarty 
+Armstrong 
+Lasa-Zabala 
+Geoffrey Fieger 
+Jalal Talabani 
+Belometti 
+Maleeva 
+Martin Heath 
+Stuart Cage 
+Donizetti 
+Abdala Bucaram 
+Lisbet Stuer-Lauridsen 
+Niall Quinn 
+Tritan Shehu 
+Ahmed Sekou Toure 
+Arrigo Sacchi 
+Soprun 
+Gianluca Vialli 
+Neil Hodgson 
+Yvegeny Kafelnikov 
+Michael Andersson 
+Eric Bernard 
+Alan Mullally 
+Shen Guofang 
+Wessels 
+Schutte 
+Rui Correia 
+Hidemichi Tanaka 
+Widness 
+BONNET 
+Norifumi Abe 
+Terry Steinbach 
+Ellis Burks 
+Craig Held 
+Salou Bachirou 
+Rupert Murdoch 
+Milenko Kovasevic 
+Alexander Paris 
+John Veldman 
+S. Law 
+If 
+Katarina Studenikova 
+Lila Osterloh 
+Sells 
+Kocinski 
+Frank Quilter 
+Aoki 
+Henry Candy 
+Michael Atherton 
+Hendrix 
+Lumir Mistr 
+Denis Irwin 
+Danny Theybers 
+Pivotal 
+Frank Nobilo 
+Hendrik Dreekman 
+McKinney 
+Bernard 
+Michael Mollenbeck 
+al-Turabi 
+Stefka Kostadinova 
+Orlando Pirates 
+Therese 
+Begum Khaleda Zia 
+Thomas Haessler 
+Wilson 
+N. Fairbrother 
+Gary Neiwand 
+Julie 
+Phil Regan 
+Sharpe 
+Awdankiewicz 
+Michael Schumacher 
+Louis Viannet 
+Gennadi Skidan 
+Hoddle 
+Charles Austin 
+Andy Ballace 
+Anke Huber 
+Salisbury 
+Sanchez Zarraga 
+Dave Pearson 
+Mario Covas 
+Humayun Rasheed Choudhury 
+Judith Curren 
+Liam Botham 
+OLAZABAL 
+Bobby Bonilla 
+Mark Mouland 
+Asif Ali 
+Hu Zhilan 
+Wolfgang Ischinger 
+Jewell 
+Verona 
+Andy Caddick 
+Pinas 
+Ahmed Mestiri 
+Forwards 
+Gala Leon Garcia 
+Lelouche 
+Rene Eijkelkamp 
+Edgar 
+Steffi Graf 
+Justin Marshall 
+Gooch 
+Vincent Malakwen 
+Mandolina Zelic 
+Kolumbina Bencevic 
+Gilbert Agius 
+Hubert Grossard 
+Albert Schweitzer 
+Fita Bayesa 
+Moreau 
+Jetty Kors 
+Jorge Costa 
+Bucaram 
+Tavarez 
+COLOMBO 
+Kengo wa Dondo 
+Phan 
+Hussain 
+Dheeraj 
+Trenidad Hubbard 
+John Hinckley Jr 
+Pam Shriver 
+Winning 
+Craig Stadler 
+Alexander Zickler 
+Trond Bathel 
+Micijevic 
+Liam Fox Fox 
+Tareq Aziz 
+Francesco Toldo 
+Pablo Sanchez 
+Ernesto Samper 
+Sandra Kleinova 
+Lloyd Axworthy 
+Rona Young 
+Rune Hansen 
+Lacher 
+Sean Fitzpatrick 
+Smith 
+David Nainkin 
+Calvin Davis 
+McQuillan 
+Rebecca Weinstein 
+A Seguin 
+Zhang Ning 
+Thomas Johansson 
+Tony Roche 
+Dalai Lama 
+O'Donnell 
+D. Fulton 
+Fraser 
+Italo Pineda 
+Wouden 
+Tang 
+Harding 
+Francois-Rene ( Vicomte de ) Chateaubriand 
+Tom Ikimi 
+Albert Ferrer 
+CHANDA RUBIN 
+Foster 
+Dai Houying 
+Ruggiero Rizzitelli 
+Jaap Stam 
+Stenning 
+Coetzee 
+Yap Kim Hock 
+Arce 
+Jean-Denis Deletraz 
+Torrance Zellner 
+Nana Miyaga 
+Ta Mok 
+Morton 
+Matthew Maynard 
+RAVANELLI 
+Sandrine Testud 
+Gaissmayer 
+Mo Vaughn 
+Shinichi Itoh 
+Billy Swift 
+Heinrich 
+Donkow 
+Wolfgang Kotzmann 
+Arnaud Boetsch 
+Els Callens 
+Galina Malchugina 
+Stephen Field 
+Andrei Pavel 
+Thomas Enqvist 
+Ivanisevic 
+David Segui 
+William Kiptum 
+Vyacheslav Ekimov 
+Stranksy 
+Beaver 
+Rolf Ekeus 
+Omer Akbel 
+Shimon Peres 
+A. Cottey 
+Ivan Rodriguez 
+Jonathan N'Senga 
+Hosni Mubarak 
+Riedle 
+Juan Castro 
+Christian Cullen 
+Julio Cesar Dely Valdes 
+Clemens 
+Annette Peters 
+Joseph Kneipp 
+Zeyer 
+Prasad 
+Jim Bolger 
+Kapoor 
+S. Renshaw 
+Alex Ferguson 
+Alan Ackerman 
+Patricia Girard-Leno 
+Les Ferdinand 
+George Hincapie 
+Jean-Claude Nadon 
+John Ridgeon 
+Marcelo Rios 
+Debbah 
+David Batty 
+Joseph Tanny 
+Tamer El Sawy 
+Jesus 
+Gabriel Batistuta 
+SIDHU 
+Boutros Harb 
+Boris Becker 
+Natalya Sadova 
+Berger 
+Christine Wachtel 
+Eefje 
+Paul Belmondo 
+Romina Nicaretta 
+Alonso Cervera 
+Mike Harwood 
+Antoine Kombouare 
+Filipovic 
+Sergi Bruguera 
+Jerome Turner 
+Lennart Meri 
+Dirk Coetzee 
+Gary Orr 
+Damian Ejiohuo 
+Jeff Wilson 
+Anna Kournikova 
+Felipe Lira 
+Fernando Couto 
+Nicolas Pereira 
+Jeff Kenna 
+Fatos Nano 
+Daniel Levy 
+M. Azharuddin 
+George Duffield 
+Fallah Sewa 
+John McNamara 
+K. Spiring 
+BONDS 
+Trulsen 
+Molata 
+Bruno Risi 
+Sheu 
+Naoko Kijimuta 
+Christian Ziege 
+Juha Ylonen 
+Ali Khalfallah 
+Marina Trandenkova 
+Paul Tergat 
+Flemming 
+Paul McGinley 
+Iva Majoli 
+Eamonn Darcy 
+Marcelo Levingston 
+Roberto Carretero 
+Martin Max 
+Pushpakumara 
+Franz Stocher 
+Mats Lanner 
+Alexander III 
+Lee Westwood 
+Mark Chaloner 
+Carlos Moya 
+Padraig Harrington 
+Edouard Gritson 
+Martin Gates 
+Lee Wan Wah 
+Virginia Ruano-Pascual 
+Anton Bruckner 
+Andrei Medvedev 
+Komala 
+Luca Cadalora 
+Alex Corretja 
+Dave McPherson 
+Soren Jessen-Petersen 
+Tyler Houston 
+Haessler 
+Hidemichi Tanaki 
+Antonio Kandir 
+Brooke 
+J. Mercer 
+Hernan Gumy 
+Weld 
+Juergen Klinsmann 
+Luigi Seguy 
+Luis Raul Matos Azocar 
+Mike Piazza 
+G. Rose 
+Nick Nieland 
+Prince Abdullah 
+Thomas Strunz 
+de Clercq 
+Haas 
+Herman Gumy 
+Ashish Kapoor 
+G. Whittall 
+Moira Lynch 
+Alejandro Lanusse 
+Andre Cloete 
+Yi Jing-Qian 
+H. Morris 
+PIVOTAL 
+Becanovic 
+Vosberg 
+Rafael Moreno Turrent 
+Ruth Perry 
+Andre Markgraaff 
+Adam Hollioake 
+Henry 
+Anthony Washington 
+Jim Payne 
+Brian Bronson 
+W. Khan 
+A. Campbell 
+Luo Yigang 
+Ken Griffey Jr 
+Chaouch 
+Troy O'Leary 
+David Caldwell 
+Justice K.T. Thomas 
+Frederic Malardeau 
+GABRICH 
+Bernardo Arce 
+Nearly 
+Julia Ferguson 
+Vladimir Smicer 
+Royce Clayton 
+Ross McFarlane 
+HINCHCLIFFE 
+Collin Dugmore 
+Michael Tebbutt 
+John Inienger 
+James Poland 
+Currin 
+Jannie Gagiano 
+David Skoch 
+Shuzo Matsuoka 
+Tomas Carbonell 
+Sobotzik 
+Donne Wall 
+NEAGLE 
+Tatiana Stiajkina 
+Mark Richardson 
+Raymond Russell 
+Kevorkian 
+Alexander Barkhatov 
+Rodica Matescu 
+Aliuska Lopez 
+Zoran Kundic 
+Khalfallah 
+Francesca Lubiani 
+Aravinda de Silva 
+Mark Hutton 
+Brian Wellman 
+Chris Boardman 
+Mario Jardel 
+Fatkoullina 
+Paul McGrath 
+Sergio 
+Anders Forsbrand 
+JORGE 
+Oliver Bierhoff 
+Andre Snyman 
+Emmanuel Tetteh 
+Neither Meri 
+But 
+Valdo 
+Turabi 
+Abraham Lincoln 
+Warner 
+Paul Lawrie 
+Alec Stewart 
+Sabourin 
+Reagan 
+Andreas Andersson 
+Rusty Greer 
+Barry Lane 
+Marc Dutroux 
+Jose Manuel Prieto 
+Nissan Kapeta 
+Mutola 
+Nastja Rysich 
+Chiquinho Conde 
+Chandra Sturrup 
+Alexei Markov 
+Ponting 
+Zagalo 
+Noel Gallagher 
+Rogel Nachum 
+Ealham 
+Ballanger 
+COCU 
+Abdul Rashid Dostum 
+Jason Rouser 
+Rush 
+Botha 
+Kumble 
+Gevirtz 
+Ruutel 
+Artyom Danielyan 
+BALL 
+Gary Teichmann 
+Giovanni Lavaggi 
+Jamie Baulch 
+Dahl Tomasson 
+Ryszard Hincza 
+Ileana Bell 
+Will Carling 
+Shimaponda 
+1892 
+Ross Perot 
+Joel Stranksy 
+McCullough 
+Castilla 
+Yehiel Amitai 
+Steve Waugh 
+Graeme Obree 
+Luciano della Noce 
+Huisman 
+Johan Museeuw 
+WEAVER 
+Toure 
+Birenda 
+Shah 
+Nicklas Kulti 
+J.S. Bach 
+Banisadr 
+Mayfiar 
+Grant 
+Karin Kschwendt 
+Ove Sellberg 
+Tungky Ariwibowo 
+Tuan Quac Phan 
+Kathy Etchingham 
+Shayne King 
+Gary Sheffield 
+Gert Jan Van Doorn 
+Greste 
+Chua Jui 
+Aishwarya 
+Jorge Cadete 
+Mark McNulty 
+Arantxa 
+Cal Eldred 
+Ali Shah 
+A. Harris 
+Helena Sukova 
+Graham Lloyd 
+Servet Pellumbi 
+Edouard Gritsoun 
+Severin Konan Kouame 
+Tomas Post 
+Mika Salo 
+Jim Courier 
+Amr Moussa 
+Eric Wymeersch 
+Joey Hamilton 
+Cedric Pioline 
+Luke Jensen 
+Gore 
+Jeffrey 
+Mark Prescott 
+Scifo 
+Ferreira 
+Houteman 
+Alfred Sant 
+Hwang 
+Jonas Bjorkman 
+Jack Kevorkian 
+Liliana Semerdjieva 
+Daniel Vacek 
+Frank Asselman 
+Ferhaoui 
+Janne Ojanen 
+Zilinskiene 
+Amrollah 
+Don McKinnon 
+Sylvester Stallone 
+Mark Dutroux 
+Francisco Clavet 
+Marcelo 
+Jeroen Blijlevens 
+Hasina 
+Simon Brown 
+Perelstein 
+Asanka Gurusinha 
+BONN 
+Wilmots 
+Decheiver 
+Peter Kox 
+Grant Flower 
+Luc Nilis 
+Ayres 
+Costis Stephnopoulos 
+Amr 
+Markgraaff 
+Christopher Reeve 
+Edwin van der Sar 
+Decker 
+Biljana Plavsic 
+Robert Aranosian 
+BATISTUTA 
+Jack 
+Yuuchi Takeda 
+Shay Given 
+Tommi Makinen 
+Wataru Yoshikawa 
+Ana Fidelia Quirot 
+Abolhassan Banisadr 
+Brian De Palma 
+Davis Kamoga 
+Bill Clinton 
+Jonathan Bachini 
+Zeng Yaqiong 
+N. Williams 
+Florian Rousseau 
+Dejan Savicevic 
+MCMANAMAN 
+Johnson 
+Flavin 
+Pauline Davis 
+Jiri Dopita 
+Schreuder 
+Hasan Muratovic 
+Peter Hedblom 
+Loyola de Palacio 
+Ed de Goey 
+Li Feng 
+Javagal Srinath 
+Solskjaer 
+Loko 
+Squad 
+Lamm 
+Prince Rainier 
+Orel Hershiser 
+Michael Tucker 
+Jana Novotna 
+Edward Dmytryk 
+Pietro T. 
+Marcus O'Sullivan 
+I 
+Stephane Henchoz 
+D. Robinson 
+Dmitry Solovyov 
+J. Pooley 
+Brooks 
+Wilfried Peeters 
+Kimiko Date 
+Banharn 
+Per Nyman 
+Paul Prichard 
+Herschelle Gibbs 
+Hanna Haugland 
+Peter Martin 
+John Head 
+Rennae Stubbs 
+Conroy 
+Gaston Taument 
+Anneke Matthijs 
+Oyvind Rojahn 
+Jose Rivero 
+Zhirinovsky 
+Springer 
+Whittingham 
+Winston Bogarde 
+Gary Kirsten 
+Christophe Bonvin 
+Gordon Parsons 
+Fitzpatrick 
+Jason Wong 
+Pavlos Markou 
+Banharn Silpa-archa 
+Janette Husarova 
+Wang Shi-Ting 
+Jose Moreno 
+Andreas Kappes 
+Jeremy Guscott 
+Akira Ryo 
+V. Kambli 
+NEWCOMBE 
+Tim Forsyth 
+Siegel 
+Andrea Gaudenzi 
+Sanchez Vicario 
+Jos Verstappen 
+Robert Reichel 
+Hal Morris 
+Robert Chabora 
+Andrew Symonds 
+Mark O'Meara 
+Muthiah Muralitharan 
+Masserigne Ndiaye 
+Stefano Cimicchi 
+Ahmed Yassin 
+Endrio Leoni 
+Petre Roman 
+Jason Stoltenberg 
+Gerhard Berger 
+Wally Whitehurst 
+Viktor Chernomyrdin 
+Ronald Goldman 
+Bruno Adelt 
+Tom Cruise 
+Seneferu 
+Peter Nicol 
+Juan Esnaider 
+Charmaine Crooks 
+Theodoros Pangalos 
+Costis Stephanopoulos 
+Keith O'Neill 
+Ian Mackie 
+Edvard Grieg 
+Laurence Courtois 
+Jimmy 
+Gerd Ruch 
+Eugene de Kock 
+John Fashanu 
+Fred Funk 
+Lotte 
+Maicel Malone 
+VAN HEESWIJK 
+MILLNS 
+Valerio 
+Berkrot 
+ATLANTA 
+Meri 
+Hoiles 
+Paul Newlove 
+Mark Waugh 
+Jens Veggerby 
+Steve Webster 
+Salahuddin 
+Williams 
+I. Healy 
+Albert Emon 
+SELES HAS 
+F.W. De Klerk 
+Craig Parry 
+Blackburn 
+Alexander Lebed 
+Ken Saro-Wiwa 
+Herschelle Gibs 
+Oksana Grichina 
+Robert Rubin 
+Felicia Ballanger 
+Elena Makarova 
+Phil Mickelson 
+A. Shah 
+Gilbert Facchinetti 
+Brad Ausmus 
+Giuseppe Citterio 
+KOMBOUARE 
+Jana Kandarr 
+Medvedev 
+Bartoli 
+Atherton 
+Markvart 
+John Talen 
+Tony 
+Krzysztof Zagorski 
+Sabbagh 
+Barry Bonds 
+Robbie McEwen 
+Lance Gibbs 
+Malivai Washington 
+JONK 
+D. Gough 
+Sven Struver 
+Laurent Jalabert 
+de Klerk 
+BOTHAM 
+Ilke Wyludda 
+Marco Giampaolo 
+Arwel Jones 
+Mushtaq Ahmed 
+Frost 
+Judith Arndt 
+S. Lampitt 
+Frowick 
+Neil Williams 
+A. Wells 
+Marco Bode 
+Norman 
+William Luehrs 
+Constand Viljoen 
+Mons Ivar Mjelde 
+Ian Harte 
+Chiluba 
+Curtis Lee White II 
+Saint of the Gutters 
+Robert Mugabe 
+Svetlana Zalevskaya 
+Gale Norton 
+Chili Davis 
+Dimitris Kontogiannis 
+Paul O'Neill 
+THOMSON 
+Anwar 
+Patrice Loko 
+Dimas Teixeira 
+Des Smyth 
+Scott McGrory 
+James Brady 
+Andi Kanstinger 
+Johan Capiot 
+Blind 
+Mangala Das 
+Natalia Baudone 
+Kimberly Po 
+Andy Benes 
+Martin Damm 
+Hans-Otto Sieg 
+Kevin Keegan 
+Moyer 
+Brenda Schultz-McCarthy 
+Garang 
+Matthew Pinsent 
+J. Bovill 
+Stephen Meads 
+Hassan Rastegar 
+Petra Begerow 
+Jones 
+Craig Brown 
+James Scott Brady Jr 
+Shkirko 
+Conchita Martinez 
+Mohammad Akram 
+Von Heesen 
+Rubens Barrichello 
+Hinchcliffe 
+John Marzano 
+Kenny Cunningham 
+Frank LeBoeuf 
+Dealers 
+Cimicchi 
+Colin McRae 
+Patrick Kluivert 
+Artur Jorge 
+Qian Qichen 
+Kabariti 
+Marlene Thomsen 
+Ron Wright 
+Franz Fischler 
+Dally Randriantefy 
+Jacqueline Martin 
+Mustapha Hadji 
+Fine 
+Aleksander Lebed 
+Ashley Mocude 
+Ahmed Hashem Zighayer 
+Piotti 
+Jon Dahl Tomasson 
+Magdalena Grzybowska 
+Mette Bergmann 
+Faheem Khan 
+Camerlengo 
+Michael Sandstod 
+Hwa Kay 
+Shaun Pollock 
+Patrick Sylvestre 
+Osvaldo Fenandez 
+Anne Marken 
+Mahmoud Abbas 
+Luis Castilla 
+Dimitris Reppas 
+Shi-Ting Wang 
+Michael Doohan 
+Jacky Martens 
+Sebastien Lareau 
+Sidhu 
+Nomo 
+Tom Kiernan 
+Mark Woodforde 
+Siu Man 
+Phillip DeFreitas 
+Ijaya Indra 
+A. Brown 
+Faber 
+Freddy Pinas 
+Brady 
+Kenny Lofton 
+Cal Ripken 
+Mary Pierce 
+Paulo Sousa 
+Hussein 
+Roberto Benigni 
+Gianluca Corini 
+Nana Miyagi 
+Wijaya Indra 
+Paul Malin 
+Nelson 
+V. Drakes 
+G. Thorpe 
+Linford Christie 
+N. Mongia 
+Stuart Law 
+Gerard Kiely 
+Jean-Louis Debre 
+Ruben Kruger 
+Christian Ruud 
+Schultz-McCarthy 
+Gjon Buzuku 
+Haile Gebreselassie 
+Lien 
+Petr 
+Healy 
+Dieter Eilts 
+Gush 
+CRAWLEY 
+Rafter 
+Brian Gilbertson 
+Eva Boudova 
+Bob Wickman 
+Brigita Bukovec 
+Herman Wijffels 
+Key 
+Roy Aitken 
+Jens Todt 
+Goulnara Fatkoullina 
+Robert Kibet 
+Greg Gagne 
+Charvet 
+Lou Gehrig 
+Jan Siemerink 
+Niclas Fasth 
+Todd Martin 
+Glenn McGrath 
+One 
+Ronald Waterreus 
+Erickson 
+Richter 
+Daniele Polverino 
+Ion Iliescu 
+S. Tendulkar 
+Terry Phelan 
+Pedro Diniz 
+Remmy Mushota 
+Greer 
+Nicolas Charlier 
+Birendra 
+Joseph Keter 
+Alan Kelly 
+Stewart 
+Ottavio Palladini 
+Jim Edmonds 
+Regina Jacobs 
+Louise Siebens 
+Tony Johnstone 
+Jeff Bagwell 
+Masanaga Shiohara 
+Akashi 
+D. Flemming 
+L. Botham 
+Olly 
+Sarah Brady 
+Basie Smit 
+Fernanda Ribeiro 
+W. Noon 
+Edward Said 
+Ronald Reagan 
+Angeles Montolio 
+N. Speak 
+John Kornblum 
+Derek Jeter 
+Zarak Jahan Khan 
+Larisa Neiland 
+Jennifer Flavin 
+Gilbert Schaller 
+David Williams 
+Majoli 
+Cy Young 
+Sanath Jayasuriya 
+Duffy Waldorf 
+Javier Frana 
+Pessina 
+Smerdon 
+Gary DiSarcina 
+Bernhard Langer 
+Eveningperformance 
+Vladimir Dubrovshchik 
+Peter Dirkx 
+GROBBELAAR 
+van der Sar 
+Jose Herrera 
+Megawati Sukarnoputri 
+Osmond Ezinwa 
+Isaac Viciosa 
+Susan Roosevelt Weld 
+David Brabham 
+Richard Kosgei 
+Lubarskij 
+Verstappen 
+O'Brien 
+1ama 
+Giovanni 
+Alain Caveglia 
+Otis Nixon 
+YORK 
+Michael Jones 
+D. Cork 
+McGriff 
+Jumbish 
+Humberto Hueite Zyrecha 
+Rios 
+Kim Young Sam 
+Stephen Pate 
+Juliana 
+William Goldiner 
+Firmin Gatera 
+G. Flower 
+Brown 
+Slobodan Milosevic 
+Olascoaga Mugica 
+Christian Ruuttu 
+John Hartson 
+Albert 
+Suvit Maenmuan 
+Jeff Williams 
+Taylor 
+Hashimoto 
+Sri 
+REDGRAVE 
+Boardman 
+Anton Drobnjak 
+Hever Golf Rose 
+Jose Maria Aznar 
+Sameh Haj Yihye 
+GREER 
+Rocky Coppinger 
+Mats Wilander 
+Todor Zhivkov 
+Ekimov 
+Jonah Lomu 
+Dostum 
+Ducruet 
+Sharif 
+D. Millns 
+Nick Faldo 
+Natalia Voronova 
+Jim Hines 
+Richard Wisinga 
+Rouxel 
+Luis Polonia 
+Allen 
+Weizman 
+Mark Thompson 
+Vicente 
+Michelle Martin 
+Dharmasena 
+Massoud Rajavi 
+Sarka Kasparkova 
+Idriss Deby 
+Lori McNeil 
+Jim Furyk 
+Markus Babbel 
+Craig Dowd 
+Fung Permadi 
+Bombarda 
+Endt 
+Corey Pavin 
+M. Karunanidhi 
+O'Neal 
+Robert Pires 
+Saeed Hasan 
+Alomar 
+V. Solanki 
+Alex Arias 
+Vitesse 
+Yoka Lye Mudaba 
+M. Atherton 
+Rashid Latif 
+Sigeki Maruyama 
+Abu Liwaya 
+Ishwari Boopathy 
+Haga 
+Sergey Makarov 
+Anthony Nyakyi 
+Margret Crowley 
+Sebastian Lindholm 
+Paul Strang 
+Zdenek Svoboda 
+MaliVai Washington 
+Cork 
+Liu Lufung 
+Arkadiusz Bak 
+Mike Gatting 
+J. Russell 
+Glyn Davies 
+Graeme Hick 
+Adel Ibrahim 
+Lindy Remigino 
+Ewald Brenner 
+Lincoln 
+Jari Litmanen 
+Mariusz Srutwa 
+Hasely Crawford 
+James Baldwin 
+Juan Lopez 
+Takeda 
+Kristina Brandi 
+Gualtiero Fulcheri 
+Carlos Delgado 
+Peter Lerner 
+Jodie Foster 
+Bob Willis 
+Ingrid Haringa 
+Manuel Alvarado 
+Prince Charles 
+Raphael Riel 
+Hanifah Komala 
+Pauline Konga 
+Antonio Quarracino 
+Nail Besirovic 
+Franco Baresi 
+Angelica Gavaldon 
+Ricky Ponting 
+Bill Russell 
+Joao Pinto 
+C. Ambrose 
+Jansher Khan 
+Stephen Ames 
+Michael Welch 
+Warhurst 
+Masood 
+Edhem Efendija Camdzic 
+Ahmed Kafawin 
+D. Ripley 
+Danny Rose 
+Keiron Henderson 
+Caminiti 
+O'Neill 
+Ferenc Horvath 
+Alexandre Comisetti 
+Martin Keino 
+John Paul 
+Ludmila Engquist 
+David Harding 
+Bart Voskamp 
+Aleix Vidal-Quadras 
+Patrick Sang 
+Marco Pascolo 
+Muttiah Muralitharan 
+Gress 
+Tendulkar 
+Veerle De Jaeghere 
+Machado 
+Maggie Maleeva 
+Rodney Mosier 
+Said 
+Andy Townsend 
+Napoleon III 
+Juergen Kohler 
+ARANYAPRATHET 
+Gideon Chirchir 
+Levy 
+Klimis Alexandrou 
+Fabrizio Ravanelli 
+Grabowksi 
+Andreas Moeller 
+Michael Astrue 
+Shehu 
+Palmer 
+Yasushi Akashi 
+Thierry Dehaan 
+Leander Paes 
+Samper 
+After 
+Drew 
+Alexandre Gontchenkov 
+C. White 
+Buffett 
+POLLOCK 
+Agnieszka Kotlarska 
+Anders Thoren 
+Corey Pointer 
+Karol Kucera 
+Chanda Rubin 
+Frank Bunce 
+Godee 
+Reynolds 
+Brunswijk 
+Giunluca Gorini 
+Carlos Sainz 
+Batchelor 
+Schwabl 
+Henrietta Nagyova 
+FOWLER 
+Chinnathambi 
+Macdonald 
+MITCHELL 
+Kazimierz Socha 
+William Goldman 
+Helmer 
+Wayne Ferreira 
+Younes El Aynaoui 
+Gary Emerson 
+MARTINEZ 
+Roche 
+A. Stewart 
+R. Dravid 
+Graham Gooch 
+Corser 
+Sandra O'Neal 
+Ai Sugiyama 
+Rob Enderle 
+Jean-Marc Gounon 
+King Hassan 
+.Giuseppe Citterio 
+Peter Baker 
+Hideo Nomo 
+God 
+Johnny Herbert 
+Davis Love 
+John Mayock 
+Sainz 
+Steven Redgrave 
+Gulbuddin Hekmatyar 
+Daryll Cullinan 
+Tony Hands 
+James Lee Williams 
+Snyman 
+Juan Guillermo Londono 
+Majid Takht Ravanchi 
+Scott Winkler 
+Miguel Angel Martin 
+Elias Moosa 
+Kotlarska 
+Bernd Karbacher 
+Thomas S 
+Yayuk Basuki 
+Neale Fraser 
+Rafael Palmeiro 
+Samson Kitur 
+Nanda Gopal Bhattacharya 
+Fred Trueman 
+Susan Smith 
+Cristina Torrens-Valero 
+Craig Wishart 
+Gary Kelly 
+Dekker 
+Franny 
+Falilat Ogunkoya 
+SCHUMACHER 
+David Wheaton 
+Theybers 
+Grzegorz Krejner 
+OWENS 
+Jordi Cruyff 
+Ciriaco Sforza 
+Simon 
+Steve Howey 
+Gilbert Le Gras 
+Giuly 
+Asif Mujtaba 
+Joel Smets 
+Leeds 
+Stephen Nisbet 
+Georgios Chimonetos 
+Rudolf Gajdos 
+David Howell 
+Helder Cristovao 
+Malgorzata Rydz 
+Rika Hiraki 
+B. Yeltsin 
+Joyce Liu 
+Pollock 
+Geoff Marsh 
+Bruny Surin 
+Ismail Boulahya 
+Kennedy 
+Numan 
+Sarah Thorsett 
+Gutenstein 
+Museeuw 
+Frederic Vitoux 
+Glenn Hoddle 
+Bobby Valentine 
+Wing Pieter Hendriks 
+Jans Koerts 
+Rene Schneider 
+Larsson 
+Ejup Bajgora 
+Olofsson 
+Claus Manne Nielsen 
+Seguy 
+Nitto Santapaola 
+Agassi 
+Fernando Meligeni 
+Dominic Cork 
+Paul Reiffel 
+CROFT 
+O.K. Likkason 
+FERGUSON 
+Francis Agyepong 
+Amer Hishem Ali Mohammed 
+Galina Enioukhina 
+KNUP 
+Pizzi 
+Oncins 
+Wolk 
+Philip Kibitok 
+Joakim Haeggman 
+Inga Babakova 
+Dan Pudvah 
+Skandalidis 
+Nicolas Lapentti 
+Jordan 
+Munakarmi 
+Liu Lu 
+Steve Jones 
+Ines Gorrochategui 
+Toomas Savi 
+Reuf Mehemdagic 
+Amy Frazier 
+Ebe Huizinga 
+Caesar Mazzolari 
+Ravindra Pushpakumara 
+Liutauras Stremaitis 
+Tamas Erdei 
+Issa Alloush 
+Debbie Graham 
+Eddie Hedaya 
+MCRAE 
+Letitia Vriesde 
+Jane Quigley 
+Hope 
+DALGLISH 
+Lombardi 
+John Regis 
+Etienne Mendy 
+Capiot 
+Tim Wakefield 
+I. Salisbury 
+Max Sciandri 
+Raichev 
+Gilbert Gress 
+Umar Shelling 
+A. Fraser 
+Fujiwara 
+Rosemary Bennett 
+Derek Ringer 
+Watts 
+Head 
+Jerome Egurugbe 
+Andrea Ferrigato 
+C. Hooper 
+Marcelo Salas 
+Luis Miguel Predrosa 
+SOSA 
+Ken Goldstein 
+Toronto Dominion 
+Jose Maria Canizares 
+When 
+Burcin Mavituna 
+Ian Woosnam 
+Diana 
+Conde 
+Aleksandra Olsza 
+Pat Manson 
+Jean-Philippe Fleurian 
+Bartlomiej Jamroz 
+Finn 
+Khadga 
+Kyle Abbott 
+Patricia Smith 
+M. Bevan 
+Georges Simenon 
+Colin Hope 
+Arafat 
+M. Moxon 
+Darius Milhaud 
+Greg Turner 
+Olo Brown 
+Sorrento 
+Richard 
+Jens Lehman 
+Hennady Udovenko 
+Ricky Willison 
+Chryste Gaines 
+Roger Clemens 
+Ijaz 
+Anita Gradin 
+Washington 
+Filip Dewulf 
+Howard Johnson 
+Mirhunisa Komarica 
+Andrei Olhovskiy 
+Rabbani 
+Susana Siegfried 
+Marcel Malone 
+Jill Craybas 
+Sultan 
+Paul Sorrento 
+Adriana Serra-Zanetti 
+Fanie de Villiers 
+LONDON 
+S. Campbell 
+Virgilius Alekna 
+Botham 
+Gareth Farrelly 
+Moeller 
+Robert Croft 
+Virna De Angeli 
+Larsen 
+Local 
+O.J. Simpson 
+Aguirre 
+Gail Devers 
+Jorge 
+BAILEY 
+Sergei Yastrzhembsky 
+Mariano Friedick 
+Hansma 
+P.W. Botha 
+Nick Mokhoff 
+Ilian Simeonov 
+Gillian Russell 
+Rui Madeira 
+Dean Richards 
+M. Lathwell 
+Margit Borg 
+Jacob Hlasek 
+Nathalie Lancien 
+Ian Pyman 
+Hristo Stoichkov 
+John Allen 
+Jose Coceres 
+Adams 
+Gigi Fernandez 
+Sandra Cecchini 
+Vaclavas Kidikas 
+Sergei Mironov 
+Lefevre 
+NICE 
+Fredi Bobic 
+Salim Malik 
+Ray Belim 
+Sieg 
+SMICER 
+Ray Durham 
+Karsten Richardt 
+Dugmore 
+Pol Pot 
+Mate Granic 
+Bose 
+Darryn Hill 
+A. Flower 
+Marek Citko 
+Alain Juppe 
+Philip Cocu 
+Shigeki Maruyama 
+Khaled al-Qidra 
+Alessandro Baronti 
+Vogts 
+Alexander Downer 
+Sanchez 
+Stromme 
+Moin Khan 
+Renzo Furlan 
+S. Jayasuriya 
+Johnny Bench 
+Henri Konan Bedie 
+John Howard 
+Krishnamoorthy 
+Naish 
+Leon van der Wath 
+Lauren Ottoz 
+Olsza 
+Rizzitelli 
+Adam Fedoruk 
+FERRIGATO 
+Scott Draper 
+Svetlana Masterkova 
+Jiri Novak 
+Greg Frost 
+Jack Charlton 
+Tanya Dubnicoff 
+Naina 
+V. Prasad 
+DeJesus 
+Gray 
+Mary Onyali 
+Steve Schneiter 
+Marc Duvillard 
+Christie 
+P. Prichard 
+STICH 
+Graham Thorpe 
+Wang Chen 
+Abel Anton 
+Maria Antonio Sanchez Lorenzo 
+Gildea 
+Steve Finley 
+Max van Heeswijk 
+Andre Bois 
+Enrico Chiesa 
+Nikolaus van der Pas 
+Hamming 
+Jane Chi 
+Terry Mulholland 
+Hicham El Guerrouj 
+Michele Fanton 
+Alan Moore 
+Eduardo Romero 
+Raniero Iacomella 
+Bachirou Salou 
+Oscar Tabarez 
+Natalya Voronova 
+Aloys Nizigama 
+It 
+Ludmila Richterova 
+, 
+Arnold Ruutel 
+Yelena 
+Marcel Desailly 
+Zeljko Petrovic 
+Kurt Betschart 
+Rodney Eyles 
+Aryeh Shumer 
+Heiki Kranich 
+Bobby Robson 
+Karina Adams 
+Antoine Lebouc 
+Tutu 
+Ronny Brunswijk 
+R. Harden 
+Sabine Appelmans 
+Vialle 
+Rafiqul Islam 
+Mariaan de Swardt 
+William VanLandingham 
+Hafez al- 
+David J. Russell 
+Alex Fernandez 
+Pedro Lamy 
+Seve Ballesteros 
+Jean-Pierre Cyprien 
+John den Braber 
+Maslowe 
+Franka Dietzsch 
+Irani 
+Cindana 
+Edward Smith 
+Guillaume Raoux 
+Al Gore 
+Yelena Gulyayeva 
+Julian Tavarez 
+Marc Hottiger 
+Guivarc'h 
+Taha 
+Robert Allenby 
+Inderjit Gupta 
+Anthuan Maybank 
+Salah Hissou 
+Jim Brumm 
+Carl Lewis 
+Philippe Seguin 
+Brad Hogg 
+Steven Bottomley 
+Zorc 
+Carlo Hoffmann 
+Thierry Henry 
+Cruyff 
+Sally Barsosio 
+Alicia Machado 
+Paul Thompson 
+Mickey Cochrane 
+Joe Carter 
+Jerry Schein 
+M. Watkinson 
+Kuhn 
+S. Waugh 
+Van Doorn 
+VOGTS 
+Lynch 
+Voskamp 
+Catherine McKiernan 
+N. Furuya 
+Gorre 
+Hong Bui 
+Jacques Kallis 
+Rosati 
+Julie Tolkacheva 
+Chakravarty Rangarajan 
+Janez Drnovsek 
+Jacques Toubon 
+William Boston 
+Bhutto 
+Steve Weizman 
+Gupta 
+Royal Ascot 
+Borkus 
+Charles Nagy 
+Tim Henman 
+Alex Rodriguez 
+Culhane 
+WASIM AKRAM 
+Popov 
+H. Wada 
+Mosier 
+B. Hogg 
+Roberto Alomar 
+Stoltenberg 
+Midfielders 
+Bill Birch 
+Erdei 
+Maria Mutola 
+Herschelle 
+Tommy Martyn 
+Zicot 
+Mike McCurry 
+Anna Knoroz 
+Daniel Komen 
+Lachlan Drummond 
+Patricia Lezama 
+Gianni Bugno 
+Enderle 
+Murphy Jensen 
+Silke Renk 
+Juan Somavia 
+Bruce Grobbelaar 
+Little 
+Lars Riedel 
+Derek Crookes 
+Neil Fairbrother 
+Christian Meidlinger 
+Stefano Tilli 
+Mohamed Azharuddin 
+Bancarel 
+Anthony Hill 
+Nestor 
+Belmondo 
+Demel 
+Woolmer 
+Ischinger 
+Miltiadis Evert 
+Bernard Barmasai 
+Ranatunga 
+David Prinosil 
+Fernando Roca 
+Paul Broadhurst 
+Imran Khan 
+Travis Fryman 
+Palmeiro 
+Clontz 
+Paul Johnson 
+Shane Kelly 
+Lopez 
+Griffiths 
+Julius Nyrere 
+Alan Greenspan 
+Gary Lauck 
+Rodham Clinton 
+Kostantin Matusevitch 
+Emanuil Ceausu 
+Hal Sutton 
+Steffen Freund 
+-- Dimitris Kontogiannis 
+BAGHDAD 
+David Coulthard 
+Kankunnen 
+Grabowski 
+Bernard Tapie 
+- 
+Lupu 
+Julian Wellings 
+Wagle 
+Costas Skandalidis 
+Ravanelli 
+Nigel Mobbs 
+Jose Rosado 
+Her 
+Leonardo 
+Tatyana Dmitrieva 
+Nelson Miles 
+Antonio Folha 
+Wim Omloop 
+Paul Koech 
+Mark Dekker 
+Brian McMillan 
+Ronald Brunmayr 
+Parliamentary 
+Driller 
+Peter Johansson 
+Hall 
+Arthur Levitt 
+Andrea Collinelli 
+Steve McManaman 
+John Simon 
+Chuck Adams 
+Johan Boonen 
+Andre 
+Worku Bekila 
+James 
+Muralitharan 
+MAKINEN 
+Warren Buffett 
+Fischler 
+Weinstein 
+Engquist 
+Tadayuki Okada 
+Philip Walton 
+Phil Babb 
+Thily 
+Scott Hoch 
+Andrei Tchmil 
+Kinkel 
+Eric Rush 
+Julia Vaquero 
+Michael Marsh 
+Maryborough 
+Lixion Avila 
+Yvan Quentin 
+John Gilardi 
+Bernd Schiphorst 
+Marina Volkova 
+Dhiraj K.C. 
+Chong Tan Fook 
+Howard 
+Sebastien Fournier 
+Lewis 
+NORTHAMPTON 
+Maarten den Bakker 
+Tapie 
+More 
+Andy Flower 
+Vicente Solano Lima 
+Marty Nothstein 
+White 
+Mohammad Akam 
+Omar Bongo 
+Posner 
+P. Reiffel 
+Mohamed Zejjari 
+Stewart Ginn 
+PRESCOTT 
+Sam Victor Malu 
+Paul Haarhuis 
+Ronan Rafferty 
+Karsten Baeron 
+Rohan Robinson 
+Whittall 
+SORENSEN 
+Perot 
+Yevgeny Primakov 
+Guzman 
+George Bush 
+Eduardo Bernini 
+Tony Vairelles 
+Mr Clean 
+Jacques Villeneuve 
+Dimitrios Georgalis 
+Bongo 
+Oliver Reck 
+Joannette Kruger 
+Yekaterina Podkopayeva 
+Vitor Baia 
+Eugen Voica 
+Musa Hamiti 
+Andersson 
+Drobnjak 
+Lovell 
+Erdmann 
+Michel Bourlet 
+Saeed Anwar 
+Moore 
+Kenny Rogers 
+Belcher 
+Stephen McAllister 
+Peres 
+Cheary 
+Albert Belle 
+Komarica 
+Sjeng Schalken 
+Teutenberg 
+Benazir 
+Nahed Dahlan 
+Janet Reno 
+Craig Evans 
+Kennedys 
+Dariusz Jackiewicz 
+Mika Hakkinen 
+Yone Kamio 
+Michael Joyce 
+Xavier Gravelaine 
+Michael Hubner 
+Kornblum 
+Richard Krajicek 
+Geronimo 
+Omar Lugo 
+Mind Games 
+Angelo Medeghini 
+Here 
+Lansana Conte 
+Carol Perry 
+Dahman 
+Byas 
+Arthur Numan 
+John Lloyd Jones 
+Jason Weaver 
+Knight 
+Tatyana Jecmenica 
+Tim Herron 
+Tony Whiteman 
+Nicoleta Grasu 
+Ilott 
+Massoud Barzani 
+H.D. Deve Gowda 
+Fabien Lefevre 
+Gregory Carraz 
+Avraham Tamir 
+Deon Hemmings 
+Martin 
+Jan Van Eijden 
+GPG 
+Eliud Barngetuny 
+Dragutin Stanojlovic 
+Alicia 
+Bartha 
+-DOCSTART- Clinton 
+Steady Eddie 
+Julia Carling 
+Doreen Siow 
+Wally Joyner 
+Nastase 
+Lyman 
+Budge Weidman 
+Hundreds 
+Emanuele Canonica 
+On 
+Bob Woolmer 
+Mokhoff 
+Max Marriner 
+Winkler 
+Kan 
+Butare 
+Dejan Stefanovic 
+Claudio Moura 
+Itamar Rabinovich 
+COLONNA 
+Clinton 
+Bradys 
+Aslan Maskhadov 
+Bob Brett 
+Roy Keane 
+Inzamam-ul-Haq 
+Gianluca Pozzi 
+Benoit Cauet 
+Sandra Cacic 
+Ian Jones 
+Boeta Wessels 
+Indra Wijaya 
+Filippo Veglio 
+Andrejez Wozniak 
+Tom Lodge 
+Ruth Collin 
+Campbell 
+Ruch 

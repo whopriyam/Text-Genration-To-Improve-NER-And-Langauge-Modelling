@@ -119,7 +119,7 @@ for i in data.index:
 
 data.to_csv("data_tag_transformed.csv",index=False)
 
-#Total 47959 sentences
+#Total 7390 sentences
 sentence_list = []
 
 #Creating the templates
@@ -142,8 +142,8 @@ print (sentence_list[0])
 with open("templates_gen.txt", 'w') as output:
     for i in range(0,len(sentence_list)):
         if i != len(sentence_list)-1:
-            output.write(sentence_list[i] + " | " +'\n' + '\n')
+            output.write("( "+sentence_list[i] + " )"+" | " +'\n' + '\n')
         else:
-            output.write(sentence_list[i] + "; ")
+            output.write("( "+sentence_list[i] + " )" + "; ")
 
-#47960
+#7390 sentences
